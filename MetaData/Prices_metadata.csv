@@ -1,0 +1,1428 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Waarde onroerende zaken van woningen en niet-woningen 1997-2020";"Waarde onroerende zaken 1997-2020";"37610";"Waarde onroerende zaken van woningen en niet-woningen.
+Naar Landsdeel, Provincie, COROP, Gemeente. ";"2020-09-10T02:00:00";"Stopgezet";"";"nl";"CBS";"Stopgezet";"1997- 2020";"
+In deze tabel worden op basis van de Wet Waardering Onroerende Zaken (WOZ) gegevens over de waarde per 1 januari van alle onroerende zaken (WOZ-objecten) gepubliceerd. De cijfers worden uitgesplitst naar waarde van de WOZ-objecten woningen en niet-woningen en de gemiddelde woningwaarde. De cijfers zijn verder uitgesplitst naar landsdeel, provincie, COROP-gebied en gemeente.
+
+Met ingang van verslagjaar 2016 publiceert CBS geen gegevens meer over grootstedelijke agglomeraties en stadsgewesten. 
+Door diverse maatschappelijke ontwikkelingen zijn de filosofie en methode die ten grondslag liggen aan de afbakening niet langer actueel. 
+Daarnaast blijkt dat andere instanties, afhankelijk van het toepassingsgebied, een afwijkende indeling van grootstedelijke agglomeraties en stadsgewesten hanteren, waardoor er niet meer gesproken kan worden van één standaard.
+
+Voor gemeenten waar een gemeentelijke herindeling heeft plaatsgevonden, zijn de cijfers tussen de jaren niet goed vergelijkbaar. 
+
+Gegevens beschikbaar van 1997 tot en met 2020.
+
+Status van de cijfers:
+Het betreft de stand per 1 januari. 
+
+De cijfers tot en met 2017 zijn definitief.
+De cijfers van 2018 zijn nader voorlopig.
+De cijfers van 2019 en 2020 zijn voorlopig.
+Aangezien deze tabel is stopgezet, worden de gegevens niet meer definitief gemaakt. 
+De voorlopige en nader voorlopige cijfers geven de waarden volgens de oorspronkelijke WOZ-beschikking weer. In de definitieve cijfers zijn de wijzigingen als gevolg van bezwaar en beroep verwerkt. 
+
+Wijzigingen per 11 maart 2022:
+Geen, deze tabel is stopgezet.
+
+Wanneer komen er nieuwe cijfers?
+Niet meer van toepassing. 
+Deze tabel wordt opgevolgd door Gemiddelde WOZ-waarde van woningen op 1 januari; eigendom, regio. Zie paragraaf 3.
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+In deze tabel worden op basis van de Wet Waardering Onroerende Zaken (WOZ) gegevens over de waarde per 1 januari van alle onroerende zaken (WOZ-objecten) gepubliceerd. De cijfers worden uitgesplitst naar waarde van de WOZ-objecten woningen en niet-woningen en de gemiddelde woningwaarde. De cijfers zijn verder uitgesplitst naar landsdeel, provincie, COROP-gebied en gemeente.
+
+Met ingang van verslagjaar 2016 publiceert CBS geen gegevens meer over grootstedelijke agglomeraties en stadsgewesten. 
+Door diverse maatschappelijke ontwikkelingen zijn de filosofie en methode die ten grondslag liggen aan de afbakening niet langer actueel. 
+Daarnaast blijkt dat andere instanties, afhankelijk van het toepassingsgebied, een afwijkende indeling van grootstedelijke agglomeraties en stadsgewesten hanteren, waardoor er niet meer gesproken kan worden van één standaard.
+
+Voor gemeenten waar een gemeentelijke herindeling heeft plaatsgevonden, zijn de cijfers tussen de jaren niet goed vergelijkbaar. 
+
+Gegevens beschikbaar van 1997 tot en met 2020.
+
+Status van de cijfers:
+Het betreft de stand per 1 januari. 
+
+De cijfers tot en met 2017 zijn definitief.
+De cijfers van 2018 zijn nader voorlopig.
+De cijfers van 2019 en 2020 zijn voorlopig.
+Aangezien deze tabel is stopgezet, worden de gegevens niet meer definitief gemaakt. 
+De voorlopige en nader voorlopige cijfers geven de waarden volgens de oorspronkelijke WOZ-beschikking weer. In de definitieve cijfers zijn de wijzigingen als gevolg van bezwaar en beroep verwerkt. 
+
+Wijzigingen per 11 maart 2022:
+Geen, deze tabel is stopgezet.
+
+Wanneer komen er nieuwe cijfers?
+Niet meer van toepassing. 
+Deze tabel wordt opgevolgd door Gemiddelde WOZ-waarde van woningen op 1 januari; eigendom, regio. Zie paragraaf 3.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Woning
+Onroerende zaak die in hoofdzaak wordt gebruikt voor wonen.
+De woningen worden in drie groepen onderscheiden:
+1. Woningen dienend tot hoofdverblijf
+Hieronder wordt verstaan onroerende zaken die als één geheel gedurende het gehele jaar worden gebruikt om in te wonen.
+2. Woningen met praktijkruimte
+We verstaan hieronder een onroerende zaak die in hoofdzaak wordt gebruikt voor woondoeleinden of  waarin de bewoner tevens in het kader van een zelfstandig beroep of bedrijf activiteiten verricht of welke bedrijfsmatige activiteiten het karakter hebben van praktijk aan huis in de sfeer van de vrije beroepen (arts, fysiotherapeut, notaris, accountant) of waarbij het feit dat een zelfstandig beroep of bedrijf wordt uitgeoefend, blijkt uit een aankondiging die vanaf de openbare weg zichtbaar is of waarbij het mogelijk is een deel van de onroerende zaak aan te wijzen waar deze activiteiten plaatsvinden.
+3. Recreatiewoningen en overige woningen
+Dit zijn onroerende zaken die gedurende een deel van het jaar worden gebruikt voor woondoeleinden en waarbij het gebruik gedurende een deel van het jaar beperkt is of het zijn niet-zelfstandige eenheden, zoals studentenkamers, bejaardentehuizen, zusterflats en kloosters of onroerende zaken die ter beschikking staan aan het wonen zoals een aparte garage of schuur bij een woning. Hiermee wordt bereikt dat het voor de WOZ-waarde geen verschil maakt of de garage samen met de woning een onroerende zaak is of dat de garage een afzonderlijke onroerende zaak is.
+
+Niet-woning
+Onroerende zaak die in hoofdzaak wordt gebruikt voor bedrijfsmatige activiteiten.
+De niet-woningen worden in vier groepen onderscheiden:
+1. Boerderijen 
+Dit is een onroerende zaak, waarvan het gebruik (wonen of bedrijfsmatige activiteiten) direct verbonden is met de bedrijfsmatige exploitatie van cultuurgrond. Tot deze categorie behoren ook tuindersbedrijven. Woonboerderijen behoren niet tot de categorie boerderij. Woonboerderijen zijn woningen. Ook voormalige boerderijen waarin nu een ander bedrijf wordt uitgeoefend (bijvoorbeeld kantoor of winkel) zijn geen boerderij, maar bijvoorbeeld niet-woning.
+2. Niet-woningen deels in gebruik als woning 
+Dit is een onroerende zaak die in hoofdzaak wordt gebruikt voor andere dan woondoeleinden en waarvan de aard zodanig is dat gebruik van de gehele onroerende zaak als woning niet voor de hand ligt (bijvoorbeeld een woonwinkelpand dat op grond van de objectafbakeningsregels als één onroerende zaak aangemerkt moet worden).
+3. Niet-woningen 
+Niet-woningen zijn onder andere  een onroerende zaak die geheel wordt gebruikt voor andere dan woondoeleinden en onroerende zaken waar het wonen is gecombineerd met andere functies (hotels, pensions, verpleeghuizen, gevangenissen).
+4. Terreinen
+Dit zijn ongebouwde onroerende zaken, zoals bijvoorbeeld niet bedrijfsmatig geëxploiteerde cultuurgrond, sportvelden en bouwgrond (waar nog geen bouwactiviteiten zijn verricht).
+
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+De belastingcapaciteit van WOZ-objecten woningen en niet-woningen is te vinden in de tabel: <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/60039FVW'>Maatstaven Financiële verhoudingswet</a> bij het onderwerp 'Vastgoed'.
+
+Meer gegevens over waarde van woningen zijn te vinden op themapagina: <a href='https://www.cbs.nl/nl-nl/economie/bouwen-en-wonen'>Bouwen en wonen</a>.
+Meer informatie over gemeentelijke herindelingen: <a href='https://www.cbs.nl/nl-nl/economie/bouwen-en-wonen'>Bouwen en wonen</a>.
+
+Deze tabel wordt opgevolgd door <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85036NED'>Gemiddelde WOZ-waarde van woningen op 1 januari; eigendom, regio</a>.
+
+4. BRONNEN EN METHODEN
+
+Het CBS verzamelt vanaf 1997 gegevens over de waarde van het onroerend goed op basis van de Wet Waardering Onroerende Zaken (WOZ) die sinds 1 januari 1995 van kracht is. Deze wet verplicht gemeenten alle onroerend zaken (WOZ-objecten), inclusief al het in aanbouw zijnde en leegstaande onroerend goed, binnen de gemeentegrenzen periodiek te taxeren en de aldus vastgestelde WOZ-waarde te gebruiken bij het bepalen van onder andere de gemeentelijke aanslag onroerendezaakbelastingen (OZB).
+
+Het eerste WOZ-tijdvak liep van 1 januari 1997 tot en met 31 december 2000 met als taxatiepeildatum 1 januari 1995. Dit betekent dat gemeenten gedurende de verslagjaren 1997 tot en met 2000 de onroerende zaken hebben getaxeerd naar de waarde op 1 januari 1995. 
+De taxatiepeildatum voor de verslagjaren 2001 tot en met 2004 is 1 januari 1999.
+De taxatiepeildatum voor de verslagjaren 2005 en 2006 is 1 januari 2003. 
+De taxatiepeildatum voor het verslagjaar 2007 is 1 januari 2005. 
+De taxatiepeildatum voor het verslagjaar 2008 is 1 januari 2007. 
+Vanaf 2008 worden onroerende zaken getaxeerd naar de waarde van 1 januari van het voorgaande jaar.
+
+De beschrijving van het onderzoek is te vinden bij: <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/waardering-onroerende-zaken--woz--'>Waardering onroerende zaken (WOZ)</a>.
+
+Overige informatie over de vastgoedstatistieken is te vinden bij: <a href='https://www.cbs.nl/nl-nl/deelnemers-enquetes/deelnemers-enquetes/decentrale-overheden/overzicht/vastgoed'>Vastgoed</a>.
+
+
+
+
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (©) Centraal Bureau voor de Statistiek, Den Haag/Heerlen
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.
+
+";"ts=1646752317253&graphtype=Table&r=RegioS,Perioden&k=Topics&_gu=NL";"$filter=((Perioden eq '2011JJ00') or (Perioden eq '2012JJ00') or (Perioden eq '2013JJ00') or (Perioden eq '2014JJ00') or (Perioden eq '2015JJ00') or (Perioden eq '2016JJ00') or (Perioden eq '2017JJ00') or (Perioden eq '2018JJ00') or (Perioden eq '2019JJ00') or (Perioden eq '2020JJ00')) and ((RegioS eq 'NL01  ') or (RegioS eq 'GM0363') or (RegioS eq 'GM0518') or (RegioS eq 'GM0599') or (RegioS eq 'GM0344') or (substringof('PV',RegioS)))&$select=Perioden, RegioS, TotaalOnroerendeZaken_1, Woningen_2, NietWoningen_3, GemiddeldeWoningwaarde_4";"Table,Bar,Line,Map";"Gediscontinueerd";"CBS.";"2022-03-11T02:00:00";"1"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"GeoDimension";"RegioS";"Regio's";;;;;;
+"1";"1";;"TimeDimension";"Perioden";"Perioden";"Selecteren van de jaren";"true";;;;
+"2";"2";;"Topic";"TotaalOnroerendeZaken_1";"Totaal onroerende zaken";"De totale waarde van alle, in het kader van de wet Waardering Onroerende Zaken (WOZ), gewaardeerde WOZ-objecten, per 1 januari.";;"Double";"mln euro";"0";"Impossible"
+"3";"3";;"Topic";"Woningen_2";"Woningen";"Waarde van de WOZ-objecten woningen, per 1 januari.
+
+Tot de woningen behoren die onroerende zaken die in hoofdzaak worden gebruikt voor wonen.
+De woningen worden in drie groepen onderscheiden:
+1. Woningen dienend tot hoofdverblijf
+Hieronder wordt verstaan onroerende zaken die als één geheel gedurende het gehele jaar worden gebruikt om in te wonen.
+2. Woningen met praktijkruimte
+We verstaan hieronder een onroerende zaak die in hoofdzaak wordt gebruikt voor woondoeleinden of  waarin de bewoner tevens in het kader van een zelfstandig beroep of bedrijf activiteiten verricht of welke bedrijfsmatige activiteiten het karakter hebben van praktijk aan huis in de sfeer van de vrije beroepen (arts, fysiotherapeut, notaris, accountant) of waarbij het feit dat een zelfstandig beroep of bedrijf wordt uitgeoefend, blijkt uit een aankondiging die vanaf de openbare weg zichtbaar is of waarbij het mogelijk is een deel van de onroerende zaak aan te wijzen waar deze activiteiten plaatsvinden.
+3. Recreatiewoningen en overige woningen
+Dit zijn onroerende zaken die gedurende een deel van het jaar worden gebruikt voor woondoeleinden en waarbij het gebruik gedurende een deel van het jaar beperkt is of het zijn niet-zelfstandige eenheden, zoals studentenkamers, bejaardentehuizen, zusterflats en kloosters of onroerende zaken die ter beschikking staan aan het wonen zoals een aparte garage of schuur bij een woning. Hiermee wordt bereikt dat het voor de WOZ-waarde geen verschil maakt of de garage samen met de woning een onroerende zaak is of dat de garage een afzonderlijke onroerende zaak is.
+";;"Double";"mln euro";"0";"Impossible"
+"4";"4";;"Topic";"NietWoningen_3";"Niet-woningen";"De waarde van WOZ-objecten niet-woningen, per 1 januari.
+
+De WOZ-objecten niet-woningen zijn de overige onroerende goederen waarin in hoofdzaak bedrijfsmatige activiteiten worden uitgevoerd.
+De niet-woningen worden in vier groepen onderscheiden:
+1. Boerderijen 
+Dit is een onroerende zaak, waarvan het gebruik (wonen of bedrijfsmatige activiteiten) direct verbonden is met de bedrijfsmatige exploitatie van cultuurgrond. Tot deze categorie behoren ook tuindersbedrijven. Woonboerderijen behoren niet tot de categorie boerderij. Woonboerderijen zijn woningen. Ook voormalige boerderijen waarin nu een ander bedrijf wordt uitgeoefend (bijvoorbeeld kantoor of winkel) zijn geen boerderij, maar bijvoorbeeld niet-woning.
+2. Niet-woningen deels in gebruik als woning 
+Dit is een onroerende zaak die in hoofdzaak wordt gebruikt voor andere dan woondoeleinden en waarvan de aard zodanig is dat gebruik van de gehele onroerende zaak als woning niet voor de hand ligt (bijvoorbeeld een woonwinkelpand dat op grond van de objectafbakeningsregels als één onroerende zaak aangemerkt moet worden).
+3. Niet-woningen 
+Niet-woningen zijn onder andere  een onroerende zaak die geheel wordt gebruikt voor andere dan woondoeleinden en onroerende zaken waar het wonen is gecombineerd met andere functies (hotels, pensions, verpleeghuizen, gevangenissen).
+4. Terreinen
+Dit zijn ongebouwde onroerende zaken, zoals bijvoorbeeld niet bedrijfsmatig geëxploiteerde cultuurgrond, sportvelden en bouwgrond (waar nog geen bouwactiviteiten zijn verricht).
+";;"Double";"mln euro";"0";"Impossible"
+"5";"5";;"Topic";"GemiddeldeWoningwaarde_4";"Gemiddelde woningwaarde";"Voor de bepaling van de gemiddelde woningwaarde wordt alleen gebruik gemaakt van die WOZ-objecten omschreven als woningen dienend tot hoofdverblijf en woningen met praktijkruimte met een waarde groter dan nul euro.";;"Double";"1 000 euro";"0";"Impossible"
+"RegioS"
+Key;Title;Description
+"NL01  ";"Nederland";""
+"LD01  ";"Noord-Nederland (LD)";"LD = Landsdeel
+
+Noord-Nederland: Groningen, Friesland, Drenthe
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD02  ";"Oost-Nederland (LD)";"LD = Landsdeel
+
+Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD03  ";"West-Nederland (LD)";"LD = Landsdeel
+
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD04  ";"Zuid-Nederland (LD)";"LD = Landsdeel
+
+Zuid-Nederland: Noord-Brabant, Limburg
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"PV20  ";"Groningen (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV21  ";"Friesland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV22  ";"Drenthe (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV23  ";"Overijssel (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV24  ";"Flevoland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV25  ";"Gelderland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV26  ";"Utrecht (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV27  ";"Noord-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV28  ";"Zuid-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV29  ";"Zeeland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV30  ";"Noord-Brabant (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV31  ";"Limburg (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"CR01  ";"Oost-Groningen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR02  ";"Delfzijl en omgeving (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR03  ";"Overig Groningen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR04  ";"Noord-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR05  ";"Zuidwest-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR06  ";"Zuidoost-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR07  ";"Noord-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR08  ";"Zuidoost-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR09  ";"Zuidwest-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR10  ";"Noord-Overijssel (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR11  ";"Zuidwest-Overijssel (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR12  ";"Twente (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR13  ";"Veluwe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR14  ";"Achterhoek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR15  ";"Arnhem/Nijmegen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR16  ";"Zuidwest-Gelderland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR17  ";"Utrecht (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR18  ";"Kop van Noord-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR19  ";"Alkmaar en omgeving (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR20  ";"IJmond (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR21  ";"Agglomeratie Haarlem (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR22  ";"Zaanstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR23  ";"Groot-Amsterdam (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR24  ";"Het Gooi en Vechtstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR25  ";"Agglomeratie Leiden en Bollenstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR26  ";"Agglomeratie 's-Gravenhage (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR27  ";"Delft en Westland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR28  ";"Oost-Zuid-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR29  ";"Groot-Rijnmond (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR30  ";"Zuidoost-Zuid-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR31  ";"Zeeuwsch-Vlaanderen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR32  ";"Overig Zeeland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR33  ";"West-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR34  ";"Midden-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR35  ";"Noordoost-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR36  ";"Zuidoost-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR37  ";"Noord-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR38  ";"Midden-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR39  ";"Zuid-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"CR40  ";"Flevoland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden."
+"GM1680";"Aa en Hunze";"Ontstaan per 01-01-1998"
+"GM0738";"Aalburg";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1973"
+"GM0358";"Aalsmeer";"Begindatum voor 1830"
+"GM0197";"Aalten";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0480";"Ter Aar";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM0305";"Abcoude";"Opgeheven per 01-01-2011
+Ontstaan per 01-05-1941"
+"GM0059";"Achtkarspelen";"Begindatum voor 1830"
+"GM0360";"Akersloot";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0482";"Alblasserdam";"Begindatum voor 1830"
+"GM0613";"Albrandswaard";"Ontstaan per 01-01-1985"
+"GM0483";"Alkemade";"Opgeheven per 01-01-2009
+Begindatum voor 1830"
+"GM0361";"Alkmaar";"Gemeentelijke herindeling per 01-01-2015
+Begindatum voor 1830"
+"GM0141";"Almelo";"Begindatum 01-12-1913"
+"GM0034";"Almere";"Ontstaan per 01-01-1984"
+"GM0484";"Alphen aan den Rijn";"Gemeentelijke herindeling per 01-01-2014
+Naamswijziging per 01-01-1918"
+"GM1723";"Alphen-Chaam";"Ontstaan per 01-01-1997"
+"GM1959";"Altena";"Ontstaan per 01-01-2019"
+"GM0142";"Ambt Delden";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM1679";"Ambt Montfort";"Opgeheven per 01-01-2007
+Naamswijziging per 01-02-1994"
+"GM0060";"Ameland";"Begindatum voor 1830"
+"GM0306";"Amerongen";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0307";"Amersfoort";"Begindatum voor 1830"
+"GM0198";"Ammerzoden";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0362";"Amstelveen";"Naamswijziging per 01-01-1964"
+"GM0363";"Amsterdam";"Begindatum voor 1830"
+"GM0364";"Andijk";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM0199";"Angerlo";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0105";"Anloo";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0366";"Anna Paulowna";"Opgeheven per 01-01-2012
+Begindatum 18-07-1870"
+"GM0200";"Apeldoorn";"Begindatum voor 1830"
+"GM0003";"Appingedam";"Begindatum voor 1830"
+"GM0885";"Arcen en Velden";"Opgeheven per 01-01-2010
+Begindatum 02-01-1839"
+"GM0202";"Arnhem";"Begindatum voor 1830"
+"GM0106";"Assen";"Begindatum voor 1830"
+"GM0743";"Asten";"Begindatum voor 1830"
+"GM0143";"Avereest";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0650";"Axel";"Opgeheven per 01-01-2003
+Begindatum voor 1830"
+"GM0744";"Baarle-Nassau";"Begindatum voor 1830"
+"GM0308";"Baarn";"Begindatum voor 1830"
+"GM0489";"Barendrecht";"Naamswijziging per 10-12-1886"
+"GM0203";"Barneveld";"Begindatum voor 1830"
+"GM0144";"Bathmen";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0005";"Bedum";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0888";"Beek (L.)";"Begindatum 02-01-1839"
+"GM1954";"Beekdaelen";"Ontstaan per 01-01-2019"
+"GM0370";"Beemster";"Begindatum voor 1830"
+"GM0889";"Beesel";"Begindatum 02-01-1839"
+"GM0107";"Beilen";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0890";"Belfeld";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM0007";"Bellingwedde";"Opgeheven per 01-01-2018
+Ontstaan per 01-09-1968"
+"GM0206";"Bemmel";"Naamswijziging per 01-01-2003
+Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0372";"Bennebroek";"Opgeheven per 01-01-2009
+Begindatum voor 1830"
+"GM1945";"Berg en Dal";"Naamswijziging per 01-01-2016"
+"GM0491";"Bergambacht";"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+"GM1724";"Bergeijk";"Naamswijziging per 25-09-1998"
+"GM0893";"Bergen (L.)";"Begindatum 02-01-1839"
+"GM0373";"Bergen (NH.)";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0748";"Bergen op Zoom";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0749";"Bergeyk";"Naamswijziging per 25-09-1998
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0207";"Bergh";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0492";"Bergschenhoek";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM0493";"Berkel en Rodenrijs";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM1859";"Berkelland";"Ontstaan per 01-01-2005"
+"GM1721";"Bernheze";"Naamswijziging per 28-01-1995"
+"GM0568";"Bernisse";"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1980"
+"GM0753";"Best";"Begindatum voor 1830"
+"GM0209";"Beuningen";"Begindatum voor 1830"
+"GM0375";"Beverwijk";"Begindatum voor 1830"
+"GM0063";"het Bildt";"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+"GM0310";"De Bilt";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0585";"Binnenmaas";"Opgeheven per 01-01-2019
+Gemeentelijke herindeling per 01-01-2007
+Ontstaan per 01-01-1984"
+"GM1728";"Bladel";"Ontstaan per 01-01-1997"
+"GM0376";"Blaricum";"Begindatum voor 1830"
+"GM0495";"Bleiswijk";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM0377";"Bloemendaal";"Gemeentelijke herindeling per 01-01-2009
+Begindatum voor 1830"
+"GM0055";"Boarnsterhim";"Opgeheven per 01-01-2014
+Naamswijziging per 03-01-1985"
+"GM0497";"Bodegraven";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM1901";"Bodegraven-Reeuwijk";"Ontstaan per 01-01-2011"
+"GM0755";"Boekel";"Begindatum voor 1830"
+"GM0009";"Ten Boer";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0064";"Bolsward";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM0211";"Borculo";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0108";"Borger";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM1681";"Borger-Odoorn";"Ontstaan per 01-01-1998"
+"GM0897";"Born";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM0147";"Borne";"Begindatum voor 1830"
+"GM0654";"Borsele";"Naamswijziging per 01-01-1970"
+"GM0499";"Boskoop";"Opgeheven per 01-01-2014
+Begindatum voor 1830"
+"GM0756";"Boxmeer";"Gemeentelijke herindeling per 01-01-1998
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+"GM0757";"Boxtel";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0212";"Brakel";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0758";"Breda";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0194";"Brederwiede";"Opgeheven per 01-01-2001
+Ontstaan per 01-01-1973"
+"GM0311";"Breukelen";"Opgeheven per 01-01-2011
+Ontstaan per 01-01-1949"
+"GM0501";"Brielle";"Begindatum voor 1830"
+"GM0898";"Broekhuizen";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM1876";"Bronckhorst";"Ontstaan per 01-01-2005"
+"GM0213";"Brummen";"Begindatum voor 1830"
+"GM0899";"Brunssum";"Begindatum 02-01-1839"
+"GM0759";"Budel";"Naamswijziging per 28-01-1998
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0312";"Bunnik";"Begindatum voor 1830"
+"GM0313";"Bunschoten";"Begindatum voor 1830"
+"GM0214";"Buren";"Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+"GM0381";"Bussum";"Opgeheven per 01-01-2016
+Begindatum voor 1830"
+"GM0502";"Capelle aan den IJssel";"Begindatum voor 1830"
+"GM0383";"Castricum";"Gemeentelijke herindeling per 01-01-2002
+Begindatum voor 1830"
+"GM0109";"Coevorden";"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM1706";"Cranendonck";"Naamswijziging per 28-01-1998"
+"GM0611";"Cromstrijen";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1984"
+"GM1684";"Cuijk";"Ontstaan per 01-01-1994"
+"GM0216";"Culemborg";"Begindatum voor 1830"
+"GM0110";"Dalen";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0148";"Dalfsen";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0065";"Dantumadeel";"Naamswijziging per 01-01-2009
+Begindatum voor 1830"
+"GM1891";"Dantumadiel";"Naamswijziging per 01-01-2009"
+"GM0503";"Delft";"Begindatum voor 1830"
+"GM0010";"Delfzijl";"Begindatum voor 1830"
+"GM0149";"Denekamp";"Naamswijziging per 01-06-2002
+Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0762";"Deurne";"Naamswijziging per 01-01-1926"
+"GM0150";"Deventer";"Gemeentelijke herindeling per 01-01-2005
+Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+"GM0218";"Didam";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0384";"Diemen";"Begindatum voor 1830"
+"GM0151";"Diepenheim";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0152";"Diepenveen";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0111";"Diever";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM1774";"Dinkelland";"Naamswijziging per 01-06-2002"
+"GM0219";"Dinxperlo";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0504";"Dirksland";"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+"GM0220";"Dodewaard";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0221";"Doesburg";"Begindatum voor 1830"
+"GM0222";"Doetinchem";"Gemeentelijke herindeling per 01-01-2005
+Begindatum 01-01-1920"
+"GM0766";"Dongen";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0058";"Dongeradeel";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1984"
+"GM0315";"Doorn";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0505";"Dordrecht";"Begindatum voor 1830"
+"GM0498";"Drechterland";"Gemeentelijke herindeling per 01-01-2006
+Naamswijziging per 01-01-1980"
+"GM0316";"Driebergen-Rijsenburg";"Opgeheven per 01-01-2006
+Begindatum 01-05-1931"
+"GM1719";"Drimmelen";"Naamswijziging per 25-04-1998"
+"GM0303";"Dronten";"Ontstaan per 01-01-1972"
+"GM0225";"Druten";"Begindatum voor 1830"
+"GM0226";"Duiven";"Begindatum voor 1830"
+"GM0112";"Dwingeloo";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0902";"Echt";"Opgeheven per 01-01-2003
+Begindatum 02-01-1839"
+"GM0227";"Echteld";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM1711";"Echt-Susteren";"Ontstaan per 01-01-2003"
+"GM0385";"Edam-Volendam";"Gemeentelijke herindeling per 01-01-2016
+Naamswijziging per 01-01-1975"
+"GM0228";"Ede";"Begindatum voor 1830"
+"GM0113";"Eelde";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0317";"Eemnes";"Begindatum voor 1830"
+"GM1651";"Eemsmond";"Opgeheven per 01-01-2019
+Naamswijziging per 01-01-1992"
+"GM0770";"Eersel";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0357";"Egmond";"Opgeheven per 01-01-2001
+Ontstaan per 01-07-1978"
+"GM0229";"Eibergen";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0905";"Eijsden";"Opgeheven per 01-01-2011
+Begindatum 02-01-1839"
+"GM1903";"Eijsden-Margraten";"Ontstaan per 01-01-2011"
+"GM0772";"Eindhoven";"Begindatum voor 1830"
+"GM0230";"Elburg";"Begindatum voor 1830"
+"GM0231";"Elst";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0114";"Emmen";"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM0388";"Enkhuizen";"Begindatum voor 1830"
+"GM0153";"Enschede";"Begindatum voor 1830"
+"GM0232";"Epe";"Begindatum voor 1830"
+"GM0233";"Ermelo";"Begindatum voor 1830"
+"GM0777";"Etten-Leur";"Naamswijziging per 01-01-1968"
+"GM0068";"Ferwerderadeel";"Naamswijziging per 01-01-1999
+Begindatum voor 1830"
+"GM1722";"Ferwerderadiel";"Opgeheven per 01-01-2019
+Naamswijziging per 01-01-1999"
+"GM0070";"Franekeradeel";"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+"GM1921";"De Friese Meren";"Naamswijziging per 01-07-2015
+Ontstaan per 01-01-2014"
+"GM1940";"De Fryske Marren";"Naamswijziging per 01-07-2015"
+"GM0653";"Gaasterlân-Sleat";"Opgeheven per 01-01-2014
+Naamswijziging per 05-06-1985"
+"GM0115";"Gasselte";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0779";"Geertruidenberg";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0236";"Geldermalsen";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0781";"Geldrop";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM1771";"Geldrop-Mierlo";"Ontstaan per 01-01-2004"
+"GM0906";"Geleen";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM1652";"Gemert-Bakel";"Ontstaan per 01-01-1997"
+"GM0237";"Gendringen";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0238";"Gendt";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0154";"Genemuiden";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0907";"Gennep";"Begindatum 02-01-1839"
+"GM0689";"Giessenlanden";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1986"
+"GM0116";"Gieten";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0784";"Gilze en Rijen";"Begindatum voor 1830"
+"GM0511";"Goedereede";"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+"GM1924";"Goeree-Overflakkee";"Ontstaan per 01-01-2013"
+"GM0664";"Goes";"Begindatum voor 1830"
+"GM0785";"Goirle";"Begindatum voor 1830"
+"GM1942";"Gooise Meren";"Ontstaan per 01-01-2016"
+"GM0156";"Goor";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0512";"Gorinchem";"Begindatum voor 1830"
+"GM0239";"Gorssel";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0513";"Gouda";"Begindatum voor 1830"
+"GM0693";"Graafstroom";"Opgeheven per 01-01-2013
+Ontstaan per 01-01-1986"
+"GM0365";"Graft-De Rijp";"Opgeheven per 01-01-2015
+Ontstaan per 01-08-1970"
+"GM0157";"Gramsbergen";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0786";"Grave";"Begindatum voor 1830"
+"GM0390";"'s-Graveland";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0517";"'s-Gravendeel";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM0518";"'s-Gravenhage (gemeente)";"Begindatum voor 1830"
+"GM0519";"'s-Gravenzande";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0240";"Groenlo";"Naamswijziging per 19-05-2006
+Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0241";"Groesbeek";"Naamswijziging per 01-01-2016
+Gemeentelijke herindeling per 01-01-2015
+Begindatum voor 1830"
+"GM0014";"Groningen (gemeente)";"Gemeentelijke herindeling per 01-01-2019
+Begindatum voor 1830"
+"GM0015";"Grootegast";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0912";"Grubbenvorst";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM0913";"Gulpen";"Opgeheven per 01-01-1999
+Begindatum 02-01-1839"
+"GM1729";"Gulpen-Wittem";"Ontstaan per 01-01-1999"
+"GM0158";"Haaksbergen";"Begindatum voor 1830"
+"GM0788";"Haaren";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0392";"Haarlem";"Begindatum voor 1830"
+"GM0393";"Haarlemmerliede en Spaarnwoude";"Opgeheven per 01-01-2019
+Begindatum 13-06-1857"
+"GM0394";"Haarlemmermeer";"Gemeentelijke herindeling per 01-01-2019
+Begindatum 16-11-1855"
+"GM0914";"Haelen";"Opgeheven per 01-01-2007
+Gemeentelijke herindeling per 01-01-1991
+Begindatum 02-01-1839"
+"GM1655";"Halderberge";"Ontstaan per 01-01-1997"
+"GM0159";"Den Ham";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0160";"Hardenberg";"Gemeentelijke herindeling per 01-01-2001
+Ontstaan per 01-05-1941"
+"GM0243";"Harderwijk";"Begindatum voor 1830"
+"GM0523";"Hardinxveld-Giessendam";"Ontstaan per 01-01-1957"
+"GM0017";"Haren";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0395";"Harenkarspel";"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+"GM0072";"Harlingen";"Begindatum voor 1830"
+"GM0318";"Harmelen";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0161";"Hasselt";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0244";"Hattem";"Begindatum voor 1830"
+"GM0117";"Havelte";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0245";"Hedel";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM1937";"Heel";"Opgeheven per 01-01-2007
+Ontstaan per 01-01-1991"
+"GM0396";"Heemskerk";"Begindatum voor 1830"
+"GM0397";"Heemstede";"Begindatum voor 1830"
+"GM0246";"Heerde";"Begindatum voor 1830"
+"GM0074";"Heerenveen";"Gemeentelijke herindeling per 01-01-2014
+Begindatum 01-07-1934"
+"GM0247";"Heerewaarden";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0398";"Heerhugowaard";"Begindatum voor 1830"
+"GM0526";"Heerjansdam";"Opgeheven per 01-01-2003
+Begindatum voor 1830"
+"GM0917";"Heerlen";"Begindatum 02-01-1839"
+"GM1658";"Heeze-Leende";"Ontstaan per 01-01-1997"
+"GM0399";"Heiloo";"Begindatum voor 1830"
+"GM0162";"Heino";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0918";"Helden";"Opgeheven per 01-01-2010
+Begindatum 02-01-1839"
+"GM0400";"Den Helder";"Begindatum voor 1830"
+"GM0163";"Hellendoorn";"Begindatum voor 1830"
+"GM0530";"Hellevoetsluis";"Begindatum voor 1830"
+"GM0794";"Helmond";"Begindatum voor 1830"
+"GM0531";"Hendrik-Ido-Ambacht";"Begindatum voor 1830"
+"GM0248";"Hengelo (Gld.)";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0164";"Hengelo (O.)";"Begindatum voor 1830"
+"GM0796";"'s-Hertogenbosch";"Gemeentelijke herindeling per 01-01-2015
+Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0251";"Heteren";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0252";"Heumen";"Begindatum voor 1830"
+"GM0797";"Heusden";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0920";"Heythuysen";"Opgeheven per 01-01-2007
+Gemeentelijke herindeling per 01-01-1991
+Begindatum 02-01-1839"
+"GM0534";"Hillegom";"Begindatum voor 1830"
+"GM0798";"Hilvarenbeek";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0402";"Hilversum";"Begindatum voor 1830"
+"GM1963";"Hoeksche Waard";"Ontstaan per 01-01-2019"
+"GM0253";"Hoevelaken";"Opgeheven per 01-01-2000
+Begindatum voor 1830"
+"GM1735";"Hof van Twente";"Ontstaan per 01-01-2001"
+"GM1966";"Het Hogeland";"Ontstaan per 01-01-2019"
+"GM1911";"Hollands Kroon";"Ontstaan per 01-01-2012"
+"GM0165";"Holten";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0675";"Hontenisse";"Opgeheven per 01-01-2003
+Begindatum voor 1830"
+"GM0118";"Hoogeveen";"Begindatum voor 1830"
+"GM0018";"Hoogezand-Sappemeer";"Opgeheven per 01-01-2018
+Ontstaan per 01-04-1949"
+"GM0405";"Hoorn";"Begindatum voor 1830"
+"GM0923";"Horst";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM1507";"Horst aan de Maas";"Gemeentelijke herindeling per 01-01-2010
+Ontstaan per 01-01-2001"
+"GM0321";"Houten";"Begindatum voor 1830"
+"GM0255";"Huissen";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0406";"Huizen";"Begindatum voor 1830"
+"GM0677";"Hulst";"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+"GM0256";"Hummelo en Keppel";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0925";"Hunsel";"Opgeheven per 01-01-2007
+Begindatum 02-01-1839"
+"GM0195";"IJsselham";"Opgeheven per 01-01-2001
+Ontstaan per 01-01-1973"
+"GM0191";"IJsselmuiden";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0353";"IJsselstein";"Begindatum voor 1830"
+"GM0645";"Jacobswoude";"Opgeheven per 01-01-2009
+Ontstaan per 01-01-1991"
+"GM1884";"Kaag en Braassem";"Ontstaan per 01-01-2009"
+"GM0166";"Kampen";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0678";"Kapelle";"Begindatum voor 1830"
+"GM0537";"Katwijk";"Gemeentelijke herindeling per 01-01-2006
+Begindatum voor 1830"
+"GM0928";"Kerkrade";"Begindatum 02-01-1839"
+"GM0257";"Kerkwijk";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0929";"Kessel";"Opgeheven per 01-01-2010
+Begindatum 02-01-1839"
+"GM0258";"Kesteren";"Naamswijziging per 01-04-2003
+Gemeentelijke herindeling per 01-01-2002
+Begindatum voor 1830"
+"GM1598";"Koggenland";"Ontstaan per 01-01-2007"
+"GM0079";"Kollumerland en Nieuwkruisland";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0588";"Korendijk";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1984"
+"GM0542";"Krimpen aan den IJssel";"Begindatum voor 1830"
+"GM1931";"Krimpenerwaard";"Ontstaan per 01-01-2015"
+"GM1659";"Laarbeek";"Ontstaan per 01-01-1997"
+"GM1685";"Landerd";"Ontstaan per 01-01-1994"
+"GM0882";"Landgraaf";"Ontstaan per 01-01-1982"
+"GM0415";"Landsmeer";"Gemeentelijke herindeling per 01-01-1991
+Begindatum voor 1830"
+"GM0416";"Langedijk";"Ontstaan per 01-08-1941"
+"GM1621";"Lansingerland";"Ontstaan per 01-01-2007"
+"GM0417";"Laren (NH.)";"Begindatum voor 1830"
+"GM0022";"Leek";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0545";"Leerdam";"Opgeheven per 01-01-2019
+Provinciale wijziging per 01-01-2019
+Begindatum voor 1830"
+"GM0326";"Leersum";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0080";"Leeuwarden";"Gemeentelijke herindeling per 01-01-2018
+Gemeentelijke herindeling per 01-01-2014
+Begindatum voor 1830"
+"GM0081";"Leeuwarderadeel";"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+"GM0546";"Leiden";"Begindatum voor 1830"
+"GM0547";"Leiderdorp";"Begindatum voor 1830"
+"GM0548";"Leidschendam";"Opgeheven per 01-01-2002
+Ontstaan per 01-01-1938"
+"GM1916";"Leidschendam-Voorburg";"Ontstaan per 01-01-2002"
+"GM0995";"Lelystad";"Ontstaan per 01-01-1980"
+"GM0082";"Lemsterland";"Opgeheven per 01-01-2014
+Begindatum voor 1830"
+"GM1640";"Leudal";"Ontstaan per 01-01-2007"
+"GM0327";"Leusden";"Begindatum voor 1830"
+"GM0260";"Lichtenvoorde";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM1673";"Liemeer";"Opgeheven per 01-01-2007
+Naamswijziging per 01-01-1994"
+"GM0261";"Lienden";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0552";"De Lier";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0694";"Liesveld";"Opgeheven per 01-01-2013
+Ontstaan per 01-01-1986"
+"GM0418";"Limmen";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0733";"Lingewaal";"Opgeheven per 01-01-2019
+Naamswijziging per 03-01-1987"
+"GM1705";"Lingewaard";"Naamswijziging per 01-01-2003"
+"GM0553";"Lisse";"Begindatum voor 1830"
+"GM0808";"Lith";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM0140";"Littenseradiel";"Opgeheven per 01-01-2018
+Naamswijziging per 26-01-1985"
+"GM0262";"Lochem";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0329";"Loenen";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM0809";"Loon op Zand";"Begindatum voor 1830"
+"GM0330";"Loosdrecht";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0331";"Lopik";"Begindatum voor 1830"
+"GM0024";"Loppersum";"Begindatum voor 1830"
+"GM0168";"Losser";"Begindatum voor 1830"
+"GM0332";"Maarn";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0333";"Maarssen";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM0334";"Maartensdijk";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0933";"Maasbracht";"Opgeheven per 01-01-2007
+Gemeentelijke herindeling per 01-01-1991
+Begindatum 02-01-1839"
+"GM0934";"Maasbree";"Opgeheven per 01-01-2010
+Begindatum 02-01-1839"
+"GM1671";"Maasdonk";"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1993"
+"GM0263";"Maasdriel";"Gemeentelijke herindeling per 01-01-1999
+Naamswijziging per 01-08-1944"
+"GM1641";"Maasgouw";"Ontstaan per 01-01-2007"
+"GM0555";"Maasland";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0556";"Maassluis";"Begindatum voor 1830"
+"GM0935";"Maastricht";"Begindatum voor 1830"
+"GM1665";"Made";"Naamswijziging per 25-04-1998
+Ontstaan per 01-01-1997"
+"GM0936";"Margraten";"Opgeheven per 01-01-2011
+Begindatum 02-01-1839"
+"GM0169";"Markelo";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM1663";"De Marne";"Opgeheven per 01-01-2019
+Naamswijziging per 01-01-1992"
+"GM0025";"Marum";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0264";"Maurik";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0420";"Medemblik";"Gemeentelijke herindeling per 01-01-2011
+Gemeentelijke herindeling per 01-01-2007
+Begindatum voor 1830"
+"GM0993";"Meerlo-Wanssum";"Opgeheven per 01-01-2010
+Ontstaan per 01-07-1969"
+"GM0938";"Meerssen";"Begindatum 02-01-1839"
+"GM1948";"Meierijstad";"Ontstaan per 01-01-2017"
+"GM0941";"Meijel";"Opgeheven per 01-01-2010
+Begindatum 02-01-1839"
+"GM0083";"Menaldumadeel";"Naamswijziging per 01-01-2011
+Begindatum voor 1830"
+"GM1908";"Menameradiel";"Opgeheven per 01-01-2018
+Naamswijziging per 01-01-2011"
+"GM1987";"Menterwolde";"Opgeheven per 01-01-2018
+Naamswijziging per 01-02-1991"
+"GM0119";"Meppel";"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM0687";"Middelburg (Z.)";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0559";"Middelharnis";"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+"GM1842";"Midden-Delfland";"Ontstaan per 01-01-2004"
+"GM1731";"Midden-Drenthe";"Naamswijziging per 01-01-2000"
+"GM1952";"Midden-Groningen";"Ontstaan per 01-01-2018"
+"GM1697";"Middenveld";"Naamswijziging per 01-01-2000
+Ontstaan per 01-01-1998"
+"GM0814";"Mierlo";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0815";"Mill en Sint Hubert";"Begindatum voor 1830"
+"GM0265";"Millingen aan de Rijn";"Opgeheven per 01-01-2015
+Naamswijziging per 01-01-1954"
+"GM1709";"Moerdijk";"Naamswijziging per 04-04-1998"
+"GM1978";"Molenlanden";"Ontstaan per 01-01-2019"
+"GM1927";"Molenwaard";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-2013"
+"GM0562";"Monster";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM1955";"Montferland";"Ontstaan per 01-01-2005"
+"GM0335";"Montfoort";"Begindatum voor 1830"
+"GM0944";"Mook en Middelaar";"Begindatum 02-01-1839"
+"GM0563";"Moordrecht";"Opgeheven per 01-01-2010
+Begindatum voor 1830"
+"GM0424";"Muiden";"Opgeheven per 01-01-2016
+Begindatum voor 1830"
+"GM0565";"Naaldwijk";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0425";"Naarden";"Opgeheven per 01-01-2016
+Begindatum voor 1830"
+"GM1740";"Neder-Betuwe";"Naamswijziging per 01-04-2003"
+"GM0426";"Nederhorst den Berg";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0643";"Nederlek";"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1985"
+"GM0946";"Nederweert";"Begindatum 02-01-1839"
+"GM0266";"Neede";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0304";"Neerijnen";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1978"
+"GM0412";"Niedorp";"Opgeheven per 01-01-2012
+Ontstaan per 01-08-1970"
+"GM0356";"Nieuwegein";"Ontstaan per 01-07-1971"
+"GM0567";"Nieuwerkerk aan den IJssel";"Opgeheven per 01-01-2010
+Begindatum voor 1830"
+"GM0569";"Nieuwkoop";"Gemeentelijke herindeling per 01-01-2007
+Begindatum voor 1830"
+"GM0571";"Nieuw-Lekkerland";"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+"GM0170";"Nieuwleusen";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0104";"Nijefurd";"Opgeheven per 01-01-2011
+Ontstaan per 01-01-1984"
+"GM0121";"Nijeveen";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0267";"Nijkerk";"Gemeentelijke herindeling per 01-01-2000
+Begindatum voor 1830"
+"GM0268";"Nijmegen";"Begindatum voor 1830"
+"GM1930";"Nissewaard";"Ontstaan per 01-01-2015"
+"GM1970";"Noardeast-Fryslân";"Ontstaan per 01-01-2019"
+"GM1695";"Noord-Beveland";"Ontstaan per 01-01-1995"
+"GM1699";"Noordenveld";"Ontstaan per 01-01-1998"
+"GM0529";"Noorder-Koggenland";"Opgeheven per 01-01-2007
+Ontstaan per 01-01-1979"
+"GM0171";"Noordoostpolder";"Provinciale wijziging per 01-01-1986
+Naamswijziging per 01-07-1962"
+"GM0575";"Noordwijk";"Gemeentelijke herindeling per 01-01-2019
+Begindatum voor 1830"
+"GM0576";"Noordwijkerhout";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0577";"Nootdorp";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0120";"Norg";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0820";"Nuenen, Gerwen en Nederwetten";"Begindatum voor 1830"
+"GM0302";"Nunspeet";"Ontstaan per 01-01-1972"
+"GM0951";"Nuth";"Opgeheven per 01-01-2019
+Begindatum 02-01-1839"
+"GM0429";"Obdam";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM0122";"Odoorn";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0579";"Oegstgeest";"Begindatum voor 1830"
+"GM0823";"Oirschot";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0824";"Oisterwijk";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1895";"Oldambt";"Ontstaan per 01-01-2010"
+"GM0269";"Oldebroek";"Begindatum voor 1830"
+"GM0173";"Oldenzaal";"Begindatum voor 1830"
+"GM0174";"Olst";"Naamswijziging per 26-03-2002
+Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1773";"Olst-Wijhe";"Naamswijziging per 26-03-2002"
+"GM0175";"Ommen";"Begindatum 01-05-1923"
+"GM0881";"Onderbanken";"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1982"
+"GM1586";"Oost Gelre";"Naamswijziging per 19-05-2006"
+"GM0692";"Oostburg";"Opgeheven per 01-01-2003
+Begindatum voor 1830"
+"GM0123";"Oosterhesselen";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0826";"Oosterhout";"Begindatum voor 1830"
+"GM0580";"Oostflakkee";"Opgeheven per 01-01-2013
+Ontstaan per 01-01-1966"
+"GM0085";"Ooststellingwerf";"Begindatum voor 1830"
+"GM0431";"Oostzaan";"Begindatum voor 1830"
+"GM0176";"Ootmarsum";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0432";"Opmeer";"Begindatum voor 1830"
+"GM0086";"Opsterland";"Begindatum voor 1830"
+"GM0828";"Oss";"Gemeentelijke herindeling per 01-01-2015
+Gemeentelijke herindeling per 01-01-2011
+Gemeentelijke herindeling per 01-01-2003
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+"GM0584";"Oud-Beijerland";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM1509";"Oude IJsselstreek";"Ontstaan per 01-01-2005"
+"GM0437";"Ouder-Amstel";"Begindatum voor 1830"
+"GM0644";"Ouderkerk";"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1985"
+"GM0589";"Oudewater";"Provinciale wijziging per 01-09-1970
+Begindatum voor 1830"
+"GM1734";"Overbetuwe";"Ontstaan per 01-01-2001"
+"GM0590";"Papendrecht";"Begindatum voor 1830"
+"GM1894";"Peel en Maas";"Ontstaan per 01-01-2010"
+"GM0124";"Peize";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0765";"Pekela";"Ontstaan per 01-01-1990"
+"GM0594";"Pijnacker";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM1926";"Pijnacker-Nootdorp";"Ontstaan per 01-01-2002"
+"GM0439";"Purmerend";"Begindatum voor 1830"
+"GM0273";"Putten";"Begindatum voor 1830"
+"GM0177";"Raalte";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0835";"Ravenstein";"Opgeheven per 01-01-2003
+Begindatum voor 1830"
+"GM0595";"Reeuwijk";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM1661";"Reiderland";"Opgeheven per 01-01-2010
+Naamswijziging per 01-07-1991"
+"GM0703";"Reimerswaal";"Ontstaan per 01-01-1970"
+"GM0274";"Renkum";"Begindatum voor 1830"
+"GM0339";"Renswoude";"Begindatum voor 1830"
+"GM1667";"Reusel-De Mierden";"Ontstaan per 01-01-1997"
+"GM0275";"Rheden";"Begindatum voor 1830"
+"GM0340";"Rhenen";"Begindatum voor 1830"
+"GM0597";"Ridderkerk";"Begindatum voor 1830"
+"GM0602";"Rijnsburg";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0196";"Rijnwaarden";"Opgeheven per 01-01-2018
+Ontstaan per 01-01-1985"
+"GM1672";"Rijnwoude";"Opgeheven per 01-01-2014
+Naamswijziging per 01-01-1993"
+"GM0178";"Rijssen";"Naamswijziging per 15-03-2003
+Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1742";"Rijssen-Holten";"Naamswijziging per 15-03-2003"
+"GM0603";"Rijswijk (ZH.)";"Begindatum voor 1830"
+"GM0125";"Roden";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM1669";"Roerdalen";"Gemeentelijke herindeling per 01-01-2007
+Naamswijziging per 01-01-1993"
+"GM0957";"Roermond";"Gemeentelijke herindeling per 01-01-2007
+Gemeentelijke herindeling per 01-01-1991
+Begindatum 02-01-1839"
+"GM1670";"Roggel en Neer";"Opgeheven per 01-01-2007
+Naamswijziging per 01-01-1993"
+"GM0126";"Rolde";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0736";"De Ronde Venen";"Gemeentelijke herindeling per 01-01-2011
+Ontstaan per 01-01-1989"
+"GM1674";"Roosendaal";"Ontstaan per 01-01-1997"
+"GM0276";"Rossum";"Opgeheven per 01-01-1999
+Begindatum voor 1830"
+"GM0599";"Rotterdam";"Begindatum voor 1830"
+"GM0600";"Rozenburg";"Opgeheven per 18-03-2010
+Begindatum voor 1830"
+"GM0277";"Rozendaal";"Begindatum voor 1830"
+"GM0840";"Rucphen";"Begindatum voor 1830"
+"GM0127";"Ruinen";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0128";"Ruinerwold";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0278";"Ruurlo";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0704";"Sas van Gent";"Opgeheven per 01-01-2003
+Begindatum voor 1830"
+"GM0604";"Sassenheim";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0441";"Schagen";"Gemeentelijke herindeling per 01-01-2013
+Begindatum voor 1830"
+"GM0039";"Scheemda";"Opgeheven per 01-01-2010
+Begindatum voor 1830"
+"GM0458";"Schermer";"Opgeheven per 01-01-2015
+Ontstaan per 01-08-1970"
+"GM0279";"Scherpenzeel";"Begindatum voor 1830"
+"GM0606";"Schiedam";"Begindatum voor 1830"
+"GM0088";"Schiermonnikoog";"Begindatum voor 1830"
+"GM0844";"Schijndel";"Opgeheven per 01-01-2017
+Begindatum voor 1830"
+"GM0962";"Schinnen";"Opgeheven per 01-01-2019
+Begindatum 02-01-1839"
+"GM0607";"Schipluiden";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0129";"Schoonebeek";"Opgeheven per 01-01-1998
+Begindatum 01-05-1884"
+"GM0608";"Schoonhoven";"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+"GM0444";"Schoorl";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM1676";"Schouwen-Duiveland";"Ontstaan per 01-01-1997"
+"GM0964";"Sevenum";"Opgeheven per 01-01-2010
+Begindatum 02-01-1839"
+"GM0965";"Simpelveld";"Begindatum 02-01-1839"
+"GM1702";"Sint Anthonis";"Naamswijziging per 04-07-1995"
+"GM0845";"Sint-Michielsgestel";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0846";"Sint-Oedenrode";"Opgeheven per 01-01-2017
+Begindatum voor 1830"
+"GM0968";"Sittard";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM1883";"Sittard-Geleen";"Ontstaan per 01-01-2001"
+"GM0051";"Skarsterlân";"Opgeheven per 01-01-2014
+Naamswijziging per 01-03-1985"
+"GM0130";"Sleen";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0610";"Sliedrecht";"Begindatum voor 1830"
+"GM0040";"Slochteren";"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+"GM1714";"Sluis";"Ontstaan per 01-01-2003"
+"GM1698";"Sluis-Aardenburg";"Opgeheven per 01-01-2003
+Ontstaan per 01-01-1995"
+"GM0090";"Smallingerland";"Begindatum voor 1830"
+"GM0131";"Smilde";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0091";"Sneek";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM0342";"Soest";"Begindatum voor 1830"
+"GM0847";"Someren";"Begindatum voor 1830"
+"GM0848";"Son en Breugel";"Begindatum voor 1830"
+"GM0612";"Spijkenisse";"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+"GM0179";"Stad Delden";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0037";"Stadskanaal";"Ontstaan per 01-01-1969"
+"GM0180";"Staphorst";"Begindatum voor 1830"
+"GM0532";"Stede Broec";"Ontstaan per 01-01-1979"
+"GM0851";"Steenbergen";"Gemeentelijke herindeling per 01-01-1997
+Naamswijziging per 25-06-1962"
+"GM0280";"Steenderen";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0181";"Steenwijk";"Naamswijziging per 01-01-2003
+Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1708";"Steenwijkerland";"Naamswijziging per 01-01-2003"
+"GM0971";"Stein (L.)";"Begindatum 02-01-1839"
+"GM1904";"Stichtse Vecht";"Ontstaan per 01-01-2011"
+"GM0973";"Stramproy";"Opgeheven per 01-01-1998
+Begindatum 02-01-1839"
+"GM0617";"Strijen";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM1900";"Súdwest-Fryslân";"Gemeentelijke herindeling per 01-01-2018
+Ontstaan per 01-01-2011"
+"GM0974";"Susteren";"Opgeheven per 01-01-2003
+Begindatum 02-01-1839"
+"GM0975";"Swalmen";"Opgeheven per 01-01-2007
+Begindatum 02-01-1839"
+"GM0976";"Tegelen";"Opgeheven per 01-01-2001
+Begindatum 02-01-1839"
+"GM0715";"Terneuzen";"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+"GM0093";"Terschelling";"Provinciale wijziging per 01-09-1942
+Begindatum voor 1830"
+"GM0448";"Texel";"Begindatum voor 1830"
+"GM1525";"Teylingen";"Ontstaan per 01-01-2006"
+"GM0716";"Tholen";"Gemeentelijke herindeling per 01-01-1995
+Begindatum voor 1830"
+"GM0977";"Thorn";"Opgeheven per 01-01-2007
+Begindatum 02-01-1839"
+"GM0281";"Tiel";"Begindatum voor 1830"
+"GM0855";"Tilburg";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0183";"Tubbergen";"Begindatum voor 1830"
+"GM1700";"Twenterand";"Naamswijziging per 01-06-2002"
+"GM1730";"Tynaarlo";"Naamswijziging per 01-12-1999"
+"GM0737";"Tytsjerksteradiel";"Naamswijziging per 01-01-1989"
+"GM0282";"Ubbergen";"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+"GM0856";"Uden";"Begindatum voor 1830"
+"GM0450";"Uitgeest";"Begindatum voor 1830"
+"GM0451";"Uithoorn";"Begindatum voor 1830"
+"GM0184";"Urk";"Provinciale wijziging per 01-01-1986
+Begindatum voor 1830"
+"GM0344";"Utrecht (gemeente)";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1581";"Utrechtse Heuvelrug";"Ontstaan per 01-01-2006"
+"GM0981";"Vaals";"Begindatum 02-01-1839"
+"GM0283";"Valburg";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0619";"Valkenburg (ZH.)";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0994";"Valkenburg aan de Geul";"Ontstaan per 01-01-1982"
+"GM0858";"Valkenswaard";"Begindatum voor 1830"
+"GM0047";"Veendam";"Begindatum voor 1830"
+"GM0345";"Veenendaal";"Begindatum voor 1830"
+"GM0717";"Veere";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0860";"Veghel";"Opgeheven per 01-01-2017
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+"GM0861";"Veldhoven";"Naamswijziging per 01-05-1921"
+"GM0453";"Velsen";"Begindatum voor 1830"
+"GM0454";"Venhuizen";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0983";"Venlo";"Gemeentelijke herindeling per 01-01-2010
+Gemeentelijke herindeling per 01-01-2001
+Begindatum 02-01-1839"
+"GM0984";"Venray";"Begindatum 02-01-1839"
+"GM0620";"Vianen";"Opgeheven per 01-01-2019
+Provinciale wijziging per 01-01-2002
+Begindatum voor 1830"
+"GM0863";"Vierlingsbeek";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM1961";"Vijfheerenlanden";"Provinciale wijziging per 01-01-2019
+Ontstaan per 01-01-2019"
+"GM0622";"Vlaardingen";"Begindatum voor 1830"
+"GM0048";"Vlagtwedde";"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+"GM0132";"Vledder";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0347";"Vleuten-De Meern";"Opgeheven per 01-01-2001
+Ontstaan per 01-01-1954"
+"GM0096";"Vlieland";"Provinciale wijziging per 01-09-1942
+Begindatum voor 1830"
+"GM0718";"Vlissingen";"Begindatum voor 1830"
+"GM0623";"Vlist";"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+"GM0986";"Voerendaal";"Begindatum 02-01-1839"
+"GM0624";"Voorburg";"Opgeheven per 01-01-2002
+Begindatum voor 1830"
+"GM0625";"Voorhout";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0626";"Voorschoten";"Begindatum voor 1830"
+"GM0285";"Voorst";"Begindatum voor 1830"
+"GM0286";"Vorden";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0133";"Vries";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0186";"Vriezenveen";"Naamswijziging per 01-06-2002
+Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0865";"Vught";"Begindatum voor 1830"
+"GM1949";"Waadhoeke";"Ontstaan per 01-01-2018"
+"GM0866";"Waalre";"Begindatum voor 1830"
+"GM0867";"Waalwijk";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0627";"Waddinxveen";"Begindatum 01-07-1870"
+"GM0289";"Wageningen";"Begindatum voor 1830"
+"GM0628";"Warmond";"Opgeheven per 01-01-2006
+Begindatum voor 1830"
+"GM0291";"Warnsveld";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0629";"Wassenaar";"Begindatum voor 1830"
+"GM0630";"Wateringen";"Opgeheven per 01-01-2004
+Begindatum voor 1830"
+"GM0852";"Waterland";"Ontstaan per 01-01-1991"
+"GM0188";"Weerselo";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0988";"Weert";"Gemeentelijke herindeling per 01-01-1998
+Begindatum 02-01-1839"
+"GM0457";"Weesp";"Begindatum voor 1830"
+"GM0292";"Wehl";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0870";"Werkendam";"Opgeheven per 01-01-2019
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0459";"Wervershoof";"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+"GM1960";"West Betuwe";"Ontstaan per 01-01-2019"
+"GM0668";"West Maas en Waal";"Naamswijziging per 01-07-1985"
+"GM0134";"Westerbork";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0558";"Wester-Koggenland";"Opgeheven per 01-01-2007
+Ontstaan per 01-01-1979"
+"GM1969";"Westerkwartier";"Ontstaan per 01-01-2019"
+"GM1701";"Westerveld";"Ontstaan per 01-01-1998"
+"GM0293";"Westervoort";"Begindatum voor 1830"
+"GM1950";"Westerwolde";"Ontstaan per 01-01-2018"
+"GM1783";"Westland";"Ontstaan per 01-01-2004"
+"GM0098";"Weststellingwerf";"Begindatum voor 1830"
+"GM0614";"Westvoorne";"Ontstaan per 01-01-1980"
+"GM0189";"Wierden";"Begindatum voor 1830"
+"GM0462";"Wieringen";"Opgeheven per 01-01-2012
+Begindatum voor 1830"
+"GM0463";"Wieringermeer";"Opgeheven per 01-01-2012
+Ontstaan per 01-01-1938"
+"GM0296";"Wijchen";"Begindatum voor 1830"
+"GM1696";"Wijdemeren";"Ontstaan per 01-01-2002"
+"GM0190";"Wijhe";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0135";"De Wijk";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0352";"Wijk bij Duurstede";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0052";"Winschoten";"Opgeheven per 01-01-2010
+Begindatum voor 1830"
+"GM0053";"Winsum";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0294";"Winterswijk";"Begindatum voor 1830"
+"GM0295";"Wisch";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0990";"Wittem";"Opgeheven per 01-01-1999
+Begindatum 02-01-1839"
+"GM0873";"Woensdrecht";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0632";"Woerden";"Gemeentelijke herindeling per 01-01-2001
+Provinciale wijziging per 01-01-1989
+Begindatum voor 1830"
+"GM0466";"Wognum";"Opgeheven per 01-01-2007
+Begindatum voor 1830"
+"GM1690";"De Wolden";"Ontstaan per 01-01-1998"
+"GM0880";"Wormerland";"Ontstaan per 01-01-1991"
+"GM0351";"Woudenberg";"Begindatum voor 1830"
+"GM0874";"Woudrichem";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0710";"Wûnseradiel";"Opgeheven per 01-01-2011
+Naamswijziging per 01-01-1987"
+"GM0683";"Wymbritseradiel";"Opgeheven per 01-01-2011
+Naamswijziging per 01-01-1986"
+"GM0479";"Zaanstad";"Ontstaan per 01-01-1974"
+"GM0297";"Zaltbommel";"Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+"GM0473";"Zandvoort";"Begindatum voor 1830"
+"GM0707";"Zederik";"Opgeheven per 01-01-2019
+Provinciale wijziging per 01-01-2019
+Ontstaan per 01-01-1986"
+"GM0478";"Zeevang";"Opgeheven per 01-01-2016
+Ontstaan per 01-08-1970"
+"GM0050";"Zeewolde";"Ontstaan per 01-01-1984"
+"GM0355";"Zeist";"Begindatum voor 1830"
+"GM0298";"Zelhem";"Opgeheven per 01-01-2005
+Begindatum voor 1830"
+"GM0299";"Zevenaar";"Gemeentelijke herindeling per 01-01-2018
+Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0878";"Zevenbergen";"Naamswijziging per 04-04-1998
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1666";"Zevenhuizen-Moerkapelle";"Opgeheven per 01-01-2010
+Naamswijziging per 01-02-1992"
+"GM0476";"Zijpe";"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+"GM0637";"Zoetermeer";"Begindatum voor 1830"
+"GM0638";"Zoeterwoude";"Begindatum voor 1830"
+"GM0056";"Zuidhorn";"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+"GM0136";"Zuidlaren";"Naamswijziging per 01-12-1999
+Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM1892";"Zuidplas";"Ontstaan per 01-01-2010"
+"GM0137";"Zuidwolde";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0879";"Zundert";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0301";"Zutphen";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM1896";"Zwartewaterland";"Ontstaan per 01-01-2001"
+"GM0192";"Zwartsluis";"Opgeheven per 01-01-2001
+Begindatum voor 1830"
+"GM0138";"Zweeloo";"Opgeheven per 01-01-1998
+Begindatum voor 1830"
+"GM0642";"Zwijndrecht";"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+"GM0193";"Zwolle";"Begindatum voor 1830"
+"Perioden"
+Key;Title;Description;Status
+"1997JJ00";"1997";"Taxatiepeildatum 1-1-1995.";"Definitief"
+"1998JJ00";"1998";"Taxatiepeildatum 1-1-1995.";"Definitief"
+"1999JJ00";"1999";"Taxatiepeildatum 1-1-1995.";"Definitief"
+"2000JJ00";"2000";"Taxatiepeildatum 1-1-1995.";"Definitief"
+"2001JJ00";"2001";"Taxatiepeildatum 1-1-1999.";"Definitief"
+"2002JJ00";"2002";"Taxatiepeildatum 1-1-1999.";"Definitief"
+"2003JJ00";"2003";"Taxatiepeildatum 1-1-1999.";"Definitief"
+"2004JJ00";"2004";"Taxatiepeildatum 1-1-1999.";"Definitief"
+"2005JJ00";"2005";"Taxatiepeildatum 1-1-2003.";"Definitief"
+"2006JJ00";"2006";"Taxatiepeildatum 1-1-2003.";"Definitief"
+"2007JJ00";"2007";"Taxatiepeildatum 1-1-2005.";"Definitief"
+"2008JJ00";"2008";"Taxatiepeildatum 1-1-2007.";"Definitief"
+"2009JJ00";"2009";"Taxatiepeildatum 1-1-2008.";"Definitief"
+"2010JJ00";"2010";"Taxatiepeildatum 1-1-2009.";"Definitief"
+"2011JJ00";"2011";"Taxatiepeildatum 1-1-2010.";"Definitief"
+"2012JJ00";"2012";"Taxatiepeildatum 1-1-2011.";"Definitief"
+"2013JJ00";"2013";"Taxatiepeildatum 1-1-2012";"Definitief"
+"2014JJ00";"2014";"Taxatiepeildatum 1-1-2013";"Definitief"
+"2015JJ00";"2015";"Taxatiepeildatum 1-1-2014";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018JJ00";"2018";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2019JJ00";"2019";"Voorlopige cijfers";"Voorlopig"
+"2020JJ00";"2020";"Voorlopige cijfers";"Voorlopig"

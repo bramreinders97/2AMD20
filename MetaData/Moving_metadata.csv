@@ -1,0 +1,5541 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Tussen gemeenten verhuisde personen";"Tussen gemeenten verhuisde personen";"81734NED";"Verhuisde personen van gemeente
+naar gemeente";"2021-09-13T02:00:00";"Actualisering";"";"nl";"CBS";"Perjaar";"2011-2020";"
+Deze tabel bevat cijfers over verhuisde personen tussen gemeenten binnen Nederland onder de bevolking van Nederland.
+
+De volgende uitsplitsingen zijn mogelijk:
+Gemeente van vestiging x gemeente van vertrek.
+
+De in de tabel opgenomen regio's zijn landsdelen, provincies, COROP-gebieden en gemeenten.
+
+De gepresenteerde regiototalen betreffen samentellingen van de gemeentelijke cijfers.
+
+Gegevens beschikbaar: vanaf 2011.
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzigingen per 13 september 2021:
+De definitieve cijfers over 2020 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het 3e kwartaal van 2022 worden de cijfers over 2021 toegevoegd aan de tabel.
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+1. TOELICHTING
+
+Deze tabel bevat cijfers over verhuisde personen tussen gemeenten binnen Nederland onder de bevolking van Nederland.
+
+De volgende uitsplitsingen zijn mogelijk:
+Gemeente van vestiging x gemeente van vertrek.
+
+De in de tabel opgenomen regio's zijn landsdelen, provincies, COROP-gebieden en gemeenten.
+
+De gepresenteerde regiototalen betreffen samentellingen van de gemeentelijke cijfers.
+
+Gegevens beschikbaar: vanaf 2011.
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzigingen per 13 september 2021:
+De definitieve cijfers over 2020 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het 3e kwartaal van 2022 worden de cijfers over 2021 toegevoegd aan de tabel.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Bevolking
+De bewoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en 
+personen die niet legaal in Nederland verblijven.
+
+Tussen gemeenten verhuisde personen:
+Personen die verhuizen waarbij het oude en het nieuwe adres in verschillende gemeenten liggen. 
+Wijzigingen van adres door grenswijzigingen tussen gemeenten of door gemeentelijke herindelingen worden niet als verhuizing beschouwd.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Gegevens over verhuisde personen binnen gemeenten en tussen gemeenten in Nederland naar gezinssituatie ten tijde van de verhuizing, geslacht, leeftijd, burgerlijke staat en Nederlanderschap per regio zijn te vinden in de StatLine tabel <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/60048ned/table?dl=105A8'>Verhuisde personen; binnen gemeenten, tussen gemeenten, regio</a>.
+
+Algemene informatie over de bevolking is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. 
+
+De beschrijving van het onderzoek is te vinden bij de Korte onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Bevolkingsstatistiek</a>.
+
+De gegevens in de tabel zijn vanaf 2014 afkomstig uit het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>.
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.";"ts=1630914348280&graphtype=Table&r=RegioVanVertrek&k=Topics,RegioVanVestiging&t=Perioden&_gu=NL";"$filter=((Perioden eq '2020JJ00')) and ((RegioVanVestiging eq 'LD02  ') or (RegioVanVestiging eq 'PV21  ') or (RegioVanVestiging eq 'GM0363') or (RegioVanVestiging eq 'GM0518') or (RegioVanVestiging eq 'GM0599') or (RegioVanVestiging eq 'GM0344') or (substringof('NL',RegioVanVestiging))) and ((RegioVanVertrek eq 'LD02  ') or (RegioVanVertrek eq 'PV21  ') or (RegioVanVertrek eq 'GM0363') or (RegioVanVertrek eq 'GM0518') or (RegioVanVertrek eq 'GM0599') or (RegioVanVertrek eq 'GM0344'))&$select=Perioden, RegioVanVestiging, RegioVanVertrek, TussenGemeentenVerhuisdePersonen_1";"Table,Bar,Line,Map";"Regulier";"CBS.";"2021-09-13T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"GeoDimension";"RegioVanVestiging";"Regio van vestiging";"De gepresenteerde regiototalen betreffen samentellingen van de gemeentelijke cijfers. In de regiototalen zijn dus zowel de tussen gemeenten verhuisde personen uit gemeenten van andere regio's als van gemeenten binnen de eigen regio meegeteld. ";;;;;
+"1";"1";;"GeoDimension";"RegioVanVertrek";"Regio van vertrek";"De gepresenteerde regiototalen betreffen samentellingen van de gemeentelijke cijfers. In de regiototalen zijn dus zowel de tussen gemeenten verhuisde personen naar gemeenten in andere regio's als van gemeenten binnen de eigen regio meegeteld. ";;;;;
+"2";"2";;"TimeDimension";"Perioden";"Perioden";"";"false";;;;
+"3";"3";;"Topic";"TussenGemeentenVerhuisdePersonen_1";"Tussen gemeenten verhuisde personen";"Tussen gemeenten verhuisde persoon:
+Persoon die verhuist waarbij het oude en het nieuwe adres in verschillende gemeenten liggen. 
+Wijzigingen van adres door grenswijzigingen tussen gemeenten of door gemeentelijke herindelingen worden niet als verhuizing beschouwd.
+
+";;"Long";"aantal";"0";"Impossible"
+"RegioVanVestiging"
+Key;Title;Description
+"NL01  ";"Nederland";"Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (NL98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (NL98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+"
+"LD01  ";"Noord-Nederland (LD)";"LD = Landsdeel
+
+Noord-Nederland: Groningen, Fryslân, Drenthe
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+"
+"LD02  ";"Oost-Nederland (LD)";"LD = Landsdeel
+
+Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Zuid-Nederland (LD04), 0 hectare met 0 woningen en 5 inwoners
+... Berg en Dal (GM1945) ontvangt van Mook en Middelaar (GM0944), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"LD03  ";"West-Nederland (LD)";"LD = Landsdeel
+
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+"
+"LD04  ";"Zuid-Nederland (LD)";"LD = Landsdeel
+
+Zuid-Nederland: Noord-Brabant, Limburg
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (LD98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (LD98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2016:
+- Over naar Oost-Nederland (LD02), 0 hectare met 0 woningen en 5 inwoners
+... Over van Mook en Middelaar (GM0944) naar Berg en Dal (GM1945), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"PV20  ";"Groningen (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV21  ";"Fryslân (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Vanaf 01-01-2020 hanteert het CBS de Friese naam (Fryslân) voor de provincie Friesland. Bij actualisering van tabellen wordt deze taalwijziging doorgevoerd. Stopgezette tabellen worden niet meer aangepast.
+
+"
+"PV22  ";"Drenthe (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV23  ";"Overijssel (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV24  ";"Flevoland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV25  ";"Gelderland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Limburg (PV31), 0 hectare met 0 woningen en 5 inwoners
+... Berg en Dal (GM1945) ontvangt van Mook en Middelaar (GM0944), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"PV26  ";"Utrecht (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Zuid-Holland (PV28), 10721 hectare met 14649 woningen en 35268 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Leerdam (GM0545), 3376 hectare met 8988 woningen en 21248 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Zederik (GM0707), 7345 hectare met 5661 woningen en 14020 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Noord-Holland (PV27), 0 hectare met 0 woningen en 4 inwoners
+... Stichtse Vecht (GM1904) ontvangt van Wijdemeren (GM1696), 0 hectare met 0 woningen en 4 inwoners
+
+"
+"PV27  ";"Noord-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2013:
+- Ontvangen van Zuid-Holland (PV28), 2 hectare met 0 woningen en 0 inwoners
+... Bloemendaal (GM0377) ontvangt van Hillegom (GM0534), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Over naar Utrecht (PV26), 0 hectare met 0 woningen en 4 inwoners
+... Over van Wijdemeren (GM1696) naar Stichtse Vecht (GM1904), 0 hectare met 0 woningen en 4 inwoners
+- Over naar Zuid-Holland (PV28), 3 hectare met 4 woningen en 10 inwoners
+... Over van Uithoorn (GM0451) naar Kaag en Braassem (GM1884), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"PV28  ";"Zuid-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2019:
+- Over naar Utrecht (PV26), 10721 hectare met 14649 woningen en 35268 inwoners
+... Leerdam (GM0545) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 3376 hectare met 8988 woningen en 21248 inwoners
+... Zederik (GM0707) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 7345 hectare met 5661 woningen en 14020 inwoners
+
+Grenswijziging per 01-01-2013:
+- Over naar Noord-Holland (PV27), 2 hectare met 0 woningen en 0 inwoners
+... Over van Hillegom (GM0534) naar Bloemendaal (GM0377), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Noord-Holland (PV27), 3 hectare met 4 woningen en 10 inwoners
+... Kaag en Braassem (GM1884) ontvangt van Uithoorn (GM0451), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"PV29  ";"Zeeland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV30  ";"Noord-Brabant (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV31  ";"Limburg (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (PV98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (PV98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2016:
+- Over naar Gelderland (PV25), 0 hectare met 0 woningen en 5 inwoners
+... Over van Mook en Middelaar (GM0944) naar Berg en Dal (GM1945), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"CR01  ";"Oost-Groningen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2018:
+- Over naar Overig Groningen (CR03), 8025 hectare met 5400 woningen en 12013 inwoners
+... Menterwolde (GM1987) wordt opgeheven en gaat over naar Midden-Groningen (GM1952), 8025 hectare met 5400 woningen en 12013 inwoners
+
+"
+"CR02  ";"Delfzijl en omgeving (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR03  ";"Overig Groningen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Oost-Groningen (CR01), 8025 hectare met 5400 woningen en 12013 inwoners
+... Midden-Groningen (GM1952) ontvangt van het opgeheven Menterwolde (GM1987), 8025 hectare met 5400 woningen en 12013 inwoners
+
+"
+"CR04  ";"Noord-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Over naar Zuidwest-Friesland (CR05), 75 hectare met 3 woningen en 0 inwoners
+... Over van Waadhoeke (GM1949) naar Súdwest-Fryslân (GM1900), 75 hectare met 3 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2018:
+- Over naar Zuidwest-Friesland (CR05), 6738 hectare met 2325 woningen en 5411 inwoners
+... Littenseradiel (GM0140) wordt opgeheven en gaat gedeeltelijk over naar Súdwest-Fryslân (GM1900), 6738 hectare met 2325 woningen en 5411 inwoners
+
+Grenswijziging per 01-01-2016:
+- Over naar Zuidoost-Friesland (CR06), 0 hectare met 0 woningen en 2 inwoners
+... Over van Leeuwarden (GM0080) naar Heerenveen (GM0074), 0 hectare met 0 woningen en 2 inwoners
+
+Grenswijziging per 01-01-2014:
+- Over naar Zuidoost-Friesland (CR06), 4561 hectare met 2614 woningen en 6018 inwoners
+... Boarnsterhim (GM0055) wordt opgeheven en gaat gedeeltelijk over naar Heerenveen (GM0074), 4561 hectare met 2614 woningen en 6018 inwoners
+- Over naar Zuidwest-Friesland (CR05), 2998 hectare met 981 woningen en 2436 inwoners
+... Boarnsterhim (GM0055) wordt opgeheven en gaat gedeeltelijk over naar De Friese Meren (GM1921), 531 hectare met 277 woningen en 783 inwoners
+... Boarnsterhim (GM0055) wordt opgeheven en gaat gedeeltelijk over naar Súdwest-Fryslân (GM1900), 2467 hectare met 704 woningen en 1653 inwoners
+
+"
+"CR05  ";"Zuidwest-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Noord-Friesland (CR04), 75 hectare met 3 woningen en 0 inwoners
+... Súdwest-Fryslân (GM1900) ontvangt van Waadhoeke (GM1949), 75 hectare met 3 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Noord-Friesland (CR04), 6738 hectare met 2325 woningen en 5411 inwoners
+... Súdwest-Fryslân (GM1900) ontvangt een gedeelte van het opgeheven Littenseradiel (GM0140), 6738 hectare met 2325 woningen en 5411 inwoners
+
+Grenswijziging per 01-01-2014:
+- Ontvangen van Noord-Friesland (CR04), 2998 hectare met 981 woningen en 2436 inwoners
+... De Friese Meren (GM1921) ontvangt een gedeelte van het opgeheven Boarnsterhim (GM0055), 531 hectare met 277 woningen en 783 inwoners
+... Súdwest-Fryslân (GM1900) ontvangt een gedeelte van het opgeheven Boarnsterhim (GM0055), 2467 hectare met 704 woningen en 1653 inwoners
+- Ontvangen van Zuidoost-Friesland (CR06), 17549 hectare met 11785 woningen en 26921 inwoners
+... De Friese Meren (GM1921) ontvangt een gedeelte van het opgeheven Skarsterlân (GM0051), 17549 hectare met 11785 woningen en 26921 inwoners
+
+"
+"CR06  ";"Zuidoost-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Noord-Friesland (CR04), 0 hectare met 0 woningen en 2 inwoners
+... Heerenveen (GM0074) ontvangt van Leeuwarden (GM0080), 0 hectare met 0 woningen en 2 inwoners
+
+Grenswijziging per 01-01-2014:
+- Ontvangen van Noord-Friesland (CR04), 4561 hectare met 2614 woningen en 6018 inwoners
+... Heerenveen (GM0074) ontvangt een gedeelte van het opgeheven Boarnsterhim (GM0055), 4561 hectare met 2614 woningen en 6018 inwoners
+- Over naar Zuidwest-Friesland (CR05), 17549 hectare met 11785 woningen en 26921 inwoners
+... Skarsterlân (GM0051) wordt opgeheven en gaat gedeeltelijk over naar De Friese Meren (GM1921), 17549 hectare met 11785 woningen en 26921 inwoners
+
+"
+"CR07  ";"Noord-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR08  ";"Zuidoost-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR09  ";"Zuidwest-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR10  ";"Noord-Overijssel (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR11  ";"Zuidwest-Overijssel (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR12  ";"Twente (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR13  ";"Veluwe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR14  ";"Achterhoek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR15  ";"Arnhem/Nijmegen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Noord-Limburg (CR37), 0 hectare met 0 woningen en 5 inwoners
+... Berg en Dal (GM1945) ontvangt van Mook en Middelaar (GM0944), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"CR16  ";"Zuidwest-Gelderland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR17  ";"Utrecht (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Zuidoost-Zuid-Holland (CR30), 10721 hectare met 14649 woningen en 35268 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Leerdam (GM0545), 3376 hectare met 8988 woningen en 21248 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Zederik (GM0707), 7345 hectare met 5661 woningen en 14020 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Het Gooi en Vechtstreek (CR24), 0 hectare met 0 woningen en 4 inwoners
+... Stichtse Vecht (GM1904) ontvangt van Wijdemeren (GM1696), 0 hectare met 0 woningen en 4 inwoners
+
+"
+"CR18  ";"Kop van Noord-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR19  ";"Alkmaar en omgeving (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2015:
+- Ontvangen van Groot-Amsterdam (CR23), 1994 hectare met 2593 woningen en 6406 inwoners
+... Alkmaar (GM0361) ontvangt van het opgeheven Graft-De Rijp (GM0365), 1994 hectare met 2593 woningen en 6406 inwoners
+
+"
+"CR20  ";"IJmond (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2012:
+- Over naar Agglomeratie Haarlem (CR21), 1 hectare met 0 woningen en 0 inwoners.
+... Over van Velsen (GM0453) naar Haarlemmerliede en Spaarnwoude (GM0393), 1 hectare met 0 woningen en 0 inwoners
+
+"
+"CR21  ";"Agglomeratie Haarlem (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Over naar Groot-Amsterdam (CR23), 1922 hectare met 2410 woningen en 6167 inwoners
+... Haarlemmerliede en Spaarnwoude (GM0393) wordt opgeheven en gaat over naar Haarlemmermeer (GM0394), 1922 hectare met 2410 woningen en 6167 inwoners
+
+Grenswijziging per 01-01-2013:
+- Ontvangen van Agglomeratie Leiden en Bollenstreek (CR25), 2 hectare met 0 woningen en 0 inwoners
+... Bloemendaal (GM0377) ontvangt van Hillegom (GM0534), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van IJmond (CR20), 1 hectare met 0 woningen en 0 inwoners
+... Haarlemmerliede en Spaarnwoude (GM0393) ontvangt van Velsen (GM0453), 1 hectare met 0 woningen en 0 inwoners
+
+"
+"CR22  ";"Zaanstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR23  ";"Groot-Amsterdam (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Agglomeratie Haarlem (CR21), 1922 hectare met 2410 woningen en 6167 inwoners
+... Haarlemmermeer (GM0394) ontvangt van het opgeheven Haarlemmerliede en Spaarnwoude (GM0393), 1922 hectare met 2410 woningen en 6167 inwoners
+
+Grenswijziging per 01-01-2015:
+- Over naar Alkmaar en omgeving (CR19), 1994 hectare met 2593 woningen en 6406 inwoners
+... Graft-De Rijp (GM0365) wordt opgeheven en gaat over naar Alkmaar (GM0361), 1994 hectare met 2593 woningen en 6406 inwoners
+
+Grenswijziging per 01-01-2012:
+- Over naar Agglomeratie Leiden en Bollenstreek (CR25), 3 hectare met 4 woningen en 10 inwoners
+... Over van Uithoorn (GM0451) naar Kaag en Braassem (GM1884), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"CR24  ";"Het Gooi en Vechtstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2012:
+- Over naar Utrecht (CR17), 0 hectare met 0 woningen en 4 inwoners
+... Over van Wijdemeren (GM1696) naar Stichtse Vecht (GM1904), 0 hectare met 0 woningen en 4 inwoners
+
+"
+"CR25  ";"Agglomeratie Leiden en Bollenstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2013:
+- Over naar Agglomeratie Haarlem (CR21), 2 hectare met 0 woningen en 0 inwoners
+... Over van Hillegom (GM0534) naar Bloemendaal (GM0377), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Groot-Amsterdam (CR23), 3 hectare met 4 woningen en 10 inwoners
+... Kaag en Braassem (GM1884) ontvangt van Uithoorn (GM0451), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"CR26  ";"Agglomeratie 's-Gravenhage (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR27  ";"Delft en Westland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR28  ";"Oost-Zuid-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2015:
+- Ontvangen van Groot-Rijnmond (CR29), 5484 hectare met 9731 woningen en 22384 inwoners
+... Krimpenerwaard (GM1931) ontvangt van het opgeheven Nederlek (GM0643), 2777 hectare met 6388 woningen en 14143 inwoners
+... Krimpenerwaard (GM1931) ontvangt van het opgeheven Ouderkerk (GM0644), 2707 hectare met 3343 woningen en 8241 inwoners
+
+"
+"CR29  ";"Groot-Rijnmond (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2015:
+- Over naar Oost-Zuid-Holland (CR28), 5484 hectare met 9731 woningen en 22384 inwoners
+... Nederlek (GM0643) wordt opgeheven en gaat over naar Krimpenerwaard (GM1931), 2777 hectare met 6388 woningen en 14143 inwoners
+... Ouderkerk (GM0644) wordt opgeheven en gaat over naar Krimpenerwaard (GM1931), 2707 hectare met 3343 woningen en 8241 inwoners
+
+"
+"CR30  ";"Zuidoost-Zuid-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Over naar Utrecht (CR17), 10721 hectare met 14649 woningen en 35268 inwoners
+... Leerdam (GM0545) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 3376 hectare met 8988 woningen en 21248 inwoners
+... Zederik (GM0707) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 7345 hectare met 5661 woningen en 14020 inwoners
+
+"
+"CR31  ";"Zeeuwsch-Vlaanderen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR32  ";"Overig Zeeland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR33  ";"West-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR34  ";"Midden-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR35  ";"Noordoost-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR36  ";"Zuidoost-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR37  ";"Noord-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2016:
+- Over naar Arnhem/Nijmegen (CR15), 0 hectare met 0 woningen en 5 inwoners
+... Over van Mook en Middelaar (GM0944) naar Berg en Dal (GM1945), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"CR38  ";"Midden-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR39  ";"Zuid-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (CR98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (CR98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+"
+"CR40  ";"Flevoland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"GM1680";"Aa en Hunze";"Begindatum 01-01-1998
+
+"
+"GM0738";"Aalburg";"Opgeheven per 01-01-2019, overgegaan naar:
+- Altena (GM1959),
+... 5041 hectare met 5167 woningen en 13321 inwoners
+
+Begindatum 01-01-1973
+"
+"GM0358";"Aalsmeer";"Begindatum voor 1830
+"
+"GM0197";"Aalten";"Begindatum voor 1830
+
+"
+"GM0059";"Achtkarspelen";"Begindatum voor 1830
+
+"
+"GM0482";"Alblasserdam";"Begindatum voor 1830
+
+"
+"GM0613";"Albrandswaard";"Begindatum 01-01-1985
+
+"
+"GM0361";"Alkmaar";"Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Alkmaar (GM0361),
+... 2928 hectare met 45286 woningen en 95248 inwoners
+- Graft-De Rijp (GM0365),
+... 1994 hectare met 2593 woningen en 6406 inwoners
+- Schermer (GM0458),
+... 6129 hectare met 2197 woningen en 5452 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0141";"Almelo";"Begindatum 01-12-1913
+
+"
+"GM0034";"Almere";"Begindatum 01-01-1984
+
+"
+"GM0484";"Alphen aan den Rijn";"Gemeentelijke herindeling per 01-01-2014, ontvangen van:
+- Alphen aan den Rijn (GM0484),
+... 5496 hectare met 31375 woningen en 73124 inwoners
+- Boskoop (GM0499),
+... 1485 hectare met 6328 woningen en 15177 inwoners
+- Rijnwoude (GM1672),
+... 5667 hectare met 7730 woningen en 18484 inwoners
+
+Begindatum 01-01-1918
+
+"
+"GM1723";"Alphen-Chaam";"Begindatum 01-01-1997
+
+"
+"GM1959";"Altena";"Ontstaan per 01-01-2019, ontvangen van:
+- Aalburg (GM0738),
+... 5041 hectare met 5167 woningen en 13321 inwoners
+- Werkendam (GM0870),
+... 10090 hectare met 10929 woningen en 27295 inwoners
+- Woudrichem (GM0874),
+... 4932 hectare met 6125 woningen en 14770 inwoners
+Begindatum 01-01-2019
+"
+"GM0060";"Ameland";"Begindatum voor 1830
+
+"
+"GM0307";"Amersfoort";"Begindatum voor 1830
+"
+"GM0362";"Amstelveen";"Begindatum 01-01-1964
+"
+"GM0363";"Amsterdam";"Grenswijziging per 01-01-2014, ontvangen van:
+- Haarlemmermeer (GM0394),
+... 1 hectare met 0 woningen en 170 inwoners
+
+Begindatum voor 1830
+"
+"GM0366";"Anna Paulowna";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 7464 hectare met 5844 woningen en 14304 inwoners
+
+Begindatum 18-07-1870
+"
+"GM0200";"Apeldoorn";"Begindatum voor 1830
+
+"
+"GM0003";"Appingedam";"Begindatum voor 1830
+"
+"GM0202";"Arnhem";"Begindatum voor 1830
+
+"
+"GM0106";"Assen";"Begindatum voor 1830
+
+"
+"GM0743";"Asten";"Begindatum voor 1830
+
+"
+"GM0744";"Baarle-Nassau";"Begindatum voor 1830
+
+"
+"GM0308";"Baarn";"Begindatum voor 1830
+
+"
+"GM0489";"Barendrecht";"Begindatum 10-12-1886
+
+"
+"GM0203";"Barneveld";"Grenswijziging per 01-01-2014, ontvangen van:
+- Nijkerk (GM0267),
+... 16 hectare met 0 woningen en 30 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Nijkerk (GM0267),
+... 19 hectare met 0 woningen en 19 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0005";"Bedum";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 4454 hectare met 4703 woningen en 10493 inwoners
+
+Begindatum voor 1830
+"
+"GM0888";"Beek (L.)";"Begindatum 02-01-1839
+"
+"GM1954";"Beekdaelen";"Ontstaan per 01-01-2019, ontvangen van:
+- Nuth (GM0951),
+... 3310 hectare met 7018 woningen en 15187 inwoners
+- Onderbanken (GM0881),
+... 2114 hectare met 3661 woningen en 7782 inwoners
+- Schinnen (GM0962)
+... 2406 hectare met 5956 woningen en 12758 inwoners
+Begindatum 01-01-2019
+"
+"GM0370";"Beemster";"Begindatum voor 1830
+
+"
+"GM0889";"Beesel";"Begindatum 02-01-1839
+
+"
+"GM0007";"Bellingwedde";"Opgeheven per 01-01-2018, overgegaan naar:
+- Westerwolde (GM1950),
+... 10837 hectare met 4118 woningen en 8816 inwoners
+
+Begindatum 01-09-1968
+"
+"GM1945";"Berg en Dal";"Grenswijziging per 01-01-2019, ontvangen van:
+- Nijmegen (GM0268),
+... 5 hectare met 26 woningen en 25 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- Nijmegen (GM0268),
+... 9 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2016, ontvangen van:
+- Mook en Middelaar (GM0944),
+... 0 hectare met 0 woningen en 5 inwoners
+
+Naamswijziging per 01-01-2016,
+oude naam: Groesbeek (GM0241)
+Begindatum 01-01-2016
+"
+"GM0491";"Bergambacht";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 3510 hectare met 4231 woningen en 10186 inwoners
+
+Begindatum voor 1830
+
+"
+"GM1724";"Bergeijk";"Begindatum 25-09-1998
+"
+"GM0893";"Bergen (L.)";"Begindatum 02-01-1839
+"
+"GM0373";"Bergen (NH.)";"Begindatum voor 1830
+
+"
+"GM0748";"Bergen op Zoom";"Begindatum voor 1830
+
+"
+"GM1859";"Berkelland";"Grenswijziging per 01-01-2018, overgegaan naar:
+- Oost Gelre (GM1586),
+... 32 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2005
+"
+"GM1721";"Bernheze";"Begindatum 28-01-1995
+
+"
+"GM0568";"Bernisse";"Opgeheven per 01-01-2015, overgegaan naar:
+- Nissewaard (GM1930),
+... 5736 hectare met 5524 woningen en 12381 inwoners
+
+Begindatum 01-01-1980
+
+"
+"GM0753";"Best";"Begindatum voor 1830
+
+"
+"GM0209";"Beuningen";"Begindatum voor 1830
+
+"
+"GM0375";"Beverwijk";"Grenswijziging per 01-01-2012, ontvangen van:
+- Velsen (GM0453),
+... 6 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Velsen (GM0453),
+... 29 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0063";"het Bildt";"Opgeheven per 01-01-2018, overgegaan naar:
+- Waadhoeke (GM1949),
+... 9233 hectare met 4706 woningen en 10560 inwoners
+
+Begindatum voor 1830
+"
+"GM0310";"De Bilt";"Begindatum voor 1830
+
+"
+"GM0585";"Binnenmaas";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 6933 hectare met 12868 woningen en 29292 inwoners
+
+Begindatum 01-01-1984
+"
+"GM1728";"Bladel";"Begindatum 01-01-1997
+
+"
+"GM0376";"Blaricum";"Begindatum voor 1830
+
+"
+"GM0377";"Bloemendaal";"Grenswijziging per 01-01-2013, ontvangen van:
+- Hillegom (GM0534),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0055";"Boarnsterhim";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 531 hectare met 277 woningen en 783 inwoners
+- Heerenveen (GM0074),
+... 4561 hectare met 2614 woningen en 6018 inwoners
+- Leeuwarden (GM0080),
+... 7567 hectare met 4963 woningen en 11024 inwoners
+- Súdwest-Fryslân (GM1900),
+... 2467 hectare met 704 woningen en 1653 inwoners
+
+Begindatum 03-01-1985
+
+"
+"GM1901";"Bodegraven-Reeuwijk";"Ontstaan per 01-01-2011, uit:
+- Bodegraven (GM0497),
+... 3756 hectare met 7504 woningen en 19432 inwoners
+- Reeuwijk (GM0595),
+... 3813 hectare met 5329 woningen en 13296 inwoners
+Begindatum 01-01-2011
+
+"
+"GM0755";"Boekel";"Begindatum voor 1830
+
+"
+"GM0009";"Ten Boer";"Opgeheven per 01-01-2019, overgegaan naar:
+- Groningen (GM0014),
+... 4531 hectare met 3051 woningen en 7289 inwoners
+
+Begindatum voor 1830
+"
+"GM1681";"Borger-Odoorn";"Begindatum 01-01-1998
+
+"
+"GM0147";"Borne";"Grenswijziging per 01-01-2011, ontvangen van:
+- Hengelo (O.) (GM0164),
+... 2 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2011, overgegaan naar:
+- Hengelo (O.) (GM0164),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0654";"Borsele";"Begindatum 01-01-1970
+
+"
+"GM0499";"Boskoop";"Opgeheven per 01-01-2014, overgegaan naar:
+- Alphen aan den Rijn (GM0484),
+... 1485 hectare met 6328 woningen en 15177 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0756";"Boxmeer";"Begindatum voor 1830
+
+"
+"GM0757";"Boxtel";"Begindatum voor 1830
+"
+"GM0758";"Breda";"Grenswijziging per 01-01-2012, ontvangen van:
+- Zundert (GM0879),
+... 32 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Zundert (GM0879),
+... 74 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0501";"Brielle";"Begindatum voor 1830
+
+"
+"GM1876";"Bronckhorst";"Begindatum 01-01-2005
+
+"
+"GM0213";"Brummen";"Begindatum voor 1830
+
+"
+"GM0899";"Brunssum";"Begindatum 02-01-1839
+
+"
+"GM0312";"Bunnik";"Begindatum voor 1830
+
+"
+"GM0313";"Bunschoten";"Begindatum voor 1830
+
+"
+"GM0214";"Buren";"Begindatum voor 1830
+
+"
+"GM0381";"Bussum";"Opgeheven per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 808 hectare met 15681 woningen en 33122 inwoners
+Begindatum voor 1830
+"
+"GM0502";"Capelle aan den IJssel";"Begindatum voor 1830
+
+"
+"GM0383";"Castricum";"Begindatum voor 1830
+
+"
+"GM0109";"Coevorden";"Begindatum voor 1830
+
+"
+"GM1706";"Cranendonck";"Begindatum 28-01-1998
+
+"
+"GM0611";"Cromstrijen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 5440 hectare met 5714 woningen en 12916 inwoners
+
+Begindatum 01-01-1984
+"
+"GM1684";"Cuijk";"Begindatum 01-01-1994
+
+"
+"GM0216";"Culemborg";"Begindatum voor 1830
+
+"
+"GM0148";"Dalfsen";"Begindatum voor 1830
+
+"
+"GM1891";"Dantumadiel";"Begindatum 01-01-2009
+"
+"GM0503";"Delft";"Begindatum voor 1830
+
+"
+"GM0010";"Delfzijl";"Begindatum voor 1830
+"
+"GM0762";"Deurne";"Begindatum 01-01-1926
+
+"
+"GM0150";"Deventer";"Begindatum voor 1830
+
+"
+"GM0384";"Diemen";"Begindatum voor 1830
+
+"
+"GM1774";"Dinkelland";"Begindatum 01-06-2002
+
+"
+"GM0504";"Dirksland";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 5536 hectare met 3450 woningen en 8526 inwoners
+
+Begindatum voor 1830
+"
+"GM0221";"Doesburg";"Begindatum voor 1830
+
+"
+"GM0222";"Doetinchem";"Begindatum 01-01-1920
+
+"
+"GM0766";"Dongen";"Grenswijziging per 01-01-2013, ontvangen van:
+- Tilburg (GM0855),
+... 4 hectare met 1 woning en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Tilburg (GM0855),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0058";"Dongeradeel";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noardeast-Fryslân (GM1970),
+... 16812 hectare met 11024 woningen en 23845 inwoners
+
+Begindatum 01-01-1984
+"
+"GM0505";"Dordrecht";"Begindatum voor 1830
+
+"
+"GM0498";"Drechterland";"Grenswijziging per 01-01-2014, ontvangen van:
+- Hoorn (GM0405),
+... 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Hoorn (GM0405),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-1980
+"
+"GM1719";"Drimmelen";"Begindatum 25-04-1998
+
+"
+"GM0303";"Dronten";"Begindatum 01-01-1972
+
+"
+"GM0225";"Druten";"Begindatum voor 1830
+
+"
+"GM0226";"Duiven";"Begindatum voor 1830
+
+"
+"GM1711";"Echt-Susteren";"Begindatum 01-01-2003
+
+"
+"GM0385";"Edam-Volendam";"Gemeentelijke herindeling per 01-01-2016, ontvangen van:
+- Edam-Volendam (GM0385),
+... 1630 hectare met 12363 woningen en 29208 inwoners
+- Zeevang (GM0478),
+... 3806 hectare met 2576 woningen en 6257 inwoners
+
+Begindatum 01-01-1975
+"
+"GM0228";"Ede";"Begindatum voor 1830
+
+"
+"GM0317";"Eemnes";"Begindatum voor 1830
+
+"
+"GM1651";"Eemsmond";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 18946 hectare met 7416 woningen en 15411 inwoners
+
+Begindatum 01-01-1992
+"
+"GM0770";"Eersel";"Begindatum voor 1830
+
+"
+"GM1903";"Eijsden-Margraten";"Grenswijziging per 01-01-2018, ontvangen van:
+- Buitenland (GM0998),
+... 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018, overgegaan naar:
+- Buitenland (GM0998),
+... 5 hectare met 0 woningen en 0 inwoners
+
+Ontstaan per 01-01-2011, uit:
+- Eijsden (GM0905),
+... 1974 hectare met 4731 woningen en 11565 inwoners
+- Margraten (GM0936),
+... 5766 hectare met 5554 woningen en 13375 inwoners
+Begindatum 01-01-2011
+"
+"GM0772";"Eindhoven";"Grenswijziging per 01-01-2017, ontvangen van:
+- Veldhoven (GM0861),
+... 10 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2017, overgegaan naar:
+- Veldhoven (GM0861),
+... 6 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Son en Breugel (GM0848),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Son en Breugel (GM0848),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0230";"Elburg";"Begindatum voor 1830
+
+"
+"GM0114";"Emmen";"Begindatum voor 1830
+
+"
+"GM0388";"Enkhuizen";"Begindatum voor 1830
+"
+"GM0153";"Enschede";"Begindatum voor 1830
+
+"
+"GM0232";"Epe";"Begindatum voor 1830
+
+"
+"GM0233";"Ermelo";"Begindatum voor 1830
+
+"
+"GM0777";"Etten-Leur";"Begindatum 01-01-1968
+
+"
+"GM1722";"Ferwerderadiel";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noardeast-Fryslân (GM1970),
+... 10018 hectare met 3841 woningen en 8575 inwoners
+
+Begindatum 01-01-1999
+"
+"GM0070";"Franekeradeel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Waadhoeke (GM1949),
+... 10259 hectare met 9614 woningen en 20213 inwoners
+
+Begindatum voor 1830
+"
+"GM1921";"De Friese Meren";"Naamswijziging per 01-07-2015,
+nieuwe naam: De Fryske Marren (GM1940)
+
+Ontstaan per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 531 hectare met 277 woningen en 783 inwoners
+- Gaasterlân-Sleat (GM0653),
+... 9512 hectare met 4483 woningen en 10186 inwoners
+- Lemsterland (GM0082),
+... 7577 hectare met 6146 woningen en 13524 inwoners
+- Skarsterlân (GM0051),
+... 17549 hectare met 11785 woningen en 26921 inwoners
+Begindatum 01-01-2014
+"
+"GM1940";"De Fryske Marren";"Naamswijziging per 01-07-2015,
+oude naam: De Friese Meren (GM1921)
+Begindatum 01-07-2015
+"
+"GM0653";"Gaasterlân-Sleat";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 9512 hectare met 4483 woningen en 10186 inwoners
+
+Begindatum 05-06-1985
+"
+"GM0779";"Geertruidenberg";"Begindatum voor 1830
+
+"
+"GM0236";"Geldermalsen";"Opgeheven per 01-01-2019, overgegaan naar:
+- West Betuwe (GM1960),
+... 9985 hectare met 11070 woningen en 27036 inwoners
+
+Begindatum voor 1830
+"
+"GM1771";"Geldrop-Mierlo";"Begindatum 01-01-2004
+
+"
+"GM1652";"Gemert-Bakel";"Begindatum 01-01-1997
+
+"
+"GM0907";"Gennep";"Begindatum 02-01-1839
+
+"
+"GM0689";"Giessenlanden";"Opgeheven per 01-01-2019, overgegaan naar:
+- Molenlanden (GM1978),
+... 6351 hectare met 5928 woningen en 14540 inwoners
+
+Begindatum 01-01-1986
+"
+"GM0784";"Gilze en Rijen";"Begindatum voor 1830
+
+"
+"GM0511";"Goedereede";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 7113 hectare met 4868 woningen en 11329 inwoners
+
+Begindatum voor 1830
+"
+"GM1924";"Goeree-Overflakkee";"Ontstaan per 01-01-2013, ontvangen van:
+- Dirksland (GM0504),
+... 5536 hectare met 3450 woningen en 8526 inwoners
+- Goedereede (GM0511),
+... 7113 hectare met 4868 woningen en 11329 inwoners
+- Middelharnis (GM0559),
+... 6071 hectare met 7611 woningen en 18070 inwoners
+- Oostflakkee (GM0580),
+... 7480 hectare met 4253 woningen en 10334 inwoners
+Begindatum 01-01-2013
+
+"
+"GM0664";"Goes";"Begindatum voor 1830
+
+"
+"GM0785";"Goirle";"Grenswijziging per 01-01-2018, ontvangen van:
+- Tilburg (GM0855),
+... 89 hectare met 25 woningen en 67 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Tilburg (GM0855),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Tilburg (GM0855),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM1942";"Gooise Meren";"Ontstaan per 01-01-2016, ontvangen van:
+- Bussum (GM0381),
+... 808 hectare met 15681 woningen en 33122 inwoners
+- Muiden (GM0424),
+... 1207 hectare met 2781 woningen en 6206 inwoners
+- Naarden (GM0425),
+... 2142 hectare met 7675 woningen en 17406 inwoners
+- Weesp (GM0457),
+... 4 hectare met 0 woningen en 0 inwoners
+Begindatum 01-01-2015
+"
+"GM0512";"Gorinchem";"Begindatum voor 1830
+
+"
+"GM0513";"Gouda";"Begindatum voor 1830
+
+"
+"GM0693";"Graafstroom";"Opgeheven per 01-01-2013, overgegaan naar:
+- Molenwaard (GM1927),
+... 6691 hectare met 3588 woningen en 9894 inwoners
+
+Begindatum 01-01-1986
+"
+"GM0365";"Graft-De Rijp";"Opgeheven per 01-01-2015, overgegaan naar:
+- Alkmaar (GM0361),
+... 1994 hectare met 2593 woningen en 6406 inwoners
+
+Begindatum 01-08-1970
+
+"
+"GM0786";"Grave";"Begindatum voor 1830
+
+"
+"GM0518";"'s-Gravenhage (gemeente)";"Grenswijziging per 01-01-2013, overgegaan naar:
+- Pijnacker-Nootdorp (GM1926),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0241";"Groesbeek";"Naamswijziging per 01-01-2016,
+nieuwe naam: Berg en Dal (GM1945)
+
+Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Groesbeek (GM0241),
+... 4414 hectare met 8197 woningen en 18963 inwoners
+- Millingen aan de Rijn (GM0265),
+... 864 hectare met 2588 woningen en 5879 inwoners
+- Ubbergen (GM0282),
+... 3371 hectare met 4308 woningen en 9416 inwoners
+Begindatum voor 1830
+"
+"GM0014";"Groningen (gemeente)";"Gemeentelijke herindeling per 01-01-2019, ontvangen van:
+- Ten Boer (GM0009),
+... 4531 hectare met 3051 woningen en 7289 inwoners 
+- Groningen (GM0014),
+... 9492 hectare met 102562 woningen en 203819 inwoners
+- Haren (GM0017),
+... 4537 hectare met 9120 woningen en 20191 inwoners
+
+Grenswijziging per 01-01-2017, ontvangen van:
+- Slochteren (GM0040),
+... 1649 hectare met 341 woningen en 1033 inwoners
+
+Begindatum voor 1830
+"
+"GM0015";"Grootegast";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 8670 hectare met 5045 woningen en 12191 inwoners
+
+Begindatum voor 1830
+"
+"GM1729";"Gulpen-Wittem";"Begindatum 01-01-1999
+
+"
+"GM0158";"Haaksbergen";"Begindatum voor 1830
+
+"
+"GM0788";"Haaren";"Begindatum voor 1830
+"
+"GM0392";"Haarlem";"Begindatum voor 1830
+"
+"GM0393";"Haarlemmerliede en Spaarnwoude";"Opgeheven per 01-01-2019, overgegaan naar:
+- Haarlemmermeer (GM0394),
+... 1922 hectare met 2410 woningen en 6167 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Velsen (GM0453),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum 13-06-1857
+"
+"GM0394";"Haarlemmermeer";"Gemeentelijke herindeling per 01-01-2019, ontvangen van:
+- Haarlemmerliede en Spaarnwoude (GM0393),
+... 1922 hectare met 2410 woningen en 6167 inwoners
+- Haarlemmermeer (GM0394),
+... 17826 hectare met 61101 woningen en 148068 inwoners
+
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Amsterdam (GM0363),
+... 1 hectare met 0 woningen en 170 inwoners
+Begindatum 16-11-1855
+"
+"GM1655";"Halderberge";"Begindatum 01-01-1997
+
+"
+"GM0160";"Hardenberg";"Begindatum 01-05-1941
+
+"
+"GM0243";"Harderwijk";"Begindatum voor 1830
+
+"
+"GM0523";"Hardinxveld-Giessendam";"Begindatum 01-01-1957
+
+"
+"GM0017";"Haren";"Opgeheven per 01-01-2019, overgegaan naar:
+- Groningen (GM0014),
+... 4537 hectare met 9120 woningen en 20191 inwoners
+
+Begindatum voor 1830
+"
+"GM0395";"Harenkarspel";"Opgeheven per 01-01-2013, overgegaan naar:
+- Schagen (GM0441),
+... 5396 hectare met 6271 woningen en 16122 inwoners
+
+Begindatum voor 1830
+"
+"GM0072";"Harlingen";"Begindatum voor 1830
+
+"
+"GM0244";"Hattem";"Begindatum voor 1830
+
+"
+"GM0396";"Heemskerk";"Begindatum voor 1830
+
+"
+"GM0397";"Heemstede";"Begindatum voor 1830
+"
+"GM0246";"Heerde";"Begindatum voor 1830
+
+"
+"GM0074";"Heerenveen";"Grenswijziging per 01-01-2016, ontvangen van:
+- Leeuwarden (GM0080),
+... 0 hectare met 0 woningen en 2 inwoners
+
+Gemeentelijke herindeling per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 4561 hectare met 2614 woningen en 6018 inwoners
+- Heerenveen (GM0074),
+... 13487 hectare met 20131 woningen en 43301 inwoners
+- Skarsterlân (GM0051),
+... 968 hectare met 229 woningen en 580 inwoners
+
+Begindatum 01-07-1934
+"
+"GM0398";"Heerhugowaard";"Begindatum voor 1830
+
+"
+"GM0917";"Heerlen";"Begindatum 02-01-1839
+
+"
+"GM1658";"Heeze-Leende";"Begindatum 01-01-1997
+
+"
+"GM0399";"Heiloo";"Begindatum voor 1830
+
+"
+"GM0400";"Den Helder";"Begindatum voor 1830
+
+"
+"GM0163";"Hellendoorn";"Begindatum voor 1830
+"
+"GM0530";"Hellevoetsluis";"Grenswijziging per 01-01-2018, ontvangen van:
+- Nissewaard (GM1930),
+... 963 hectare met 533 woningen en 1209 inwoners
+
+Begindatum voor 1830
+"
+"GM0794";"Helmond";"Grenswijziging per 01-01-2012, ontvangen van:
+- Nuenen, Gerwen en Nederwetten (GM0820),
+... 19 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0531";"Hendrik-Ido-Ambacht";"Begindatum voor 1830
+
+"
+"GM0164";"Hengelo (O.)";"Grenswijziging per 01-01-2011, ontvangen van:
+- Borne (GM0147),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2011, overgegaan naar:
+- Borne (GM0147),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0796";"'s-Hertogenbosch";"Grenswijziging per 01-01-2019, ontvangen van:
+- Vught (GM0865),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- Vught (GM0865),
+... 29 hectare met 0 woningen en 0 inwoners
+
+Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Maasdonk (GM1671)
+... 2619 hectare met 2818 woningen en 6719 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Sint-Michielsgestel (GM0845),
+... 49 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0252";"Heumen";"Begindatum voor 1830
+
+"
+"GM0797";"Heusden";"Begindatum voor 1830
+
+"
+"GM0534";"Hillegom";"Grenswijziging per 01-01-2013, overgegaan naar:
+- Bloemendaal (GM0377),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0798";"Hilvarenbeek";"Begindatum voor 1830
+
+"
+"GM0402";"Hilversum";"Begindatum voor 1830
+
+"
+"GM1963";"Hoeksche Waard";"Ontstaan per 01-01-2019, ontvangen van:
+- Binnenmaas (GM0585),
+... 6933 hectare met 12868 woningen en 29292 inwoners
+- Cromstrijen (GM0611),
+... 5440 hectare met 5714 woningen en 12916 inwoners
+- Korendijk (GM0588),
+... 7608 hectare met 4690 woningen en 11269 inwoners
+- Oud-Beijerland (GM0584),
+... 1873 hectare met 10313 woningen en 24403 inwoners
+- Strijen (GM0617),
+... 5039 hectare met 3957 woningen en 8776 inwoners
+Begindatum 01-01-2019
+"
+"GM1735";"Hof van Twente";"Begindatum 01-01-2001
+
+"
+"GM1966";"Het Hogeland";"Ontstaan per 01-01-2019, ontvangen van:
+- Bedum (GM0005),
+... 4454 hectare met 4703 woningen en 10493 inwoners
+- Eemsmond (GM1651),
+... 18946 hectare met 7416 woningen en 15411 inwoners
+- De Marne (GM1663),
+... 17068 hectare met 5204 woningen en 10037 inwoners
+- Winsum (GM0053),
+... 7807 hectare met 5308 woningen en 11947 inwoners
+Begindatum 01-01-2019
+"
+"GM1911";"Hollands Kroon";"Ontstaan per 01-01-2012, ontvangen van:
+- Anna Paulowna (GM0366),
+... 7464 hectare met 5844 woningen en 14304 inwoners
+- Niedorp (GM0412),
+... 6159 hectare met 4861 woningen en 12272 inwoners
+- Wieringen (GM0462),
+... 2688 hectare met 3853 woningen en 8562 inwoners
+- Wieringermeer (GM0463),
+... 19498 hectare met 5264 woningen en 12565 inwoners
+Begindatum 01-01-2012
+"
+"GM0118";"Hoogeveen";"Begindatum voor 1830
+
+"
+"GM0018";"Hoogezand-Sappemeer";"Opgeheven per 01-01-2018, overgegaan naar:
+- Midden-Groningen (GM1952),
+... 6646 hectare met 16115 woningen en 34158 inwoners
+
+Begindatum 01-04-1949
+"
+"GM0405";"Hoorn";"Grenswijziging per 01-01-2015, ontvangen van:
+- Koggenland (GM1598),
+... 6 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Koggenland (GM1598),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2014, ontvangen van:
+- Drechterland (GM0498),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Drechterland (GM0498),
+... 16 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM1507";"Horst aan de Maas";"Begindatum 01-01-2001
+"
+"GM0321";"Houten";"Begindatum voor 1830
+
+"
+"GM0406";"Huizen";"Begindatum voor 1830
+
+"
+"GM0677";"Hulst";"Begindatum voor 1830
+
+"
+"GM0353";"IJsselstein";"Begindatum voor 1830
+
+"
+"GM1884";"Kaag en Braassem";"Grenswijziging per 01-01-2012, ontvangen van:
+- Uithoorn (GM0451),
+... 3 hectare met 4 woningen en 10 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Teylingen (GM1525),
+... 8 hectare met 3 woningen en 17 inwoners
+
+Begindatum 01-01-2009
+"
+"GM0166";"Kampen";"Begindatum voor 1830
+"
+"GM0678";"Kapelle";"Begindatum voor 1830
+
+"
+"GM0537";"Katwijk";"Begindatum voor 1830
+
+"
+"GM0928";"Kerkrade";"Begindatum 02-01-1839
+
+"
+"GM1598";"Koggenland";"Grenswijziging per 01-01-2015, ontvangen van:
+- Hoorn (GM0405),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Hoorn (GM0405),
+... 6 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2007
+
+"
+"GM0079";"Kollumerland en Nieuwkruisland";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noardeast-Fryslân (GM1970),
+... 10953 hectare met 5530 woningen en 12761 inwoners
+
+Begindatum voor 1830
+"
+"GM0588";"Korendijk";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 7608 hectare met 4690 woningen en 11269 inwoners
+
+Begindatum 01-01-1984
+"
+"GM0542";"Krimpen aan den IJssel";"Begindatum voor 1830
+
+"
+"GM1931";"Krimpenerwaard";"Ontstaan per 01-01-2015, ontvangen van:
+- Bergambacht (GM0491)
+... 3510 hectare met 4231 woningen en 10186 inwoners
+- Nederlek (GM0643)
+... 2777 hectare met 6388 woningen en 14143 inwoners
+- Ouderkerk (GM0644)
+... 2707 hectare met 3343 woningen en 8241 inwoners
+- Schoonhoven (GM0608)
+... 628 hectare met 5302 woningen en 11898 inwoners
+- Vlist (GM0623)
+... 5373 hectare met 4001 woningen en 9740 inwoners
+Begindatum 01-01-2015
+"
+"GM1659";"Laarbeek";"Begindatum 01-01-1997
+
+"
+"GM1685";"Landerd";"Begindatum 01-01-1994
+
+"
+"GM0882";"Landgraaf";"Begindatum 01-01-1982
+
+"
+"GM0415";"Landsmeer";"Begindatum voor 1830
+
+"
+"GM0416";"Langedijk";"Begindatum 01-08-1941
+
+"
+"GM1621";"Lansingerland";"Grenswijziging per 01-01-2020, ontvangen van:
+- Rotterdam (GM0599),
+... 2 hectare met 8 woningen en 11 inwoners
+
+Begindatum 01-01-2007
+"
+"GM0417";"Laren (NH.)";"Begindatum voor 1830
+
+"
+"GM0022";"Leek";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 6318 hectare met 8868 woningen en 19732 inwoners
+
+Begindatum voor 1830
+"
+"GM0545";"Leerdam";"Opgeheven per 01-01-2019, overgegaan naar:
+- Vijfheerenlanden (GM1961),
+... 3376 hectare met 8988 woningen en 21248 inwoners
+Provinciale wijziging per 01-01-2019:
+- overgegaan van provincie Zuid-Holland naar provincie Utrecht
+
+Begindatum voor 1830
+"
+"GM0080";"Leeuwarden";"Gemeentelijke herindeling per 01-01-2018, ontvangen van:
+- Leeuwarden (GM0080),
+... 15441 hectare met 55112 woningen en 108942 inwoners
+- Leeuwarderadeel (GM0081),
+... 4090 hectare met 4377 woningen en 10079 inwoners
+- Littenseradiel (GM0140),
+... 4330 hectare met 1416 woningen en 3394 inwoners
+
+Grenswijziging per 01-01-2016, overgegaan naar:
+- Heerenveen (GM0074),
+... 0 hectare met 0 woningen en 2 inwoners
+
+Gemeentelijke herindeling per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 7567 hectare met 4963 woningen en 11024 inwoners
+- Leeuwarden (GM0080),
+... 7872 hectare met 48149 woningen en 96318 inwoners
+
+Begindatum voor 1830
+"
+"GM0081";"Leeuwarderadeel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Leeuwarden (GM0080),
+... 4090 hectare met 4377 woningen en 10079 inwoners
+
+Begindatum voor 1830
+"
+"GM0546";"Leiden";"Grenswijziging per 01-01-2011, overgegaan naar:
+- Zoeterwoude (GM0638),
+... 4 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0547";"Leiderdorp";"Begindatum voor 1830
+
+"
+"GM1916";"Leidschendam-Voorburg";"Begindatum 01-01-2002
+
+"
+"GM0995";"Lelystad";"Begindatum 01-01-1980
+"
+"GM0082";"Lemsterland";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 7577 hectare met 6146 woningen en 13524 inwoners
+
+Begindatum voor 1830
+"
+"GM1640";"Leudal";"Begindatum 01-01-2007
+
+"
+"GM0327";"Leusden";"Begindatum voor 1830
+"
+"GM0694";"Liesveld";"Opgeheven per 01-01-2013, overgegaan naar:
+- Molenwaard (GM1927),
+... 4099 hectare met 3785 woningen en 9770 inwoners
+
+Begindatum 01-01-1986
+"
+"GM0733";"Lingewaal";"Opgeheven per 01-01-2019, overgegaan naar:
+- West Betuwe (GM1960),
+... 5031 hectare met 4666 woningen en 11193 inwoners
+
+Begindatum 03-01-1987
+"
+"GM1705";"Lingewaard";"Begindatum 01-01-2003
+
+"
+"GM0553";"Lisse";"Begindatum voor 1830
+
+"
+"GM0140";"Littenseradiel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Leeuwarden (GM0080),
+... 4330 hectare met 1416 woningen en 3394 inwoners
+- Súdwest-Fryslân (GM1900),
+... 6738 hectare met 2325 woningen en 5411 inwoners
+- Waadhoeke (GM1949),
+... 1999 hectare met 806 woningen en 1878 inwoners
+
+Begindatum 26-01-1985
+"
+"GM0262";"Lochem";"Begindatum voor 1830
+
+"
+"GM0809";"Loon op Zand";"Begindatum voor 1830
+
+"
+"GM0331";"Lopik";"Begindatum voor 1830
+
+"
+"GM0024";"Loppersum";"Begindatum voor 1830
+"
+"GM0168";"Losser";"Begindatum voor 1830
+
+"
+"GM1671";"Maasdonk";"Opgeheven per 01-01-2015, overgegaan naar:
+- 's-Hertogenbosch (GM0796),
+... 2619 hectare met 2818 woningen en 6719 inwoners
+- Oss (GM0828),
+... 1106 hectare met 1845 woningen en 4629 inwoners
+
+Begindatum 01-01-1993
+
+"
+"GM0263";"Maasdriel";"Begindatum 01-08-1944
+
+"
+"GM1641";"Maasgouw";"Begindatum 01-01-2007
+
+"
+"GM0556";"Maassluis";"Begindatum voor 1830
+
+"
+"GM0935";"Maastricht";"Begindatum voor 1830
+
+"
+"GM1663";"De Marne";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 17068 hectare met 5204 woningen en 10037 inwoners
+
+Begindatum 01-01-1992
+"
+"GM0025";"Marum";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 6437 hectare met 4447 woningen en 10484 inwoners
+
+Begindatum voor 1830
+"
+"GM0420";"Medemblik";"Gemeentelijke herindeling per 01-01-2011, ontvangen van:
+- Andijk (GM0364),
+... 2114 hectare met 2594 woningen en 6518 inwoners
+- Medemblik (GM0420),
+... 7727 hectare met 11278 woningen en 27627 inwoners
+- Wervershoof (GM0459),
+... 2340 hectare met 3347 woningen en 8746 inwoners
+.
+Begindatum voor 1830
+
+"
+"GM0938";"Meerssen";"Begindatum 02-01-1839
+
+"
+"GM1948";"Meierijstad";"Ontstaan per 01-01-2017, ontvangen van:
+- Schijndel (GM0844),
+... 4153 hectare met 9901 woningen en 23722 inwoners
+- Sint-Oedenrode (GM0846),
+... 6441 hectare met 7408 woningen en 17892 inwoners
+- Veghel (GM0860),
+... 7816 hectare met 15839 woningen en 38255 inwoners
+Begindatum 01-01-2017
+"
+"GM1908";"Menameradiel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Waadhoeke (GM1949),
+... 6884 hectare met 5877 woningen en 13450 inwoners
+
+Naamswijziging per 01-01-2011,
+oude naam: Menaldumadeel (GM0083)
+Begindatum 01-01-2011
+"
+"GM1987";"Menterwolde";"Opgeheven per 01-01-2018, overgegaan naar:
+- Midden-Groningen (GM1952),
+... 8025 hectare met 5400 woningen en 12013 inwoners
+
+Begindatum 01-02-1991
+"
+"GM0119";"Meppel";"Begindatum voor 1830
+
+"
+"GM0687";"Middelburg (Z.)";"Begindatum voor 1830
+
+"
+"GM0559";"Middelharnis";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 6071 hectare met 7611 woningen en 18070 inwoners
+
+Begindatum voor 1830
+"
+"GM1842";"Midden-Delfland";"Begindatum 01-01-2004
+
+"
+"GM1731";"Midden-Drenthe";"Begindatum 01-01-2000
+
+"
+"GM1952";"Midden-Groningen";"Ontstaan per 01-01-2018, ontvangen van:
+- Hoogezand-Sappemeer (GM0018),
+... 6646 hectare met 16115 woningen en 34158 inwoners
+- Menterwolde (GM1987),
+... 8025 hectare met 5400 woningen en 12013 inwoners
+- Slochteren (GM0040),
+... 13402 hectare met 6510 woningen en 14782 inwoners
+Begindatum 01-01-2018
+"
+"GM0815";"Mill en Sint Hubert";"Begindatum voor 1830
+
+"
+"GM0265";"Millingen aan de Rijn";"Opgeheven per 01-01-2015, overgegaan naar:
+- Groesbeek (GM0241),
+... 864 hectare met 2588 woningen en 5879 inwoners
+
+Begindatum 01-01-1954
+
+"
+"GM1709";"Moerdijk";"Begindatum 04-04-1998
+
+"
+"GM1978";"Molenlanden";"Ontstaan per 01-01-2019, ontvangen van:
+- Giessenlanden (GM0689),
+... 6351 hectare met 5928 woningen en 14540 inwoners
+- Molenwaard (GM1927)
+... 11821 hectare met 11232 woningen en 29318 inwoners
+Begindatum 01-01-2019
+"
+"GM1927";"Molenwaard";"Opgeheven per 01-01-2019, overgegaan naar:
+- Molenlanden (GM1978),
+... 11821 hectare met 11232 woningen en 29318 inwoners
+
+Ontstaan per 01-01-2013, ontvangen van:
+- Graafstroom (GM0693),
+... 6691 hectare met 3588 woningen en 9894 inwoners
+- Liesveld (GM0694),
+... 4099 hectare met 3785 woningen en 9770 inwoners
+- Nieuw-Lekkerland (GM0571)
+... 1039 hectare met 3467 woningen en 9526 inwoners
+Begindatum 01-01-2013
+"
+"GM1955";"Montferland";"Begindatum 01-01-2005
+
+"
+"GM0335";"Montfoort";"Begindatum voor 1830
+
+"
+"GM0944";"Mook en Middelaar";"Grenswijziging per 01-01-2016, overgegaan naar:
+- Berg en Dal (GM1945),
+... 0 hectare met 0 woningen en 5 inwoners
+Begindatum 02-01-1839
+"
+"GM0424";"Muiden";"Opgeheven per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 1207 hectare met 2781 woningen en 6206 inwoners
+- Weesp (GM0457),
+... 235 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0425";"Naarden";"Opgeheven per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 2142 hectare met 7675 woningen en 17406 inwoners
+
+Begindatum voor 1830
+"
+"GM1740";"Neder-Betuwe";"Grenswijziging per 01-01-2014, overgegaan naar:
+- Tiel (GM0281),
+... 70 hectare met 0 woningen en 20 inwoners
+
+Begindatum 01-04-2003
+"
+"GM0643";"Nederlek";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 2777 hectare met 6388 woningen en 14143 inwoners
+
+Begindatum 01-01-1985
+
+"
+"GM0946";"Nederweert";"Begindatum 02-01-1839
+
+"
+"GM0304";"Neerijnen";"Opgeheven per 01-01-2019, overgegaan naar:
+- West Betuwe (GM1960),
+... 6596 hectare met 4974 woningen en 12468 inwoners
+
+Begindatum 01-01-1978
+"
+"GM0412";"Niedorp";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 6159 hectare met 4861 woningen en 12272 inwoners
+
+Begindatum 01-08-1970
+"
+"GM0356";"Nieuwegein";"Begindatum 01-07-1971
+
+"
+"GM0569";"Nieuwkoop";"Begindatum voor 1830
+
+"
+"GM0571";"Nieuw-Lekkerland";"Opgeheven per 01-01-2013, overgegaan naar:
+- Molenwaard (GM1927),
+... 1039 hectare met 3467 woningen en 9526 inwoners
+
+Begindatum voor 1830
+"
+"GM0267";"Nijkerk";"Grenswijziging per 01-01-2014, ontvangen van:
+- Barneveld (GM0203),
+... 19 hectare met 0 woningen en 19 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Barneveld (GM0203),
+... 16 hectare met 0 woningen en 30 inwoners
+
+Grenswijziging per 01-01-2013, ontvangen van:
+- Putten (GM0273),
+... 12 hectare met 1 woning en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Putten (GM0273),
+... 21 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0268";"Nijmegen";"Grenswijziging per 01-01-2019, ontvangen van:
+- Berg en Dal (GM1945),
+... 9 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- Berg en Dal (GM1945),
+... 5 hectare met 26 woningen en 25 inwoners
+
+Begindatum voor 1830
+"
+"GM1930";"Nissewaard";"Grenswijziging per 01-01-2018, overgegaan naar:
+- Hellevoetsluis (GM0530),
+... 963 hectare met 533 woningen en 1209 inwoners
+
+Ontstaan per 01-01-2015, ontvangen van:
+- Bernisse (GM0568),
+... 5736 hectare met 5524 woningen en 12381 inwoners
+- Spijkenisse (GM0612),
+... 2610 hectare met 33465 woningen en 72740 inwoners
+Begindatum 01-01-2015
+"
+"GM1970";"Noardeast-Fryslân";"Ontstaan per 01-01-2019, ontvangen van:
+- Dongeradeel (GM0058),
+... 16812 hectare met 11024 woningen en 23845 inwoners
+- Kollumerland en Nieuwkruisland (GM0079),
+... 10953 hectare met 5530 woningen en 12761 inwoners
+- Ferwerderadiel (GM1722),
+... 10018 hectare met 3841 woningen en 8575 inwoners
+Begindatum 01-01-2019
+"
+"GM1695";"Noord-Beveland";"Grenswijziging per 01-01-2017, ontvangen van:
+- Veere (GM0717),
+... 9 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-1995
+"
+"GM1699";"Noordenveld";"Begindatum 01-01-1998
+
+"
+"GM0171";"Noordoostpolder";"Grenswijziging per 01-01-2019, overgegaan naar:
+- Urk (GM0184),
+... 164 hectare met 4 woningen en 13 inwoners
+
+Begindatum 01-07-1962
+"
+"GM0575";"Noordwijk";"Gemeentelijke herindeling per 01-01-2019, ontvangen van:
+- Noordwijk (GM0575),
+... 3578 hectare met 12544 woningen en 26174 inwoners
+- Noordwijkerhout (GM0576),
+... 2259 hectare met 7144 woningen en 16685 inwoners
+
+Begindatum voor 1830
+"
+"GM0576";"Noordwijkerhout";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noordwijk (GM0575),
+... 2259 hectare met 7144 woningen en 16685 inwoners
+
+Begindatum voor 1830
+"
+"GM0820";"Nuenen, Gerwen en Nederwetten";"Grenswijziging per 01-01-2012, overgegaan naar:
+- Helmond (GM0794),
+... 19 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0302";"Nunspeet";"Begindatum 01-01-1972
+
+"
+"GM0951";"Nuth";"Opgeheven per 01-01-2019, overgegaan naar:
+- Beekdaelen (GM1954),
+... 3310 hectare met 7018 woningen en 15187 inwoners
+
+Begindatum 02-01-1839
+"
+"GM0579";"Oegstgeest";"Begindatum voor 1830
+
+"
+"GM0823";"Oirschot";"Begindatum voor 1830
+
+"
+"GM0824";"Oisterwijk";"Begindatum voor 1830
+"
+"GM1895";"Oldambt";"Begindatum 01-01-2010
+
+"
+"GM0269";"Oldebroek";"Begindatum voor 1830
+
+"
+"GM0173";"Oldenzaal";"Begindatum voor 1830
+
+"
+"GM1773";"Olst-Wijhe";"Begindatum 26-03-2002
+
+"
+"GM0175";"Ommen";"Begindatum 01-05-1923
+
+"
+"GM0881";"Onderbanken";"Opgeheven per 01-01-2019, overgegaan naar:
+- Beekdaelen (GM1954),
+... 2114 hectare met 3661 woningen en 7782 inwoners
+
+Begindatum 01-01-1982
+"
+"GM1586";"Oost Gelre";"Grenswijziging per 01-01-2018, ontvangen van:
+- Berkelland (GM1859),
+... 32 hectare met 0 woningen en 0 inwoners
+
+Begindatum 19-05-2006
+"
+"GM0826";"Oosterhout";"Begindatum voor 1830
+
+"
+"GM0580";"Oostflakkee";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 7480 hectare met 4253 woningen en 10334 inwoners
+
+Begindatum 01-01-1966
+"
+"GM0085";"Ooststellingwerf";"Begindatum voor 1830
+
+"
+"GM0431";"Oostzaan";"Begindatum voor 1830
+
+"
+"GM0432";"Opmeer";"Begindatum voor 1830
+
+"
+"GM0086";"Opsterland";"Begindatum voor 1830
+
+"
+"GM0828";"Oss";"Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Maasdonk (GM1671)
+... 1106 hectare met 1845 woningen en 4629 inwoners
+
+Gemeentelijke herindeling per 01-01-2011, ontvangen van:
+- Lith (GM0808),
+... 5057 hectare met 2480 woningen en 6685 inwoners
+- Oss (GM0828),
+... 10185 hectare met 32524 woningen en 77516 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0584";"Oud-Beijerland";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 1873 hectare met 10313 woningen en 24403 inwoners
+
+Begindatum voor 1830
+"
+"GM1509";"Oude IJsselstreek";"Begindatum 01-01-2005
+
+"
+"GM0437";"Ouder-Amstel";"Begindatum voor 1830
+
+"
+"GM0644";"Ouderkerk";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 2707 hectare met 3343 woningen en 8241 inwoners
+
+Begindatum 01-01-1985
+
+"
+"GM0589";"Oudewater";"Begindatum voor 1830
+"
+"GM1734";"Overbetuwe";"Begindatum 01-01-2001
+
+"
+"GM0590";"Papendrecht";"Begindatum voor 1830
+
+"
+"GM1894";"Peel en Maas";"Begindatum 01-01-2010
+
+"
+"GM0765";"Pekela";"Begindatum 01-01-1990
+
+"
+"GM1926";"Pijnacker-Nootdorp";"Grenswijziging per 01-01-2013, ontvangen van:
+- 's-Gravenhage (GM0518),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2002
+"
+"GM0439";"Purmerend";"Begindatum voor 1830
+
+"
+"GM0273";"Putten";"Grenswijziging per 01-01-2013, ontvangen van:
+- Nijkerk (GM0267),
+... 21 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Nijkerk (GM0267),
+... 12 hectare met 1 woning en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0177";"Raalte";"Begindatum voor 1830
+
+"
+"GM0703";"Reimerswaal";"Begindatum 01-01-1970
+
+"
+"GM0274";"Renkum";"Begindatum voor 1830
+"
+"GM0339";"Renswoude";"Begindatum voor 1830
+
+"
+"GM1667";"Reusel-De Mierden";"Begindatum 01-01-1997
+
+"
+"GM0275";"Rheden";"Begindatum voor 1830
+
+"
+"GM0340";"Rhenen";"Begindatum voor 1830
+
+"
+"GM0597";"Ridderkerk";"Begindatum voor 1830
+
+"
+"GM0196";"Rijnwaarden";"Opgeheven per 01-01-2018, overgegaan naar:
+- Zevenaar (GM0299),
+... 3960 hectare met 4804 woningen en 10810 inwoners
+
+Begindatum 01-01-1985
+"
+"GM1672";"Rijnwoude";"Opgeheven per 01-01-2014, overgegaan naar:
+- Alphen aan den Rijn (GM0484),
+... 5667 hectare met 7730 woningen en 18484 inwoners
+
+Begindatum 01-01-1993
+"
+"GM1742";"Rijssen-Holten";"Begindatum 15-03-2003
+"
+"GM0603";"Rijswijk (ZH.)";"Begindatum voor 1830
+
+"
+"GM1669";"Roerdalen";"Grenswijziging per 01-01-2015, ontvangen van:
+- Roermond (GM0957),
+... 8 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Roermond (GM0957),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-1993
+
+"
+"GM0957";"Roermond";"Grenswijziging per 01-01-2015, ontvangen van:
+- Roerdalen (GM1669),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Roerdalen (GM1669),
+... 8 hectare met 0 woningen en 0 inwoners
+
+Begindatum 02-01-1839
+
+"
+"GM0736";"De Ronde Venen";"Gemeentelijke herindeling per 01-01-2011, ontvangen van:
+- Abcoude (GM0305),
+... 3039 hectare met 3645 woningen en 8791 inwoners
+- De Ronde Venen (GM0736),
+... 7038 hectare met 13252 woningen en 34213 inwoners
+
+Begindatum 01-01-1989
+
+"
+"GM1674";"Roosendaal";"Begindatum 01-01-1997
+
+"
+"GM0599";"Rotterdam";"Grenswijziging per 01-01-2020, overgegaan naar:
+- Lansingerland (GM1621),
+... 2 hectare met 8 woningen en 11 inwoners
+
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Zuidplas (GM1892),
+... 33 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0277";"Rozendaal";"Begindatum voor 1830
+
+"
+"GM0840";"Rucphen";"Begindatum voor 1830
+"
+"GM0441";"Schagen";"Gemeentelijke herindeling per 01-01-2013, ontvangen van:
+- Harenkarspel (GM0395),
+... 5396 hectare met 6271 woningen en 16122 inwoners
+- Schagen (GM0441),
+... 1886 hectare met 8333 woningen en 18566 inwoners
+- Zijpe (GM0476),
+... 9509 hectare met 4834 woningen en 11519 inwoners
+
+Begindatum voor 1830
+"
+"GM0458";"Schermer";"Opgeheven per 01-01-2015, overgegaan naar:
+- Alkmaar (GM0361),
+... 6129 hectare met 2197 woningen en 5452 inwoners
+
+Begindatum 01-08-1970
+
+"
+"GM0279";"Scherpenzeel";"Begindatum voor 1830
+
+"
+"GM0606";"Schiedam";"Begindatum voor 1830
+
+"
+"GM0088";"Schiermonnikoog";"Begindatum voor 1830
+"
+"GM0844";"Schijndel";"Opgeheven per 01-01-2017, overgegaan naar:
+- Meierijstad (GM1948),
+... 4153 hectare met 9901 woningen en 23722 inwoners
+
+Begindatum voor 1830
+"
+"GM0962";"Schinnen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Beekdaelen (GM1954),
+... 2406 hectare met 5956 woningen en 12758 inwoners
+
+Begindatum 02-01-1839
+"
+"GM0608";"Schoonhoven";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 628 hectare met 5302 woningen en 11898 inwoners
+
+Begindatum voor 1830
+"
+"GM1676";"Schouwen-Duiveland";"Begindatum 01-01-1997
+
+"
+"GM0965";"Simpelveld";"Begindatum 02-01-1839
+
+"
+"GM1702";"Sint Anthonis";"Begindatum 04-07-1995
+
+"
+"GM0845";"Sint-Michielsgestel";"Grenswijziging per 01-01-2012, overgegaan naar:
+- 's-Hertogenbosch (GM0796),
+... 49 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0846";"Sint-Oedenrode";"Opgeheven per 01-01-2017, overgegaan naar:
+- Meierijstad (GM1948),
+... 6441 hectare met 7408 woningen en 17892 inwoners
+
+Begindatum voor 1830
+"
+"GM1883";"Sittard-Geleen";"Begindatum 01-01-2001
+"
+"GM0051";"Skarsterlân";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 17549 hectare met 11785 woningen en 26921 inwoners
+- Heerenveen (GM0074),
+... 968 hectare met 229 woningen en 580 inwoners
+
+Begindatum 01-03-1985
+
+"
+"GM0610";"Sliedrecht";"Begindatum voor 1830
+
+"
+"GM0040";"Slochteren";"Opgeheven per 01-01-2018, overgegaan naar:
+- Midden-Groningen (GM1952),
+... 13402 hectare met 6510 woningen en 14782 inwoners
+
+Grenswijziging per 01-01-2017, overgegaan naar:
+- Groningen (GM0014),
+... 1649 hectare met 341 woningen en 1033 inwoners
+
+Begindatum voor 1830
+"
+"GM1714";"Sluis";"Begindatum 01-01-2003
+
+"
+"GM0090";"Smallingerland";"Begindatum voor 1830
+
+"
+"GM0342";"Soest";"Begindatum voor 1830
+
+"
+"GM0847";"Someren";"Begindatum voor 1830
+
+"
+"GM0848";"Son en Breugel";"Grenswijziging per 01-01-2012, ontvangen van:
+- Eindhoven (GM0772),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Eindhoven (GM0772),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0612";"Spijkenisse";"Opgeheven per 01-01-2015, overgegaan naar:
+- Nissewaard (GM1930),
+... 2610 hectare met 33465 woningen en 72740 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0037";"Stadskanaal";"Begindatum 01-01-1969
+
+"
+"GM0180";"Staphorst";"Begindatum voor 1830
+
+"
+"GM0532";"Stede Broec";"Begindatum 01-01-1979
+
+"
+"GM0851";"Steenbergen";"Begindatum 25-06-1962
+
+"
+"GM1708";"Steenwijkerland";"Begindatum 01-01-2003
+
+"
+"GM0971";"Stein (L.)";"Begindatum 02-01-1839
+"
+"GM1904";"Stichtse Vecht";"Grenswijziging per 01-01-2012, ontvangen van:
+- Wijdemeren (GM1696),
+... 0 hectare met 0 woningen en 4 inwoners
+
+Ontstaan per 01-01-2011, uit:
+- Breukelen (GM0311),
+... 4441 hectare met 5908 woningen en 14736 inwoners
+- Loenen (GM0329),
+... 2497 hectare met 3522 woningen en 8562 inwoners
+- Maarssen (GM0333),
+... 2724 hectare met 16212 woningen en 39752 inwoners
+Begindatum 01-01-2011
+"
+"GM0617";"Strijen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 5039 hectare met 3957 woningen en 8776 inwoners
+
+Begindatum voor 1830
+"
+"GM1900";"Súdwest-Fryslân";"Grenswijziging per 14-09-2018, ontvangen van:
+- Waadhoeke (GM1949),
+... 75 hectare met 3 woningen en 0 inwoners
+
+Gemeentelijke herindeling per 01-01-2018, ontvangen van:
+- Littenseradiel (GM0140),
+... 6738 hectare met 2325 woningen en 5411 inwoners
+- Súdwest-Fryslân (GM1900),
+... 45536 hectare met 39274 woningen en 84183 inwoners
+
+Grenswijziging per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 2467 hectare met 704 woningen en 1653 inwoners
+
+Ontstaan per 01-01-2011, uit:
+- Bolsward (GM0064),
+... 905 hectare met 4388 woningen en 9974 inwoners
+- Nijefurd (GM0104),
+... 9655 hectare met 4918 woningen en 10971 inwoners
+- Sneek (GM0091),
+... 3005 hectare met 14900 woningen en 33573 inwoners
+- Wûnseradiel (GM0710),
+... 15847 hectare met 5032 woningen en 11849 inwoners
+- Wymbritseradiel (GM0683),
+... 13800 hectare met 6588 woningen en 16078 inwoners
+Begindatum 01-01-2011
+"
+"GM0715";"Terneuzen";"Begindatum voor 1830
+
+"
+"GM0093";"Terschelling";"Begindatum voor 1830
+"
+"GM0448";"Texel";"Begindatum voor 1830
+
+"
+"GM1525";"Teylingen";"Grenswijziging per 01-01-2012, ontvangen van:
+- Kaag en Braassem (GM1884),
+... 8 hectare met 3 woningen en 17 inwoners
+
+Begindatum 01-01-2006
+"
+"GM0716";"Tholen";"Begindatum voor 1830
+
+"
+"GM0281";"Tiel";"Grenswijziging per 01-01-2014, ontvangen van:
+- Neder-Betuwe (GM1740),
+... 70 hectare met 0 woningen en 20 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0855";"Tilburg";"Grenswijziging per 01-01-2018, overgegaan naar:
+- Goirle (GM0785),
+... 89 hectare met 25 woningen en 67 inwoners
+
+Grenswijziging per 01-01-2013, ontvangen van:
+- Dongen (GM0766),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Dongen (GM0766),
+... 4 hectare met 1 woning en 0 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Goirle (GM0785),
+... 2 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Goirle (GM0785),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0183";"Tubbergen";"Begindatum voor 1830
+
+"
+"GM1700";"Twenterand";"Begindatum 01-06-2002
+
+"
+"GM1730";"Tynaarlo";"Begindatum 01-12-1999
+
+"
+"GM0737";"Tytsjerksteradiel";"Begindatum 01-01-1989
+
+"
+"GM0282";"Ubbergen";"Opgeheven per 01-01-2015, overgegaan naar:
+- Groesbeek (GM0241),
+... 3371 hectare met 4308 woningen en 9416 inwoners
+
+Begindatum voor 1830
+"
+"GM0856";"Uden";"Begindatum voor 1830
+
+"
+"GM0450";"Uitgeest";"Begindatum voor 1830
+
+"
+"GM0451";"Uithoorn";"Grenswijziging per 01-01-2012, overgegaan naar:
+- Kaag en Braassem (GM1884),
+... 3 hectare met 4 woningen en 10 inwoners
+
+Begindatum voor 1830
+"
+"GM0184";"Urk";"Grenswijziging per 01-01-2019, ontvangen van:
+- Noordoostpolder (GM0171),
+... 164 hectare met 4 woningen en 13 inwoners
+
+Begindatum voor 1830
+"
+"GM0344";"Utrecht (gemeente)";"Begindatum voor 1830
+
+"
+"GM1581";"Utrechtse Heuvelrug";"Grenswijziging per 01-01-2016, overgegaan naar:
+- Wijk bij Duurstede (GM0352),
+... 14 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2006
+"
+"GM0981";"Vaals";"Begindatum 02-01-1839
+
+"
+"GM0994";"Valkenburg aan de Geul";"Begindatum 01-01-1982
+
+"
+"GM0858";"Valkenswaard";"Grenswijziging per 01-01-2016, ontvangen van:
+- Waalre (GM0866),
+... 0 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0047";"Veendam";"Begindatum voor 1830
+
+"
+"GM0345";"Veenendaal";"Begindatum voor 1830
+
+"
+"GM0717";"Veere";"Grenswijziging per 01-01-2017, overgegaan naar:
+- Noord-Beveland (GM1695),
+... 9 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0860";"Veghel";"Opgeheven per 01-01-2017, overgegaan naar:
+- Meierijstad (GM1948),
+... 7816 hectare met 15839 woningen en 38255 inwoners
+
+Begindatum voor 1830
+"
+"GM0861";"Veldhoven";"Grenswijziging per 01-01-2017, ontvangen van:
+- Eindhoven (GM0772),
+... 6 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2017, overgegaan naar:
+- Eindhoven (GM0772),
+... 10 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-05-1921
+"
+"GM0453";"Velsen";"Grenswijziging per 01-01-2012, ontvangen van:
+- Beverwijk (GM0375),
+... 29 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Beverwijk (GM0375),
+... 6 hectare met 0 woningen en 0 inwoners
+- Haarlemmerliede en Spaarnwoude (GM0393),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0983";"Venlo";"Begindatum 02-01-1839
+"
+"GM0984";"Venray";"Begindatum 02-01-1839
+
+"
+"GM0620";"Vianen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Vijfheerenlanden (GM1961),
+... 3920 hectare met 8769 woningen en 20444 inwoners
+
+Begindatum voor 1830
+"
+"GM1961";"Vijfheerenlanden";"Ontstaan per 01-01-2019, ontvangen van:
+- Leerdam (GM0545),
+... 3376 hectare met 8988 woningen en 21248 inwoners
+- Vianen (GM0620),
+... 3920 hectare met 8769 woningen en 20444 inwoners
+- Zederik (GM0707),
+... 7345 hectare met 5661 woningen en 14020 inwoners
+Provinciale wijziging per 01-01-2019:
+- overgegaan van provincie Zuid-Holland naar provincie Utrecht 
+Begindatum 01-01-2019
+"
+"GM0622";"Vlaardingen";"Begindatum voor 1830
+
+"
+"GM0048";"Vlagtwedde";"Opgeheven per 01-01-2018, overgegaan naar:
+- Westerwolde (GM1950),
+... 17640 hectare met 7845 woningen en 15868 inwoners
+
+Begindatum voor 1830
+"
+"GM0096";"Vlieland";"Begindatum voor 1830
+"
+"GM0718";"Vlissingen";"Begindatum voor 1830
+"
+"GM0623";"Vlist";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 5373 hectare met 4001 woningen en 9740 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0986";"Voerendaal";"Begindatum 02-01-1839
+
+"
+"GM0626";"Voorschoten";"Begindatum voor 1830
+
+"
+"GM0285";"Voorst";"Begindatum voor 1830
+
+"
+"GM0865";"Vught";"Grenswijziging per 01-01-2019, ontvangen van:
+- 's-Hertogenbosch (GM0796),
+... 29 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- 's-Hertogenbosch (GM0796),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM1949";"Waadhoeke";"Grenswijziging per 14-09-2018, overgegaan naar:
+- Súdwest-Fryslân (GM1900),
+... 75 hectare met 3 woningen en 0 inwoners
+
+Ontstaan per 01-01-2018, ontvangen van:
+- het Bildt (GM0063),
+... 9233 hectare met 4706 woningen en 10560 inwoners
+- Franekeradeel (GM0070),
+... 10259 hectare met 9614 woningen en 20213 inwoners
+- Littenseradiel (GM0140),
+... 1999 hectare met 806 woningen en 1878 inwoners
+- Menameradiel (GM1908),
+... 6884 hectare met 5877 woningen en 13450 inwoners
+Begindatum 01-01-2018
+"
+"GM0866";"Waalre";"Grenswijziging per 01-01-2016, overgegaan naar:
+- Valkenswaard (GM0858),
+... 0 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0867";"Waalwijk";"Begindatum voor 1830
+
+"
+"GM0627";"Waddinxveen";"Begindatum 01-07-1870
+
+"
+"GM0289";"Wageningen";"Begindatum voor 1830
+
+"
+"GM0629";"Wassenaar";"Begindatum voor 1830
+
+"
+"GM0852";"Waterland";"Begindatum 01-01-1991
+
+"
+"GM0988";"Weert";"Begindatum 02-01-1839
+
+"
+"GM0457";"Weesp";"Grenswijziging per 01-01-2016, ontvangen van:
+- Muiden (GM0424),
+... 235 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 4 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0870";"Werkendam";"Opgeheven per 01-01-2019, overgegaan naar:
+- Altena (GM1959),
+... 10090 hectare met 10929 woningen en 27295 inwoners
+
+Begindatum voor 1830
+"
+"GM1960";"West Betuwe";"Ontstaan per 01-01-2019, ontvangen van:
+- Geldermalsen (GM0236),
+... 9985 hectare met 11070 woningen en 27036 inwoners 
+- Neerijnen (GM0304),
+... 6596 hectare met 4974 woningen en 12468 inwoners 
+- Lingewaal (GM0733),
+... 5031 hectare met 4666 woningen en 11193 inwoners 
+Begindatum 01-01-2019
+"
+"GM0668";"West Maas en Waal";"Begindatum 01-07-1985
+
+"
+"GM1969";"Westerkwartier";"Ontstaan per 01-01-2019, ontvangen van:
+- Grootegast (GM0015),
+... 8670 hectare met 5045 woningen en 12191 inwoners
+- Leek (GM0022),
+... 6318 hectare met 8868 woningen en 19732 inwoners
+- Marum (GM0025),
+... 6437 hectare met 4447 woningen en 10484 inwoners
+- Winsum (GM0053),
+... 2303 hectare met 732 woningen en 1558 inwoners
+- Zuidhorn (GM0056),
+... 12542 hectare met 7953 woningen en 19066 inwoners
+Begindatum 01-01-2019
+"
+"GM1701";"Westerveld";"Begindatum 01-01-1998
+
+"
+"GM0293";"Westervoort";"Begindatum voor 1830
+
+"
+"GM1950";"Westerwolde";"Ontstaan per 01-01-2018, ontvangen van:
+- Bellingwedde (GM0007),
+... 10837 hectare met 4118 woningen en 8816 inwoners
+- Vlagtwedde (GM0048),
+... 17640 hectare met 7845 woningen en 15868 inwoners
+Begindatum 01-01-2018
+"
+"GM1783";"Westland";"Begindatum 01-01-2004
+
+"
+"GM0098";"Weststellingwerf";"Begindatum voor 1830
+
+"
+"GM0614";"Westvoorne";"Begindatum 01-01-1980
+"
+"GM0189";"Wierden";"Begindatum voor 1830
+
+"
+"GM0462";"Wieringen";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 2688 hectare met 3853 woningen en 8562 inwoners
+
+Begindatum voor 1830
+"
+"GM0463";"Wieringermeer";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 19498 hectare met 5264 woningen en 12565 inwoners
+
+Begindatum 01-01-1938
+"
+"GM0296";"Wijchen";"Begindatum voor 1830
+
+"
+"GM1696";"Wijdemeren";"Grenswijziging per 01-01-2012, overgegaan naar:
+- Stichtse Vecht (GM1904),
+... 0 hectare met 0 woningen en 4 inwoners
+
+Begindatum 01-01-2002
+"
+"GM0352";"Wijk bij Duurstede";"Grenswijziging per 01-01-2016, ontvangen van:
+- Utrechtse Heuvelrug (GM1581),
+... 14 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0053";"Winsum";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 7807 hectare met 5308 woningen en 11947 inwoners
+- Westerkwartier (GM1969),
+... 2303 hectare met 732 woningen en 1558 inwoners
+
+Begindatum voor 1830
+"
+"GM0294";"Winterswijk";"Begindatum voor 1830
+
+"
+"GM0873";"Woensdrecht";"Begindatum voor 1830
+
+"
+"GM0632";"Woerden";"Begindatum voor 1830
+
+"
+"GM1690";"De Wolden";"Begindatum 01-01-1998
+
+"
+"GM0880";"Wormerland";"Begindatum 01-01-1991
+
+"
+"GM0351";"Woudenberg";"Begindatum voor 1830
+
+"
+"GM0874";"Woudrichem";"Opgeheven per 01-01-2019, overgegaan naar:
+- Altena (GM1959),
+... 4932 hectare met 6125 woningen en 14770 inwoners
+
+Begindatum voor 1830
+"
+"GM0479";"Zaanstad";"Begindatum 01-01-1974
+
+"
+"GM0297";"Zaltbommel";"Begindatum voor 1830
+
+"
+"GM0473";"Zandvoort";"Begindatum voor 1830
+
+"
+"GM0707";"Zederik";"Opgeheven per 01-01-2019, overgegaan naar:
+- Vijfheerenlanden (GM1961),
+... 7345 hectare met 5661 woningen en 14020 inwoners
+Provinciale wijziging per 01-01-2019:
+- overgegaan van provincie Zuid-Holland naar provincie Utrecht
+
+Begindatum 01-01-1986
+"
+"GM0478";"Zeevang";"Opgeheven per 01-01-2016, overgegaan naar:
+- Edam-Volendam (GM0385),
+... 3806 hectare met 2576 woningen en 6257 inwoners
+
+Begindatum 01-08-1970
+"
+"GM0050";"Zeewolde";"Begindatum 01-01-1984
+
+"
+"GM0355";"Zeist";"Begindatum voor 1830
+
+"
+"GM0299";"Zevenaar";"Gemeentelijke herindeling per 01-01-2018, ontvangen van:
+- Rijnwaarden (GM0196),
+... 3960 hectare met 4804 woningen en 10810 inwoners
+- Zevenaar (GM0299),
+... 5327 hectare met 14880 woningen en 32592 inwoners
+
+Begindatum voor 1830
+"
+"GM0476";"Zijpe";"Opgeheven per 01-01-2013, overgegaan naar:
+- Schagen (GM0441),
+... 9509 hectare met 4834 woningen en 11519 inwoners
+
+Begindatum voor 1830
+"
+"GM0637";"Zoetermeer";"Begindatum voor 1830
+"
+"GM0638";"Zoeterwoude";"Grenswijziging per 01-01-2011, ontvangen van:
+- Leiden (GM0546),
+... 4 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0056";"Zuidhorn";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 12542 hectare met 7953 woningen en 19066 inwoners
+
+Begindatum voor 1830
+"
+"GM1892";"Zuidplas";"Grenswijziging per 01-01-2013, ontvangen van:
+- Rotterdam (GM0599),
+... 33 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2010
+
+"
+"GM0879";"Zundert";"Grenswijziging per 01-01-2012, ontvangen van:
+- Breda (GM0758),
+... 74 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Breda (GM0758),
+... 32 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0301";"Zutphen";"Begindatum voor 1830
+
+"
+"GM1896";"Zwartewaterland";"Begindatum 01-01-2001
+
+"
+"GM0642";"Zwijndrecht";"Begindatum voor 1830
+
+"
+"GM0193";"Zwolle";"Begindatum voor 1830
+
+"
+"RegioVanVertrek"
+Key;Title;Description
+"NL01  ";"Nederland";"Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (NL98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (NL98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+"
+"LD01  ";"Noord-Nederland (LD)";"LD = Landsdeel
+
+Noord-Nederland: Groningen, Fryslân, Drenthe
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+"
+"LD02  ";"Oost-Nederland (LD)";"LD = Landsdeel
+
+Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Zuid-Nederland (LD04), 0 hectare met 0 woningen en 5 inwoners
+... Berg en Dal (GM1945) ontvangt van Mook en Middelaar (GM0944), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"LD03  ";"West-Nederland (LD)";"LD = Landsdeel
+
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+"
+"LD04  ";"Zuid-Nederland (LD)";"LD = Landsdeel
+
+Zuid-Nederland: Noord-Brabant, Limburg
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (LD98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (LD98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2016:
+- Over naar Oost-Nederland (LD02), 0 hectare met 0 woningen en 5 inwoners
+... Over van Mook en Middelaar (GM0944) naar Berg en Dal (GM1945), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"PV20  ";"Groningen (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV21  ";"Fryslân (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Vanaf 01-01-2020 hanteert het CBS de Friese naam (Fryslân) voor de provincie Friesland. Bij actualisering van tabellen wordt deze taalwijziging doorgevoerd. Stopgezette tabellen worden niet meer aangepast.
+
+"
+"PV22  ";"Drenthe (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV23  ";"Overijssel (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV24  ";"Flevoland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV25  ";"Gelderland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Limburg (PV31), 0 hectare met 0 woningen en 5 inwoners
+... Berg en Dal (GM1945) ontvangt van Mook en Middelaar (GM0944), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"PV26  ";"Utrecht (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Zuid-Holland (PV28), 10721 hectare met 14649 woningen en 35268 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Leerdam (GM0545), 3376 hectare met 8988 woningen en 21248 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Zederik (GM0707), 7345 hectare met 5661 woningen en 14020 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Noord-Holland (PV27), 0 hectare met 0 woningen en 4 inwoners
+... Stichtse Vecht (GM1904) ontvangt van Wijdemeren (GM1696), 0 hectare met 0 woningen en 4 inwoners
+
+"
+"PV27  ";"Noord-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2013:
+- Ontvangen van Zuid-Holland (PV28), 2 hectare met 0 woningen en 0 inwoners
+... Bloemendaal (GM0377) ontvangt van Hillegom (GM0534), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Over naar Utrecht (PV26), 0 hectare met 0 woningen en 4 inwoners
+... Over van Wijdemeren (GM1696) naar Stichtse Vecht (GM1904), 0 hectare met 0 woningen en 4 inwoners
+- Over naar Zuid-Holland (PV28), 3 hectare met 4 woningen en 10 inwoners
+... Over van Uithoorn (GM0451) naar Kaag en Braassem (GM1884), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"PV28  ";"Zuid-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2019:
+- Over naar Utrecht (PV26), 10721 hectare met 14649 woningen en 35268 inwoners
+... Leerdam (GM0545) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 3376 hectare met 8988 woningen en 21248 inwoners
+... Zederik (GM0707) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 7345 hectare met 5661 woningen en 14020 inwoners
+
+Grenswijziging per 01-01-2013:
+- Over naar Noord-Holland (PV27), 2 hectare met 0 woningen en 0 inwoners
+... Over van Hillegom (GM0534) naar Bloemendaal (GM0377), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Noord-Holland (PV27), 3 hectare met 4 woningen en 10 inwoners
+... Kaag en Braassem (GM1884) ontvangt van Uithoorn (GM0451), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"PV29  ";"Zeeland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV30  ";"Noord-Brabant (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+"
+"PV31  ";"Limburg (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (PV98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (PV98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2016:
+- Over naar Gelderland (PV25), 0 hectare met 0 woningen en 5 inwoners
+... Over van Mook en Middelaar (GM0944) naar Berg en Dal (GM1945), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"CR01  ";"Oost-Groningen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2018:
+- Over naar Overig Groningen (CR03), 8025 hectare met 5400 woningen en 12013 inwoners
+... Menterwolde (GM1987) wordt opgeheven en gaat over naar Midden-Groningen (GM1952), 8025 hectare met 5400 woningen en 12013 inwoners
+
+"
+"CR02  ";"Delfzijl en omgeving (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR03  ";"Overig Groningen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Oost-Groningen (CR01), 8025 hectare met 5400 woningen en 12013 inwoners
+... Midden-Groningen (GM1952) ontvangt van het opgeheven Menterwolde (GM1987), 8025 hectare met 5400 woningen en 12013 inwoners
+
+"
+"CR04  ";"Noord-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Over naar Zuidwest-Friesland (CR05), 75 hectare met 3 woningen en 0 inwoners
+... Over van Waadhoeke (GM1949) naar Súdwest-Fryslân (GM1900), 75 hectare met 3 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2018:
+- Over naar Zuidwest-Friesland (CR05), 6738 hectare met 2325 woningen en 5411 inwoners
+... Littenseradiel (GM0140) wordt opgeheven en gaat gedeeltelijk over naar Súdwest-Fryslân (GM1900), 6738 hectare met 2325 woningen en 5411 inwoners
+
+Grenswijziging per 01-01-2016:
+- Over naar Zuidoost-Friesland (CR06), 0 hectare met 0 woningen en 2 inwoners
+... Over van Leeuwarden (GM0080) naar Heerenveen (GM0074), 0 hectare met 0 woningen en 2 inwoners
+
+Grenswijziging per 01-01-2014:
+- Over naar Zuidoost-Friesland (CR06), 4561 hectare met 2614 woningen en 6018 inwoners
+... Boarnsterhim (GM0055) wordt opgeheven en gaat gedeeltelijk over naar Heerenveen (GM0074), 4561 hectare met 2614 woningen en 6018 inwoners
+- Over naar Zuidwest-Friesland (CR05), 2998 hectare met 981 woningen en 2436 inwoners
+... Boarnsterhim (GM0055) wordt opgeheven en gaat gedeeltelijk over naar De Friese Meren (GM1921), 531 hectare met 277 woningen en 783 inwoners
+... Boarnsterhim (GM0055) wordt opgeheven en gaat gedeeltelijk over naar Súdwest-Fryslân (GM1900), 2467 hectare met 704 woningen en 1653 inwoners
+
+"
+"CR05  ";"Zuidwest-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Noord-Friesland (CR04), 75 hectare met 3 woningen en 0 inwoners
+... Súdwest-Fryslân (GM1900) ontvangt van Waadhoeke (GM1949), 75 hectare met 3 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Noord-Friesland (CR04), 6738 hectare met 2325 woningen en 5411 inwoners
+... Súdwest-Fryslân (GM1900) ontvangt een gedeelte van het opgeheven Littenseradiel (GM0140), 6738 hectare met 2325 woningen en 5411 inwoners
+
+Grenswijziging per 01-01-2014:
+- Ontvangen van Noord-Friesland (CR04), 2998 hectare met 981 woningen en 2436 inwoners
+... De Friese Meren (GM1921) ontvangt een gedeelte van het opgeheven Boarnsterhim (GM0055), 531 hectare met 277 woningen en 783 inwoners
+... Súdwest-Fryslân (GM1900) ontvangt een gedeelte van het opgeheven Boarnsterhim (GM0055), 2467 hectare met 704 woningen en 1653 inwoners
+- Ontvangen van Zuidoost-Friesland (CR06), 17549 hectare met 11785 woningen en 26921 inwoners
+... De Friese Meren (GM1921) ontvangt een gedeelte van het opgeheven Skarsterlân (GM0051), 17549 hectare met 11785 woningen en 26921 inwoners
+
+"
+"CR06  ";"Zuidoost-Friesland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Noord-Friesland (CR04), 0 hectare met 0 woningen en 2 inwoners
+... Heerenveen (GM0074) ontvangt van Leeuwarden (GM0080), 0 hectare met 0 woningen en 2 inwoners
+
+Grenswijziging per 01-01-2014:
+- Ontvangen van Noord-Friesland (CR04), 4561 hectare met 2614 woningen en 6018 inwoners
+... Heerenveen (GM0074) ontvangt een gedeelte van het opgeheven Boarnsterhim (GM0055), 4561 hectare met 2614 woningen en 6018 inwoners
+- Over naar Zuidwest-Friesland (CR05), 17549 hectare met 11785 woningen en 26921 inwoners
+... Skarsterlân (GM0051) wordt opgeheven en gaat gedeeltelijk over naar De Friese Meren (GM1921), 17549 hectare met 11785 woningen en 26921 inwoners
+
+"
+"CR07  ";"Noord-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR08  ";"Zuidoost-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR09  ";"Zuidwest-Drenthe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR10  ";"Noord-Overijssel (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR11  ";"Zuidwest-Overijssel (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR12  ";"Twente (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR13  ";"Veluwe (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR14  ";"Achterhoek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR15  ";"Arnhem/Nijmegen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2016:
+- Ontvangen van Noord-Limburg (CR37), 0 hectare met 0 woningen en 5 inwoners
+... Berg en Dal (GM1945) ontvangt van Mook en Middelaar (GM0944), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"CR16  ";"Zuidwest-Gelderland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR17  ";"Utrecht (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Zuidoost-Zuid-Holland (CR30), 10721 hectare met 14649 woningen en 35268 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Leerdam (GM0545), 3376 hectare met 8988 woningen en 21248 inwoners
+... Vijfheerenlanden (GM1961) ontvangt van het opgeheven Zederik (GM0707), 7345 hectare met 5661 woningen en 14020 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Het Gooi en Vechtstreek (CR24), 0 hectare met 0 woningen en 4 inwoners
+... Stichtse Vecht (GM1904) ontvangt van Wijdemeren (GM1696), 0 hectare met 0 woningen en 4 inwoners
+
+"
+"CR18  ";"Kop van Noord-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR19  ";"Alkmaar en omgeving (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2015:
+- Ontvangen van Groot-Amsterdam (CR23), 1994 hectare met 2593 woningen en 6406 inwoners
+... Alkmaar (GM0361) ontvangt van het opgeheven Graft-De Rijp (GM0365), 1994 hectare met 2593 woningen en 6406 inwoners
+
+"
+"CR20  ";"IJmond (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2012:
+- Over naar Agglomeratie Haarlem (CR21), 1 hectare met 0 woningen en 0 inwoners.
+... Over van Velsen (GM0453) naar Haarlemmerliede en Spaarnwoude (GM0393), 1 hectare met 0 woningen en 0 inwoners
+
+"
+"CR21  ";"Agglomeratie Haarlem (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Over naar Groot-Amsterdam (CR23), 1922 hectare met 2410 woningen en 6167 inwoners
+... Haarlemmerliede en Spaarnwoude (GM0393) wordt opgeheven en gaat over naar Haarlemmermeer (GM0394), 1922 hectare met 2410 woningen en 6167 inwoners
+
+Grenswijziging per 01-01-2013:
+- Ontvangen van Agglomeratie Leiden en Bollenstreek (CR25), 2 hectare met 0 woningen en 0 inwoners
+... Bloemendaal (GM0377) ontvangt van Hillegom (GM0534), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van IJmond (CR20), 1 hectare met 0 woningen en 0 inwoners
+... Haarlemmerliede en Spaarnwoude (GM0393) ontvangt van Velsen (GM0453), 1 hectare met 0 woningen en 0 inwoners
+
+"
+"CR22  ";"Zaanstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR23  ";"Groot-Amsterdam (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Ontvangen van Agglomeratie Haarlem (CR21), 1922 hectare met 2410 woningen en 6167 inwoners
+... Haarlemmermeer (GM0394) ontvangt van het opgeheven Haarlemmerliede en Spaarnwoude (GM0393), 1922 hectare met 2410 woningen en 6167 inwoners
+
+Grenswijziging per 01-01-2015:
+- Over naar Alkmaar en omgeving (CR19), 1994 hectare met 2593 woningen en 6406 inwoners
+... Graft-De Rijp (GM0365) wordt opgeheven en gaat over naar Alkmaar (GM0361), 1994 hectare met 2593 woningen en 6406 inwoners
+
+Grenswijziging per 01-01-2012:
+- Over naar Agglomeratie Leiden en Bollenstreek (CR25), 3 hectare met 4 woningen en 10 inwoners
+... Over van Uithoorn (GM0451) naar Kaag en Braassem (GM1884), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"CR24  ";"Het Gooi en Vechtstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2012:
+- Over naar Utrecht (CR17), 0 hectare met 0 woningen en 4 inwoners
+... Over van Wijdemeren (GM1696) naar Stichtse Vecht (GM1904), 0 hectare met 0 woningen en 4 inwoners
+
+"
+"CR25  ";"Agglomeratie Leiden en Bollenstreek (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2013:
+- Over naar Agglomeratie Haarlem (CR21), 2 hectare met 0 woningen en 0 inwoners
+... Over van Hillegom (GM0534) naar Bloemendaal (GM0377), 2 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012:
+- Ontvangen van Groot-Amsterdam (CR23), 3 hectare met 4 woningen en 10 inwoners
+... Kaag en Braassem (GM1884) ontvangt van Uithoorn (GM0451), 3 hectare met 4 woningen en 10 inwoners
+
+"
+"CR26  ";"Agglomeratie 's-Gravenhage (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR27  ";"Delft en Westland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR28  ";"Oost-Zuid-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2015:
+- Ontvangen van Groot-Rijnmond (CR29), 5484 hectare met 9731 woningen en 22384 inwoners
+... Krimpenerwaard (GM1931) ontvangt van het opgeheven Nederlek (GM0643), 2777 hectare met 6388 woningen en 14143 inwoners
+... Krimpenerwaard (GM1931) ontvangt van het opgeheven Ouderkerk (GM0644), 2707 hectare met 3343 woningen en 8241 inwoners
+
+"
+"CR29  ";"Groot-Rijnmond (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2015:
+- Over naar Oost-Zuid-Holland (CR28), 5484 hectare met 9731 woningen en 22384 inwoners
+... Nederlek (GM0643) wordt opgeheven en gaat over naar Krimpenerwaard (GM1931), 2777 hectare met 6388 woningen en 14143 inwoners
+... Ouderkerk (GM0644) wordt opgeheven en gaat over naar Krimpenerwaard (GM1931), 2707 hectare met 3343 woningen en 8241 inwoners
+
+"
+"CR30  ";"Zuidoost-Zuid-Holland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2019:
+- Over naar Utrecht (CR17), 10721 hectare met 14649 woningen en 35268 inwoners
+... Leerdam (GM0545) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 3376 hectare met 8988 woningen en 21248 inwoners
+... Zederik (GM0707) wordt opgeheven en gaat over naar Vijfheerenlanden (GM1961), 7345 hectare met 5661 woningen en 14020 inwoners
+
+"
+"CR31  ";"Zeeuwsch-Vlaanderen (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR32  ";"Overig Zeeland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR33  ";"West-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR34  ";"Midden-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR35  ";"Noordoost-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR36  ";"Zuidoost-Noord-Brabant (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR37  ";"Noord-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2016:
+- Over naar Arnhem/Nijmegen (CR15), 0 hectare met 0 woningen en 5 inwoners
+... Over van Mook en Middelaar (GM0944) naar Berg en Dal (GM1945), 0 hectare met 0 woningen en 5 inwoners
+
+"
+"CR38  ";"Midden-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"CR39  ";"Zuid-Limburg (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+Grenswijziging per 01-01-2018:
+- Ontvangen van Buitenland (CR98), 16 hectare met 0 woningen en 0 inwoners
+... Eijsden-Margraten (GM1903) ontvangt van Buitenland (GM0998), 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018:
+- Over naar Buitenland (CR98), 5 hectare met 0 woningen en 0 inwoners
+... Over van Eijsden-Margraten (GM1903) naar Buitenland (GM0998), 5 hectare met 0 woningen en 0 inwoners
+
+"
+"CR40  ";"Flevoland (CR)";"CR = COROP-gebied
+
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. Nederland telt 40 COROP-gebieden.
+
+"
+"GM1680";"Aa en Hunze";"Begindatum 01-01-1998
+
+"
+"GM0738";"Aalburg";"Opgeheven per 01-01-2019, overgegaan naar:
+- Altena (GM1959),
+... 5041 hectare met 5167 woningen en 13321 inwoners
+
+Begindatum 01-01-1973
+"
+"GM0358";"Aalsmeer";"Begindatum voor 1830
+"
+"GM0197";"Aalten";"Begindatum voor 1830
+
+"
+"GM0059";"Achtkarspelen";"Begindatum voor 1830
+
+"
+"GM0482";"Alblasserdam";"Begindatum voor 1830
+
+"
+"GM0613";"Albrandswaard";"Begindatum 01-01-1985
+
+"
+"GM0361";"Alkmaar";"Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Alkmaar (GM0361),
+... 2928 hectare met 45286 woningen en 95248 inwoners
+- Graft-De Rijp (GM0365),
+... 1994 hectare met 2593 woningen en 6406 inwoners
+- Schermer (GM0458),
+... 6129 hectare met 2197 woningen en 5452 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0141";"Almelo";"Begindatum 01-12-1913
+
+"
+"GM0034";"Almere";"Begindatum 01-01-1984
+
+"
+"GM0484";"Alphen aan den Rijn";"Gemeentelijke herindeling per 01-01-2014, ontvangen van:
+- Alphen aan den Rijn (GM0484),
+... 5496 hectare met 31375 woningen en 73124 inwoners
+- Boskoop (GM0499),
+... 1485 hectare met 6328 woningen en 15177 inwoners
+- Rijnwoude (GM1672),
+... 5667 hectare met 7730 woningen en 18484 inwoners
+
+Begindatum 01-01-1918
+
+"
+"GM1723";"Alphen-Chaam";"Begindatum 01-01-1997
+
+"
+"GM1959";"Altena";"Ontstaan per 01-01-2019, ontvangen van:
+- Aalburg (GM0738),
+... 5041 hectare met 5167 woningen en 13321 inwoners
+- Werkendam (GM0870),
+... 10090 hectare met 10929 woningen en 27295 inwoners
+- Woudrichem (GM0874),
+... 4932 hectare met 6125 woningen en 14770 inwoners
+Begindatum 01-01-2019
+"
+"GM0060";"Ameland";"Begindatum voor 1830
+
+"
+"GM0307";"Amersfoort";"Begindatum voor 1830
+"
+"GM0362";"Amstelveen";"Begindatum 01-01-1964
+"
+"GM0363";"Amsterdam";"Grenswijziging per 01-01-2014, ontvangen van:
+- Haarlemmermeer (GM0394),
+... 1 hectare met 0 woningen en 170 inwoners
+
+Begindatum voor 1830
+"
+"GM0366";"Anna Paulowna";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 7464 hectare met 5844 woningen en 14304 inwoners
+
+Begindatum 18-07-1870
+"
+"GM0200";"Apeldoorn";"Begindatum voor 1830
+
+"
+"GM0003";"Appingedam";"Begindatum voor 1830
+"
+"GM0202";"Arnhem";"Begindatum voor 1830
+
+"
+"GM0106";"Assen";"Begindatum voor 1830
+
+"
+"GM0743";"Asten";"Begindatum voor 1830
+
+"
+"GM0744";"Baarle-Nassau";"Begindatum voor 1830
+
+"
+"GM0308";"Baarn";"Begindatum voor 1830
+
+"
+"GM0489";"Barendrecht";"Begindatum 10-12-1886
+
+"
+"GM0203";"Barneveld";"Grenswijziging per 01-01-2014, ontvangen van:
+- Nijkerk (GM0267),
+... 16 hectare met 0 woningen en 30 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Nijkerk (GM0267),
+... 19 hectare met 0 woningen en 19 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0005";"Bedum";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 4454 hectare met 4703 woningen en 10493 inwoners
+
+Begindatum voor 1830
+"
+"GM0888";"Beek (L.)";"Begindatum 02-01-1839
+"
+"GM1954";"Beekdaelen";"Ontstaan per 01-01-2019, ontvangen van:
+- Nuth (GM0951),
+... 3310 hectare met 7018 woningen en 15187 inwoners
+- Onderbanken (GM0881),
+... 2114 hectare met 3661 woningen en 7782 inwoners
+- Schinnen (GM0962)
+... 2406 hectare met 5956 woningen en 12758 inwoners
+Begindatum 01-01-2019
+"
+"GM0370";"Beemster";"Begindatum voor 1830
+
+"
+"GM0889";"Beesel";"Begindatum 02-01-1839
+
+"
+"GM0007";"Bellingwedde";"Opgeheven per 01-01-2018, overgegaan naar:
+- Westerwolde (GM1950),
+... 10837 hectare met 4118 woningen en 8816 inwoners
+
+Begindatum 01-09-1968
+"
+"GM1945";"Berg en Dal";"Grenswijziging per 01-01-2019, ontvangen van:
+- Nijmegen (GM0268),
+... 5 hectare met 26 woningen en 25 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- Nijmegen (GM0268),
+... 9 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2016, ontvangen van:
+- Mook en Middelaar (GM0944),
+... 0 hectare met 0 woningen en 5 inwoners
+
+Naamswijziging per 01-01-2016,
+oude naam: Groesbeek (GM0241)
+Begindatum 01-01-2016
+"
+"GM0491";"Bergambacht";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 3510 hectare met 4231 woningen en 10186 inwoners
+
+Begindatum voor 1830
+
+"
+"GM1724";"Bergeijk";"Begindatum 25-09-1998
+"
+"GM0893";"Bergen (L.)";"Begindatum 02-01-1839
+"
+"GM0373";"Bergen (NH.)";"Begindatum voor 1830
+
+"
+"GM0748";"Bergen op Zoom";"Begindatum voor 1830
+
+"
+"GM1859";"Berkelland";"Grenswijziging per 01-01-2018, overgegaan naar:
+- Oost Gelre (GM1586),
+... 32 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2005
+"
+"GM1721";"Bernheze";"Begindatum 28-01-1995
+
+"
+"GM0568";"Bernisse";"Opgeheven per 01-01-2015, overgegaan naar:
+- Nissewaard (GM1930),
+... 5736 hectare met 5524 woningen en 12381 inwoners
+
+Begindatum 01-01-1980
+
+"
+"GM0753";"Best";"Begindatum voor 1830
+
+"
+"GM0209";"Beuningen";"Begindatum voor 1830
+
+"
+"GM0375";"Beverwijk";"Grenswijziging per 01-01-2012, ontvangen van:
+- Velsen (GM0453),
+... 6 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Velsen (GM0453),
+... 29 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0063";"het Bildt";"Opgeheven per 01-01-2018, overgegaan naar:
+- Waadhoeke (GM1949),
+... 9233 hectare met 4706 woningen en 10560 inwoners
+
+Begindatum voor 1830
+"
+"GM0310";"De Bilt";"Begindatum voor 1830
+
+"
+"GM0585";"Binnenmaas";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 6933 hectare met 12868 woningen en 29292 inwoners
+
+Begindatum 01-01-1984
+"
+"GM1728";"Bladel";"Begindatum 01-01-1997
+
+"
+"GM0376";"Blaricum";"Begindatum voor 1830
+
+"
+"GM0377";"Bloemendaal";"Grenswijziging per 01-01-2013, ontvangen van:
+- Hillegom (GM0534),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0055";"Boarnsterhim";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 531 hectare met 277 woningen en 783 inwoners
+- Heerenveen (GM0074),
+... 4561 hectare met 2614 woningen en 6018 inwoners
+- Leeuwarden (GM0080),
+... 7567 hectare met 4963 woningen en 11024 inwoners
+- Súdwest-Fryslân (GM1900),
+... 2467 hectare met 704 woningen en 1653 inwoners
+
+Begindatum 03-01-1985
+
+"
+"GM1901";"Bodegraven-Reeuwijk";"Ontstaan per 01-01-2011, uit:
+- Bodegraven (GM0497),
+... 3756 hectare met 7504 woningen en 19432 inwoners
+- Reeuwijk (GM0595),
+... 3813 hectare met 5329 woningen en 13296 inwoners
+Begindatum 01-01-2011
+
+"
+"GM0755";"Boekel";"Begindatum voor 1830
+
+"
+"GM0009";"Ten Boer";"Opgeheven per 01-01-2019, overgegaan naar:
+- Groningen (GM0014),
+... 4531 hectare met 3051 woningen en 7289 inwoners
+
+Begindatum voor 1830
+"
+"GM1681";"Borger-Odoorn";"Begindatum 01-01-1998
+
+"
+"GM0147";"Borne";"Grenswijziging per 01-01-2011, ontvangen van:
+- Hengelo (O.) (GM0164),
+... 2 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2011, overgegaan naar:
+- Hengelo (O.) (GM0164),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0654";"Borsele";"Begindatum 01-01-1970
+
+"
+"GM0499";"Boskoop";"Opgeheven per 01-01-2014, overgegaan naar:
+- Alphen aan den Rijn (GM0484),
+... 1485 hectare met 6328 woningen en 15177 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0756";"Boxmeer";"Begindatum voor 1830
+
+"
+"GM0757";"Boxtel";"Begindatum voor 1830
+"
+"GM0758";"Breda";"Grenswijziging per 01-01-2012, ontvangen van:
+- Zundert (GM0879),
+... 32 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Zundert (GM0879),
+... 74 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0501";"Brielle";"Begindatum voor 1830
+
+"
+"GM1876";"Bronckhorst";"Begindatum 01-01-2005
+
+"
+"GM0213";"Brummen";"Begindatum voor 1830
+
+"
+"GM0899";"Brunssum";"Begindatum 02-01-1839
+
+"
+"GM0312";"Bunnik";"Begindatum voor 1830
+
+"
+"GM0313";"Bunschoten";"Begindatum voor 1830
+
+"
+"GM0214";"Buren";"Begindatum voor 1830
+
+"
+"GM0381";"Bussum";"Opgeheven per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 808 hectare met 15681 woningen en 33122 inwoners
+Begindatum voor 1830
+"
+"GM0502";"Capelle aan den IJssel";"Begindatum voor 1830
+
+"
+"GM0383";"Castricum";"Begindatum voor 1830
+
+"
+"GM0109";"Coevorden";"Begindatum voor 1830
+
+"
+"GM1706";"Cranendonck";"Begindatum 28-01-1998
+
+"
+"GM0611";"Cromstrijen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 5440 hectare met 5714 woningen en 12916 inwoners
+
+Begindatum 01-01-1984
+"
+"GM1684";"Cuijk";"Begindatum 01-01-1994
+
+"
+"GM0216";"Culemborg";"Begindatum voor 1830
+
+"
+"GM0148";"Dalfsen";"Begindatum voor 1830
+
+"
+"GM1891";"Dantumadiel";"Begindatum 01-01-2009
+"
+"GM0503";"Delft";"Begindatum voor 1830
+
+"
+"GM0010";"Delfzijl";"Begindatum voor 1830
+"
+"GM0762";"Deurne";"Begindatum 01-01-1926
+
+"
+"GM0150";"Deventer";"Begindatum voor 1830
+
+"
+"GM0384";"Diemen";"Begindatum voor 1830
+
+"
+"GM1774";"Dinkelland";"Begindatum 01-06-2002
+
+"
+"GM0504";"Dirksland";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 5536 hectare met 3450 woningen en 8526 inwoners
+
+Begindatum voor 1830
+"
+"GM0221";"Doesburg";"Begindatum voor 1830
+
+"
+"GM0222";"Doetinchem";"Begindatum 01-01-1920
+
+"
+"GM0766";"Dongen";"Grenswijziging per 01-01-2013, ontvangen van:
+- Tilburg (GM0855),
+... 4 hectare met 1 woning en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Tilburg (GM0855),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0058";"Dongeradeel";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noardeast-Fryslân (GM1970),
+... 16812 hectare met 11024 woningen en 23845 inwoners
+
+Begindatum 01-01-1984
+"
+"GM0505";"Dordrecht";"Begindatum voor 1830
+
+"
+"GM0498";"Drechterland";"Grenswijziging per 01-01-2014, ontvangen van:
+- Hoorn (GM0405),
+... 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Hoorn (GM0405),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-1980
+"
+"GM1719";"Drimmelen";"Begindatum 25-04-1998
+
+"
+"GM0303";"Dronten";"Begindatum 01-01-1972
+
+"
+"GM0225";"Druten";"Begindatum voor 1830
+
+"
+"GM0226";"Duiven";"Begindatum voor 1830
+
+"
+"GM1711";"Echt-Susteren";"Begindatum 01-01-2003
+
+"
+"GM0385";"Edam-Volendam";"Gemeentelijke herindeling per 01-01-2016, ontvangen van:
+- Edam-Volendam (GM0385),
+... 1630 hectare met 12363 woningen en 29208 inwoners
+- Zeevang (GM0478),
+... 3806 hectare met 2576 woningen en 6257 inwoners
+
+Begindatum 01-01-1975
+"
+"GM0228";"Ede";"Begindatum voor 1830
+
+"
+"GM0317";"Eemnes";"Begindatum voor 1830
+
+"
+"GM1651";"Eemsmond";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 18946 hectare met 7416 woningen en 15411 inwoners
+
+Begindatum 01-01-1992
+"
+"GM0770";"Eersel";"Begindatum voor 1830
+
+"
+"GM1903";"Eijsden-Margraten";"Grenswijziging per 01-01-2018, ontvangen van:
+- Buitenland (GM0998),
+... 16 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2018, overgegaan naar:
+- Buitenland (GM0998),
+... 5 hectare met 0 woningen en 0 inwoners
+
+Ontstaan per 01-01-2011, uit:
+- Eijsden (GM0905),
+... 1974 hectare met 4731 woningen en 11565 inwoners
+- Margraten (GM0936),
+... 5766 hectare met 5554 woningen en 13375 inwoners
+Begindatum 01-01-2011
+"
+"GM0772";"Eindhoven";"Grenswijziging per 01-01-2017, ontvangen van:
+- Veldhoven (GM0861),
+... 10 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2017, overgegaan naar:
+- Veldhoven (GM0861),
+... 6 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Son en Breugel (GM0848),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Son en Breugel (GM0848),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0230";"Elburg";"Begindatum voor 1830
+
+"
+"GM0114";"Emmen";"Begindatum voor 1830
+
+"
+"GM0388";"Enkhuizen";"Begindatum voor 1830
+"
+"GM0153";"Enschede";"Begindatum voor 1830
+
+"
+"GM0232";"Epe";"Begindatum voor 1830
+
+"
+"GM0233";"Ermelo";"Begindatum voor 1830
+
+"
+"GM0777";"Etten-Leur";"Begindatum 01-01-1968
+
+"
+"GM1722";"Ferwerderadiel";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noardeast-Fryslân (GM1970),
+... 10018 hectare met 3841 woningen en 8575 inwoners
+
+Begindatum 01-01-1999
+"
+"GM0070";"Franekeradeel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Waadhoeke (GM1949),
+... 10259 hectare met 9614 woningen en 20213 inwoners
+
+Begindatum voor 1830
+"
+"GM1921";"De Friese Meren";"Naamswijziging per 01-07-2015,
+nieuwe naam: De Fryske Marren (GM1940)
+
+Ontstaan per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 531 hectare met 277 woningen en 783 inwoners
+- Gaasterlân-Sleat (GM0653),
+... 9512 hectare met 4483 woningen en 10186 inwoners
+- Lemsterland (GM0082),
+... 7577 hectare met 6146 woningen en 13524 inwoners
+- Skarsterlân (GM0051),
+... 17549 hectare met 11785 woningen en 26921 inwoners
+Begindatum 01-01-2014
+"
+"GM1940";"De Fryske Marren";"Naamswijziging per 01-07-2015,
+oude naam: De Friese Meren (GM1921)
+Begindatum 01-07-2015
+"
+"GM0653";"Gaasterlân-Sleat";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 9512 hectare met 4483 woningen en 10186 inwoners
+
+Begindatum 05-06-1985
+"
+"GM0779";"Geertruidenberg";"Begindatum voor 1830
+
+"
+"GM0236";"Geldermalsen";"Opgeheven per 01-01-2019, overgegaan naar:
+- West Betuwe (GM1960),
+... 9985 hectare met 11070 woningen en 27036 inwoners
+
+Begindatum voor 1830
+"
+"GM1771";"Geldrop-Mierlo";"Begindatum 01-01-2004
+
+"
+"GM1652";"Gemert-Bakel";"Begindatum 01-01-1997
+
+"
+"GM0907";"Gennep";"Begindatum 02-01-1839
+
+"
+"GM0689";"Giessenlanden";"Opgeheven per 01-01-2019, overgegaan naar:
+- Molenlanden (GM1978),
+... 6351 hectare met 5928 woningen en 14540 inwoners
+
+Begindatum 01-01-1986
+"
+"GM0784";"Gilze en Rijen";"Begindatum voor 1830
+
+"
+"GM0511";"Goedereede";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 7113 hectare met 4868 woningen en 11329 inwoners
+
+Begindatum voor 1830
+"
+"GM1924";"Goeree-Overflakkee";"Ontstaan per 01-01-2013, ontvangen van:
+- Dirksland (GM0504),
+... 5536 hectare met 3450 woningen en 8526 inwoners
+- Goedereede (GM0511),
+... 7113 hectare met 4868 woningen en 11329 inwoners
+- Middelharnis (GM0559),
+... 6071 hectare met 7611 woningen en 18070 inwoners
+- Oostflakkee (GM0580),
+... 7480 hectare met 4253 woningen en 10334 inwoners
+Begindatum 01-01-2013
+
+"
+"GM0664";"Goes";"Begindatum voor 1830
+
+"
+"GM0785";"Goirle";"Grenswijziging per 01-01-2018, ontvangen van:
+- Tilburg (GM0855),
+... 89 hectare met 25 woningen en 67 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Tilburg (GM0855),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Tilburg (GM0855),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM1942";"Gooise Meren";"Ontstaan per 01-01-2016, ontvangen van:
+- Bussum (GM0381),
+... 808 hectare met 15681 woningen en 33122 inwoners
+- Muiden (GM0424),
+... 1207 hectare met 2781 woningen en 6206 inwoners
+- Naarden (GM0425),
+... 2142 hectare met 7675 woningen en 17406 inwoners
+- Weesp (GM0457),
+... 4 hectare met 0 woningen en 0 inwoners
+Begindatum 01-01-2015
+"
+"GM0512";"Gorinchem";"Begindatum voor 1830
+
+"
+"GM0513";"Gouda";"Begindatum voor 1830
+
+"
+"GM0693";"Graafstroom";"Opgeheven per 01-01-2013, overgegaan naar:
+- Molenwaard (GM1927),
+... 6691 hectare met 3588 woningen en 9894 inwoners
+
+Begindatum 01-01-1986
+"
+"GM0365";"Graft-De Rijp";"Opgeheven per 01-01-2015, overgegaan naar:
+- Alkmaar (GM0361),
+... 1994 hectare met 2593 woningen en 6406 inwoners
+
+Begindatum 01-08-1970
+
+"
+"GM0786";"Grave";"Begindatum voor 1830
+
+"
+"GM0518";"'s-Gravenhage (gemeente)";"Grenswijziging per 01-01-2013, overgegaan naar:
+- Pijnacker-Nootdorp (GM1926),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0241";"Groesbeek";"Naamswijziging per 01-01-2016,
+nieuwe naam: Berg en Dal (GM1945)
+
+Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Groesbeek (GM0241),
+... 4414 hectare met 8197 woningen en 18963 inwoners
+- Millingen aan de Rijn (GM0265),
+... 864 hectare met 2588 woningen en 5879 inwoners
+- Ubbergen (GM0282),
+... 3371 hectare met 4308 woningen en 9416 inwoners
+Begindatum voor 1830
+"
+"GM0014";"Groningen (gemeente)";"Gemeentelijke herindeling per 01-01-2019, ontvangen van:
+- Ten Boer (GM0009),
+... 4531 hectare met 3051 woningen en 7289 inwoners 
+- Groningen (GM0014),
+... 9492 hectare met 102562 woningen en 203819 inwoners
+- Haren (GM0017),
+... 4537 hectare met 9120 woningen en 20191 inwoners
+
+Grenswijziging per 01-01-2017, ontvangen van:
+- Slochteren (GM0040),
+... 1649 hectare met 341 woningen en 1033 inwoners
+
+Begindatum voor 1830
+"
+"GM0015";"Grootegast";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 8670 hectare met 5045 woningen en 12191 inwoners
+
+Begindatum voor 1830
+"
+"GM1729";"Gulpen-Wittem";"Begindatum 01-01-1999
+
+"
+"GM0158";"Haaksbergen";"Begindatum voor 1830
+
+"
+"GM0788";"Haaren";"Begindatum voor 1830
+"
+"GM0392";"Haarlem";"Begindatum voor 1830
+"
+"GM0393";"Haarlemmerliede en Spaarnwoude";"Opgeheven per 01-01-2019, overgegaan naar:
+- Haarlemmermeer (GM0394),
+... 1922 hectare met 2410 woningen en 6167 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Velsen (GM0453),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum 13-06-1857
+"
+"GM0394";"Haarlemmermeer";"Gemeentelijke herindeling per 01-01-2019, ontvangen van:
+- Haarlemmerliede en Spaarnwoude (GM0393),
+... 1922 hectare met 2410 woningen en 6167 inwoners
+- Haarlemmermeer (GM0394),
+... 17826 hectare met 61101 woningen en 148068 inwoners
+
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Amsterdam (GM0363),
+... 1 hectare met 0 woningen en 170 inwoners
+Begindatum 16-11-1855
+"
+"GM1655";"Halderberge";"Begindatum 01-01-1997
+
+"
+"GM0160";"Hardenberg";"Begindatum 01-05-1941
+
+"
+"GM0243";"Harderwijk";"Begindatum voor 1830
+
+"
+"GM0523";"Hardinxveld-Giessendam";"Begindatum 01-01-1957
+
+"
+"GM0017";"Haren";"Opgeheven per 01-01-2019, overgegaan naar:
+- Groningen (GM0014),
+... 4537 hectare met 9120 woningen en 20191 inwoners
+
+Begindatum voor 1830
+"
+"GM0395";"Harenkarspel";"Opgeheven per 01-01-2013, overgegaan naar:
+- Schagen (GM0441),
+... 5396 hectare met 6271 woningen en 16122 inwoners
+
+Begindatum voor 1830
+"
+"GM0072";"Harlingen";"Begindatum voor 1830
+
+"
+"GM0244";"Hattem";"Begindatum voor 1830
+
+"
+"GM0396";"Heemskerk";"Begindatum voor 1830
+
+"
+"GM0397";"Heemstede";"Begindatum voor 1830
+"
+"GM0246";"Heerde";"Begindatum voor 1830
+
+"
+"GM0074";"Heerenveen";"Grenswijziging per 01-01-2016, ontvangen van:
+- Leeuwarden (GM0080),
+... 0 hectare met 0 woningen en 2 inwoners
+
+Gemeentelijke herindeling per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 4561 hectare met 2614 woningen en 6018 inwoners
+- Heerenveen (GM0074),
+... 13487 hectare met 20131 woningen en 43301 inwoners
+- Skarsterlân (GM0051),
+... 968 hectare met 229 woningen en 580 inwoners
+
+Begindatum 01-07-1934
+"
+"GM0398";"Heerhugowaard";"Begindatum voor 1830
+
+"
+"GM0917";"Heerlen";"Begindatum 02-01-1839
+
+"
+"GM1658";"Heeze-Leende";"Begindatum 01-01-1997
+
+"
+"GM0399";"Heiloo";"Begindatum voor 1830
+
+"
+"GM0400";"Den Helder";"Begindatum voor 1830
+
+"
+"GM0163";"Hellendoorn";"Begindatum voor 1830
+"
+"GM0530";"Hellevoetsluis";"Grenswijziging per 01-01-2018, ontvangen van:
+- Nissewaard (GM1930),
+... 963 hectare met 533 woningen en 1209 inwoners
+
+Begindatum voor 1830
+"
+"GM0794";"Helmond";"Grenswijziging per 01-01-2012, ontvangen van:
+- Nuenen, Gerwen en Nederwetten (GM0820),
+... 19 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0531";"Hendrik-Ido-Ambacht";"Begindatum voor 1830
+
+"
+"GM0164";"Hengelo (O.)";"Grenswijziging per 01-01-2011, ontvangen van:
+- Borne (GM0147),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2011, overgegaan naar:
+- Borne (GM0147),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0796";"'s-Hertogenbosch";"Grenswijziging per 01-01-2019, ontvangen van:
+- Vught (GM0865),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- Vught (GM0865),
+... 29 hectare met 0 woningen en 0 inwoners
+
+Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Maasdonk (GM1671)
+... 2619 hectare met 2818 woningen en 6719 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Sint-Michielsgestel (GM0845),
+... 49 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0252";"Heumen";"Begindatum voor 1830
+
+"
+"GM0797";"Heusden";"Begindatum voor 1830
+
+"
+"GM0534";"Hillegom";"Grenswijziging per 01-01-2013, overgegaan naar:
+- Bloemendaal (GM0377),
+... 2 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0798";"Hilvarenbeek";"Begindatum voor 1830
+
+"
+"GM0402";"Hilversum";"Begindatum voor 1830
+
+"
+"GM1963";"Hoeksche Waard";"Ontstaan per 01-01-2019, ontvangen van:
+- Binnenmaas (GM0585),
+... 6933 hectare met 12868 woningen en 29292 inwoners
+- Cromstrijen (GM0611),
+... 5440 hectare met 5714 woningen en 12916 inwoners
+- Korendijk (GM0588),
+... 7608 hectare met 4690 woningen en 11269 inwoners
+- Oud-Beijerland (GM0584),
+... 1873 hectare met 10313 woningen en 24403 inwoners
+- Strijen (GM0617),
+... 5039 hectare met 3957 woningen en 8776 inwoners
+Begindatum 01-01-2019
+"
+"GM1735";"Hof van Twente";"Begindatum 01-01-2001
+
+"
+"GM1966";"Het Hogeland";"Ontstaan per 01-01-2019, ontvangen van:
+- Bedum (GM0005),
+... 4454 hectare met 4703 woningen en 10493 inwoners
+- Eemsmond (GM1651),
+... 18946 hectare met 7416 woningen en 15411 inwoners
+- De Marne (GM1663),
+... 17068 hectare met 5204 woningen en 10037 inwoners
+- Winsum (GM0053),
+... 7807 hectare met 5308 woningen en 11947 inwoners
+Begindatum 01-01-2019
+"
+"GM1911";"Hollands Kroon";"Ontstaan per 01-01-2012, ontvangen van:
+- Anna Paulowna (GM0366),
+... 7464 hectare met 5844 woningen en 14304 inwoners
+- Niedorp (GM0412),
+... 6159 hectare met 4861 woningen en 12272 inwoners
+- Wieringen (GM0462),
+... 2688 hectare met 3853 woningen en 8562 inwoners
+- Wieringermeer (GM0463),
+... 19498 hectare met 5264 woningen en 12565 inwoners
+Begindatum 01-01-2012
+"
+"GM0118";"Hoogeveen";"Begindatum voor 1830
+
+"
+"GM0018";"Hoogezand-Sappemeer";"Opgeheven per 01-01-2018, overgegaan naar:
+- Midden-Groningen (GM1952),
+... 6646 hectare met 16115 woningen en 34158 inwoners
+
+Begindatum 01-04-1949
+"
+"GM0405";"Hoorn";"Grenswijziging per 01-01-2015, ontvangen van:
+- Koggenland (GM1598),
+... 6 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Koggenland (GM1598),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Grenswijziging per 01-01-2014, ontvangen van:
+- Drechterland (GM0498),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Drechterland (GM0498),
+... 16 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM1507";"Horst aan de Maas";"Begindatum 01-01-2001
+"
+"GM0321";"Houten";"Begindatum voor 1830
+
+"
+"GM0406";"Huizen";"Begindatum voor 1830
+
+"
+"GM0677";"Hulst";"Begindatum voor 1830
+
+"
+"GM0353";"IJsselstein";"Begindatum voor 1830
+
+"
+"GM1884";"Kaag en Braassem";"Grenswijziging per 01-01-2012, ontvangen van:
+- Uithoorn (GM0451),
+... 3 hectare met 4 woningen en 10 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Teylingen (GM1525),
+... 8 hectare met 3 woningen en 17 inwoners
+
+Begindatum 01-01-2009
+"
+"GM0166";"Kampen";"Begindatum voor 1830
+"
+"GM0678";"Kapelle";"Begindatum voor 1830
+
+"
+"GM0537";"Katwijk";"Begindatum voor 1830
+
+"
+"GM0928";"Kerkrade";"Begindatum 02-01-1839
+
+"
+"GM1598";"Koggenland";"Grenswijziging per 01-01-2015, ontvangen van:
+- Hoorn (GM0405),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Hoorn (GM0405),
+... 6 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2007
+
+"
+"GM0079";"Kollumerland en Nieuwkruisland";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noardeast-Fryslân (GM1970),
+... 10953 hectare met 5530 woningen en 12761 inwoners
+
+Begindatum voor 1830
+"
+"GM0588";"Korendijk";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 7608 hectare met 4690 woningen en 11269 inwoners
+
+Begindatum 01-01-1984
+"
+"GM0542";"Krimpen aan den IJssel";"Begindatum voor 1830
+
+"
+"GM1931";"Krimpenerwaard";"Ontstaan per 01-01-2015, ontvangen van:
+- Bergambacht (GM0491)
+... 3510 hectare met 4231 woningen en 10186 inwoners
+- Nederlek (GM0643)
+... 2777 hectare met 6388 woningen en 14143 inwoners
+- Ouderkerk (GM0644)
+... 2707 hectare met 3343 woningen en 8241 inwoners
+- Schoonhoven (GM0608)
+... 628 hectare met 5302 woningen en 11898 inwoners
+- Vlist (GM0623)
+... 5373 hectare met 4001 woningen en 9740 inwoners
+Begindatum 01-01-2015
+"
+"GM1659";"Laarbeek";"Begindatum 01-01-1997
+
+"
+"GM1685";"Landerd";"Begindatum 01-01-1994
+
+"
+"GM0882";"Landgraaf";"Begindatum 01-01-1982
+
+"
+"GM0415";"Landsmeer";"Begindatum voor 1830
+
+"
+"GM0416";"Langedijk";"Begindatum 01-08-1941
+
+"
+"GM1621";"Lansingerland";"Grenswijziging per 01-01-2020, ontvangen van:
+- Rotterdam (GM0599),
+... 2 hectare met 8 woningen en 11 inwoners
+
+Begindatum 01-01-2007
+"
+"GM0417";"Laren (NH.)";"Begindatum voor 1830
+
+"
+"GM0022";"Leek";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 6318 hectare met 8868 woningen en 19732 inwoners
+
+Begindatum voor 1830
+"
+"GM0545";"Leerdam";"Opgeheven per 01-01-2019, overgegaan naar:
+- Vijfheerenlanden (GM1961),
+... 3376 hectare met 8988 woningen en 21248 inwoners
+Provinciale wijziging per 01-01-2019:
+- overgegaan van provincie Zuid-Holland naar provincie Utrecht
+
+Begindatum voor 1830
+"
+"GM0080";"Leeuwarden";"Gemeentelijke herindeling per 01-01-2018, ontvangen van:
+- Leeuwarden (GM0080),
+... 15441 hectare met 55112 woningen en 108942 inwoners
+- Leeuwarderadeel (GM0081),
+... 4090 hectare met 4377 woningen en 10079 inwoners
+- Littenseradiel (GM0140),
+... 4330 hectare met 1416 woningen en 3394 inwoners
+
+Grenswijziging per 01-01-2016, overgegaan naar:
+- Heerenveen (GM0074),
+... 0 hectare met 0 woningen en 2 inwoners
+
+Gemeentelijke herindeling per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 7567 hectare met 4963 woningen en 11024 inwoners
+- Leeuwarden (GM0080),
+... 7872 hectare met 48149 woningen en 96318 inwoners
+
+Begindatum voor 1830
+"
+"GM0081";"Leeuwarderadeel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Leeuwarden (GM0080),
+... 4090 hectare met 4377 woningen en 10079 inwoners
+
+Begindatum voor 1830
+"
+"GM0546";"Leiden";"Grenswijziging per 01-01-2011, overgegaan naar:
+- Zoeterwoude (GM0638),
+... 4 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0547";"Leiderdorp";"Begindatum voor 1830
+
+"
+"GM1916";"Leidschendam-Voorburg";"Begindatum 01-01-2002
+
+"
+"GM0995";"Lelystad";"Begindatum 01-01-1980
+"
+"GM0082";"Lemsterland";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 7577 hectare met 6146 woningen en 13524 inwoners
+
+Begindatum voor 1830
+"
+"GM1640";"Leudal";"Begindatum 01-01-2007
+
+"
+"GM0327";"Leusden";"Begindatum voor 1830
+"
+"GM0694";"Liesveld";"Opgeheven per 01-01-2013, overgegaan naar:
+- Molenwaard (GM1927),
+... 4099 hectare met 3785 woningen en 9770 inwoners
+
+Begindatum 01-01-1986
+"
+"GM0733";"Lingewaal";"Opgeheven per 01-01-2019, overgegaan naar:
+- West Betuwe (GM1960),
+... 5031 hectare met 4666 woningen en 11193 inwoners
+
+Begindatum 03-01-1987
+"
+"GM1705";"Lingewaard";"Begindatum 01-01-2003
+
+"
+"GM0553";"Lisse";"Begindatum voor 1830
+
+"
+"GM0140";"Littenseradiel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Leeuwarden (GM0080),
+... 4330 hectare met 1416 woningen en 3394 inwoners
+- Súdwest-Fryslân (GM1900),
+... 6738 hectare met 2325 woningen en 5411 inwoners
+- Waadhoeke (GM1949),
+... 1999 hectare met 806 woningen en 1878 inwoners
+
+Begindatum 26-01-1985
+"
+"GM0262";"Lochem";"Begindatum voor 1830
+
+"
+"GM0809";"Loon op Zand";"Begindatum voor 1830
+
+"
+"GM0331";"Lopik";"Begindatum voor 1830
+
+"
+"GM0024";"Loppersum";"Begindatum voor 1830
+"
+"GM0168";"Losser";"Begindatum voor 1830
+
+"
+"GM1671";"Maasdonk";"Opgeheven per 01-01-2015, overgegaan naar:
+- 's-Hertogenbosch (GM0796),
+... 2619 hectare met 2818 woningen en 6719 inwoners
+- Oss (GM0828),
+... 1106 hectare met 1845 woningen en 4629 inwoners
+
+Begindatum 01-01-1993
+
+"
+"GM0263";"Maasdriel";"Begindatum 01-08-1944
+
+"
+"GM1641";"Maasgouw";"Begindatum 01-01-2007
+
+"
+"GM0556";"Maassluis";"Begindatum voor 1830
+
+"
+"GM0935";"Maastricht";"Begindatum voor 1830
+
+"
+"GM1663";"De Marne";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 17068 hectare met 5204 woningen en 10037 inwoners
+
+Begindatum 01-01-1992
+"
+"GM0025";"Marum";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 6437 hectare met 4447 woningen en 10484 inwoners
+
+Begindatum voor 1830
+"
+"GM0420";"Medemblik";"Gemeentelijke herindeling per 01-01-2011, ontvangen van:
+- Andijk (GM0364),
+... 2114 hectare met 2594 woningen en 6518 inwoners
+- Medemblik (GM0420),
+... 7727 hectare met 11278 woningen en 27627 inwoners
+- Wervershoof (GM0459),
+... 2340 hectare met 3347 woningen en 8746 inwoners
+.
+Begindatum voor 1830
+
+"
+"GM0938";"Meerssen";"Begindatum 02-01-1839
+
+"
+"GM1948";"Meierijstad";"Ontstaan per 01-01-2017, ontvangen van:
+- Schijndel (GM0844),
+... 4153 hectare met 9901 woningen en 23722 inwoners
+- Sint-Oedenrode (GM0846),
+... 6441 hectare met 7408 woningen en 17892 inwoners
+- Veghel (GM0860),
+... 7816 hectare met 15839 woningen en 38255 inwoners
+Begindatum 01-01-2017
+"
+"GM1908";"Menameradiel";"Opgeheven per 01-01-2018, overgegaan naar:
+- Waadhoeke (GM1949),
+... 6884 hectare met 5877 woningen en 13450 inwoners
+
+Naamswijziging per 01-01-2011,
+oude naam: Menaldumadeel (GM0083)
+Begindatum 01-01-2011
+"
+"GM1987";"Menterwolde";"Opgeheven per 01-01-2018, overgegaan naar:
+- Midden-Groningen (GM1952),
+... 8025 hectare met 5400 woningen en 12013 inwoners
+
+Begindatum 01-02-1991
+"
+"GM0119";"Meppel";"Begindatum voor 1830
+
+"
+"GM0687";"Middelburg (Z.)";"Begindatum voor 1830
+
+"
+"GM0559";"Middelharnis";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 6071 hectare met 7611 woningen en 18070 inwoners
+
+Begindatum voor 1830
+"
+"GM1842";"Midden-Delfland";"Begindatum 01-01-2004
+
+"
+"GM1731";"Midden-Drenthe";"Begindatum 01-01-2000
+
+"
+"GM1952";"Midden-Groningen";"Ontstaan per 01-01-2018, ontvangen van:
+- Hoogezand-Sappemeer (GM0018),
+... 6646 hectare met 16115 woningen en 34158 inwoners
+- Menterwolde (GM1987),
+... 8025 hectare met 5400 woningen en 12013 inwoners
+- Slochteren (GM0040),
+... 13402 hectare met 6510 woningen en 14782 inwoners
+Begindatum 01-01-2018
+"
+"GM0815";"Mill en Sint Hubert";"Begindatum voor 1830
+
+"
+"GM0265";"Millingen aan de Rijn";"Opgeheven per 01-01-2015, overgegaan naar:
+- Groesbeek (GM0241),
+... 864 hectare met 2588 woningen en 5879 inwoners
+
+Begindatum 01-01-1954
+
+"
+"GM1709";"Moerdijk";"Begindatum 04-04-1998
+
+"
+"GM1978";"Molenlanden";"Ontstaan per 01-01-2019, ontvangen van:
+- Giessenlanden (GM0689),
+... 6351 hectare met 5928 woningen en 14540 inwoners
+- Molenwaard (GM1927)
+... 11821 hectare met 11232 woningen en 29318 inwoners
+Begindatum 01-01-2019
+"
+"GM1927";"Molenwaard";"Opgeheven per 01-01-2019, overgegaan naar:
+- Molenlanden (GM1978),
+... 11821 hectare met 11232 woningen en 29318 inwoners
+
+Ontstaan per 01-01-2013, ontvangen van:
+- Graafstroom (GM0693),
+... 6691 hectare met 3588 woningen en 9894 inwoners
+- Liesveld (GM0694),
+... 4099 hectare met 3785 woningen en 9770 inwoners
+- Nieuw-Lekkerland (GM0571)
+... 1039 hectare met 3467 woningen en 9526 inwoners
+Begindatum 01-01-2013
+"
+"GM1955";"Montferland";"Begindatum 01-01-2005
+
+"
+"GM0335";"Montfoort";"Begindatum voor 1830
+
+"
+"GM0944";"Mook en Middelaar";"Grenswijziging per 01-01-2016, overgegaan naar:
+- Berg en Dal (GM1945),
+... 0 hectare met 0 woningen en 5 inwoners
+Begindatum 02-01-1839
+"
+"GM0424";"Muiden";"Opgeheven per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 1207 hectare met 2781 woningen en 6206 inwoners
+- Weesp (GM0457),
+... 235 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0425";"Naarden";"Opgeheven per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 2142 hectare met 7675 woningen en 17406 inwoners
+
+Begindatum voor 1830
+"
+"GM1740";"Neder-Betuwe";"Grenswijziging per 01-01-2014, overgegaan naar:
+- Tiel (GM0281),
+... 70 hectare met 0 woningen en 20 inwoners
+
+Begindatum 01-04-2003
+"
+"GM0643";"Nederlek";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 2777 hectare met 6388 woningen en 14143 inwoners
+
+Begindatum 01-01-1985
+
+"
+"GM0946";"Nederweert";"Begindatum 02-01-1839
+
+"
+"GM0304";"Neerijnen";"Opgeheven per 01-01-2019, overgegaan naar:
+- West Betuwe (GM1960),
+... 6596 hectare met 4974 woningen en 12468 inwoners
+
+Begindatum 01-01-1978
+"
+"GM0412";"Niedorp";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 6159 hectare met 4861 woningen en 12272 inwoners
+
+Begindatum 01-08-1970
+"
+"GM0356";"Nieuwegein";"Begindatum 01-07-1971
+
+"
+"GM0569";"Nieuwkoop";"Begindatum voor 1830
+
+"
+"GM0571";"Nieuw-Lekkerland";"Opgeheven per 01-01-2013, overgegaan naar:
+- Molenwaard (GM1927),
+... 1039 hectare met 3467 woningen en 9526 inwoners
+
+Begindatum voor 1830
+"
+"GM0267";"Nijkerk";"Grenswijziging per 01-01-2014, ontvangen van:
+- Barneveld (GM0203),
+... 19 hectare met 0 woningen en 19 inwoners
+Grenswijziging per 01-01-2014, overgegaan naar:
+- Barneveld (GM0203),
+... 16 hectare met 0 woningen en 30 inwoners
+
+Grenswijziging per 01-01-2013, ontvangen van:
+- Putten (GM0273),
+... 12 hectare met 1 woning en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Putten (GM0273),
+... 21 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0268";"Nijmegen";"Grenswijziging per 01-01-2019, ontvangen van:
+- Berg en Dal (GM1945),
+... 9 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- Berg en Dal (GM1945),
+... 5 hectare met 26 woningen en 25 inwoners
+
+Begindatum voor 1830
+"
+"GM1930";"Nissewaard";"Grenswijziging per 01-01-2018, overgegaan naar:
+- Hellevoetsluis (GM0530),
+... 963 hectare met 533 woningen en 1209 inwoners
+
+Ontstaan per 01-01-2015, ontvangen van:
+- Bernisse (GM0568),
+... 5736 hectare met 5524 woningen en 12381 inwoners
+- Spijkenisse (GM0612),
+... 2610 hectare met 33465 woningen en 72740 inwoners
+Begindatum 01-01-2015
+"
+"GM1970";"Noardeast-Fryslân";"Ontstaan per 01-01-2019, ontvangen van:
+- Dongeradeel (GM0058),
+... 16812 hectare met 11024 woningen en 23845 inwoners
+- Kollumerland en Nieuwkruisland (GM0079),
+... 10953 hectare met 5530 woningen en 12761 inwoners
+- Ferwerderadiel (GM1722),
+... 10018 hectare met 3841 woningen en 8575 inwoners
+Begindatum 01-01-2019
+"
+"GM1695";"Noord-Beveland";"Grenswijziging per 01-01-2017, ontvangen van:
+- Veere (GM0717),
+... 9 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-1995
+"
+"GM1699";"Noordenveld";"Begindatum 01-01-1998
+
+"
+"GM0171";"Noordoostpolder";"Grenswijziging per 01-01-2019, overgegaan naar:
+- Urk (GM0184),
+... 164 hectare met 4 woningen en 13 inwoners
+
+Begindatum 01-07-1962
+"
+"GM0575";"Noordwijk";"Gemeentelijke herindeling per 01-01-2019, ontvangen van:
+- Noordwijk (GM0575),
+... 3578 hectare met 12544 woningen en 26174 inwoners
+- Noordwijkerhout (GM0576),
+... 2259 hectare met 7144 woningen en 16685 inwoners
+
+Begindatum voor 1830
+"
+"GM0576";"Noordwijkerhout";"Opgeheven per 01-01-2019, overgegaan naar:
+- Noordwijk (GM0575),
+... 2259 hectare met 7144 woningen en 16685 inwoners
+
+Begindatum voor 1830
+"
+"GM0820";"Nuenen, Gerwen en Nederwetten";"Grenswijziging per 01-01-2012, overgegaan naar:
+- Helmond (GM0794),
+... 19 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0302";"Nunspeet";"Begindatum 01-01-1972
+
+"
+"GM0951";"Nuth";"Opgeheven per 01-01-2019, overgegaan naar:
+- Beekdaelen (GM1954),
+... 3310 hectare met 7018 woningen en 15187 inwoners
+
+Begindatum 02-01-1839
+"
+"GM0579";"Oegstgeest";"Begindatum voor 1830
+
+"
+"GM0823";"Oirschot";"Begindatum voor 1830
+
+"
+"GM0824";"Oisterwijk";"Begindatum voor 1830
+"
+"GM1895";"Oldambt";"Begindatum 01-01-2010
+
+"
+"GM0269";"Oldebroek";"Begindatum voor 1830
+
+"
+"GM0173";"Oldenzaal";"Begindatum voor 1830
+
+"
+"GM1773";"Olst-Wijhe";"Begindatum 26-03-2002
+
+"
+"GM0175";"Ommen";"Begindatum 01-05-1923
+
+"
+"GM0881";"Onderbanken";"Opgeheven per 01-01-2019, overgegaan naar:
+- Beekdaelen (GM1954),
+... 2114 hectare met 3661 woningen en 7782 inwoners
+
+Begindatum 01-01-1982
+"
+"GM1586";"Oost Gelre";"Grenswijziging per 01-01-2018, ontvangen van:
+- Berkelland (GM1859),
+... 32 hectare met 0 woningen en 0 inwoners
+
+Begindatum 19-05-2006
+"
+"GM0826";"Oosterhout";"Begindatum voor 1830
+
+"
+"GM0580";"Oostflakkee";"Opgeheven per 01-01-2013, overgegaan naar:
+- Goeree-Overflakkee (GM1924),
+... 7480 hectare met 4253 woningen en 10334 inwoners
+
+Begindatum 01-01-1966
+"
+"GM0085";"Ooststellingwerf";"Begindatum voor 1830
+
+"
+"GM0431";"Oostzaan";"Begindatum voor 1830
+
+"
+"GM0432";"Opmeer";"Begindatum voor 1830
+
+"
+"GM0086";"Opsterland";"Begindatum voor 1830
+
+"
+"GM0828";"Oss";"Gemeentelijke herindeling per 01-01-2015, ontvangen van:
+- Maasdonk (GM1671)
+... 1106 hectare met 1845 woningen en 4629 inwoners
+
+Gemeentelijke herindeling per 01-01-2011, ontvangen van:
+- Lith (GM0808),
+... 5057 hectare met 2480 woningen en 6685 inwoners
+- Oss (GM0828),
+... 10185 hectare met 32524 woningen en 77516 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0584";"Oud-Beijerland";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 1873 hectare met 10313 woningen en 24403 inwoners
+
+Begindatum voor 1830
+"
+"GM1509";"Oude IJsselstreek";"Begindatum 01-01-2005
+
+"
+"GM0437";"Ouder-Amstel";"Begindatum voor 1830
+
+"
+"GM0644";"Ouderkerk";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 2707 hectare met 3343 woningen en 8241 inwoners
+
+Begindatum 01-01-1985
+
+"
+"GM0589";"Oudewater";"Begindatum voor 1830
+"
+"GM1734";"Overbetuwe";"Begindatum 01-01-2001
+
+"
+"GM0590";"Papendrecht";"Begindatum voor 1830
+
+"
+"GM1894";"Peel en Maas";"Begindatum 01-01-2010
+
+"
+"GM0765";"Pekela";"Begindatum 01-01-1990
+
+"
+"GM1926";"Pijnacker-Nootdorp";"Grenswijziging per 01-01-2013, ontvangen van:
+- 's-Gravenhage (GM0518),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2002
+"
+"GM0439";"Purmerend";"Begindatum voor 1830
+
+"
+"GM0273";"Putten";"Grenswijziging per 01-01-2013, ontvangen van:
+- Nijkerk (GM0267),
+... 21 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Nijkerk (GM0267),
+... 12 hectare met 1 woning en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0177";"Raalte";"Begindatum voor 1830
+
+"
+"GM0703";"Reimerswaal";"Begindatum 01-01-1970
+
+"
+"GM0274";"Renkum";"Begindatum voor 1830
+"
+"GM0339";"Renswoude";"Begindatum voor 1830
+
+"
+"GM1667";"Reusel-De Mierden";"Begindatum 01-01-1997
+
+"
+"GM0275";"Rheden";"Begindatum voor 1830
+
+"
+"GM0340";"Rhenen";"Begindatum voor 1830
+
+"
+"GM0597";"Ridderkerk";"Begindatum voor 1830
+
+"
+"GM0196";"Rijnwaarden";"Opgeheven per 01-01-2018, overgegaan naar:
+- Zevenaar (GM0299),
+... 3960 hectare met 4804 woningen en 10810 inwoners
+
+Begindatum 01-01-1985
+"
+"GM1672";"Rijnwoude";"Opgeheven per 01-01-2014, overgegaan naar:
+- Alphen aan den Rijn (GM0484),
+... 5667 hectare met 7730 woningen en 18484 inwoners
+
+Begindatum 01-01-1993
+"
+"GM1742";"Rijssen-Holten";"Begindatum 15-03-2003
+"
+"GM0603";"Rijswijk (ZH.)";"Begindatum voor 1830
+
+"
+"GM1669";"Roerdalen";"Grenswijziging per 01-01-2015, ontvangen van:
+- Roermond (GM0957),
+... 8 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Roermond (GM0957),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-1993
+
+"
+"GM0957";"Roermond";"Grenswijziging per 01-01-2015, ontvangen van:
+- Roerdalen (GM1669),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2015, overgegaan naar:
+- Roerdalen (GM1669),
+... 8 hectare met 0 woningen en 0 inwoners
+
+Begindatum 02-01-1839
+
+"
+"GM0736";"De Ronde Venen";"Gemeentelijke herindeling per 01-01-2011, ontvangen van:
+- Abcoude (GM0305),
+... 3039 hectare met 3645 woningen en 8791 inwoners
+- De Ronde Venen (GM0736),
+... 7038 hectare met 13252 woningen en 34213 inwoners
+
+Begindatum 01-01-1989
+
+"
+"GM1674";"Roosendaal";"Begindatum 01-01-1997
+
+"
+"GM0599";"Rotterdam";"Grenswijziging per 01-01-2020, overgegaan naar:
+- Lansingerland (GM1621),
+... 2 hectare met 8 woningen en 11 inwoners
+
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Zuidplas (GM1892),
+... 33 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0277";"Rozendaal";"Begindatum voor 1830
+
+"
+"GM0840";"Rucphen";"Begindatum voor 1830
+"
+"GM0441";"Schagen";"Gemeentelijke herindeling per 01-01-2013, ontvangen van:
+- Harenkarspel (GM0395),
+... 5396 hectare met 6271 woningen en 16122 inwoners
+- Schagen (GM0441),
+... 1886 hectare met 8333 woningen en 18566 inwoners
+- Zijpe (GM0476),
+... 9509 hectare met 4834 woningen en 11519 inwoners
+
+Begindatum voor 1830
+"
+"GM0458";"Schermer";"Opgeheven per 01-01-2015, overgegaan naar:
+- Alkmaar (GM0361),
+... 6129 hectare met 2197 woningen en 5452 inwoners
+
+Begindatum 01-08-1970
+
+"
+"GM0279";"Scherpenzeel";"Begindatum voor 1830
+
+"
+"GM0606";"Schiedam";"Begindatum voor 1830
+
+"
+"GM0088";"Schiermonnikoog";"Begindatum voor 1830
+"
+"GM0844";"Schijndel";"Opgeheven per 01-01-2017, overgegaan naar:
+- Meierijstad (GM1948),
+... 4153 hectare met 9901 woningen en 23722 inwoners
+
+Begindatum voor 1830
+"
+"GM0962";"Schinnen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Beekdaelen (GM1954),
+... 2406 hectare met 5956 woningen en 12758 inwoners
+
+Begindatum 02-01-1839
+"
+"GM0608";"Schoonhoven";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 628 hectare met 5302 woningen en 11898 inwoners
+
+Begindatum voor 1830
+"
+"GM1676";"Schouwen-Duiveland";"Begindatum 01-01-1997
+
+"
+"GM0965";"Simpelveld";"Begindatum 02-01-1839
+
+"
+"GM1702";"Sint Anthonis";"Begindatum 04-07-1995
+
+"
+"GM0845";"Sint-Michielsgestel";"Grenswijziging per 01-01-2012, overgegaan naar:
+- 's-Hertogenbosch (GM0796),
+... 49 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0846";"Sint-Oedenrode";"Opgeheven per 01-01-2017, overgegaan naar:
+- Meierijstad (GM1948),
+... 6441 hectare met 7408 woningen en 17892 inwoners
+
+Begindatum voor 1830
+"
+"GM1883";"Sittard-Geleen";"Begindatum 01-01-2001
+"
+"GM0051";"Skarsterlân";"Opgeheven per 01-01-2014, overgegaan naar:
+- De Friese Meren (GM1921),
+... 17549 hectare met 11785 woningen en 26921 inwoners
+- Heerenveen (GM0074),
+... 968 hectare met 229 woningen en 580 inwoners
+
+Begindatum 01-03-1985
+
+"
+"GM0610";"Sliedrecht";"Begindatum voor 1830
+
+"
+"GM0040";"Slochteren";"Opgeheven per 01-01-2018, overgegaan naar:
+- Midden-Groningen (GM1952),
+... 13402 hectare met 6510 woningen en 14782 inwoners
+
+Grenswijziging per 01-01-2017, overgegaan naar:
+- Groningen (GM0014),
+... 1649 hectare met 341 woningen en 1033 inwoners
+
+Begindatum voor 1830
+"
+"GM1714";"Sluis";"Begindatum 01-01-2003
+
+"
+"GM0090";"Smallingerland";"Begindatum voor 1830
+
+"
+"GM0342";"Soest";"Begindatum voor 1830
+
+"
+"GM0847";"Someren";"Begindatum voor 1830
+
+"
+"GM0848";"Son en Breugel";"Grenswijziging per 01-01-2012, ontvangen van:
+- Eindhoven (GM0772),
+... 3 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Eindhoven (GM0772),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0612";"Spijkenisse";"Opgeheven per 01-01-2015, overgegaan naar:
+- Nissewaard (GM1930),
+... 2610 hectare met 33465 woningen en 72740 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0037";"Stadskanaal";"Begindatum 01-01-1969
+
+"
+"GM0180";"Staphorst";"Begindatum voor 1830
+
+"
+"GM0532";"Stede Broec";"Begindatum 01-01-1979
+
+"
+"GM0851";"Steenbergen";"Begindatum 25-06-1962
+
+"
+"GM1708";"Steenwijkerland";"Begindatum 01-01-2003
+
+"
+"GM0971";"Stein (L.)";"Begindatum 02-01-1839
+"
+"GM1904";"Stichtse Vecht";"Grenswijziging per 01-01-2012, ontvangen van:
+- Wijdemeren (GM1696),
+... 0 hectare met 0 woningen en 4 inwoners
+
+Ontstaan per 01-01-2011, uit:
+- Breukelen (GM0311),
+... 4441 hectare met 5908 woningen en 14736 inwoners
+- Loenen (GM0329),
+... 2497 hectare met 3522 woningen en 8562 inwoners
+- Maarssen (GM0333),
+... 2724 hectare met 16212 woningen en 39752 inwoners
+Begindatum 01-01-2011
+"
+"GM0617";"Strijen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Hoeksche Waard (GM1963),
+... 5039 hectare met 3957 woningen en 8776 inwoners
+
+Begindatum voor 1830
+"
+"GM1900";"Súdwest-Fryslân";"Grenswijziging per 14-09-2018, ontvangen van:
+- Waadhoeke (GM1949),
+... 75 hectare met 3 woningen en 0 inwoners
+
+Gemeentelijke herindeling per 01-01-2018, ontvangen van:
+- Littenseradiel (GM0140),
+... 6738 hectare met 2325 woningen en 5411 inwoners
+- Súdwest-Fryslân (GM1900),
+... 45536 hectare met 39274 woningen en 84183 inwoners
+
+Grenswijziging per 01-01-2014, ontvangen van:
+- Boarnsterhim (GM0055),
+... 2467 hectare met 704 woningen en 1653 inwoners
+
+Ontstaan per 01-01-2011, uit:
+- Bolsward (GM0064),
+... 905 hectare met 4388 woningen en 9974 inwoners
+- Nijefurd (GM0104),
+... 9655 hectare met 4918 woningen en 10971 inwoners
+- Sneek (GM0091),
+... 3005 hectare met 14900 woningen en 33573 inwoners
+- Wûnseradiel (GM0710),
+... 15847 hectare met 5032 woningen en 11849 inwoners
+- Wymbritseradiel (GM0683),
+... 13800 hectare met 6588 woningen en 16078 inwoners
+Begindatum 01-01-2011
+"
+"GM0715";"Terneuzen";"Begindatum voor 1830
+
+"
+"GM0093";"Terschelling";"Begindatum voor 1830
+"
+"GM0448";"Texel";"Begindatum voor 1830
+
+"
+"GM1525";"Teylingen";"Grenswijziging per 01-01-2012, ontvangen van:
+- Kaag en Braassem (GM1884),
+... 8 hectare met 3 woningen en 17 inwoners
+
+Begindatum 01-01-2006
+"
+"GM0716";"Tholen";"Begindatum voor 1830
+
+"
+"GM0281";"Tiel";"Grenswijziging per 01-01-2014, ontvangen van:
+- Neder-Betuwe (GM1740),
+... 70 hectare met 0 woningen en 20 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0855";"Tilburg";"Grenswijziging per 01-01-2018, overgegaan naar:
+- Goirle (GM0785),
+... 89 hectare met 25 woningen en 67 inwoners
+
+Grenswijziging per 01-01-2013, ontvangen van:
+- Dongen (GM0766),
+... 1 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2013, overgegaan naar:
+- Dongen (GM0766),
+... 4 hectare met 1 woning en 0 inwoners
+
+Grenswijziging per 01-01-2012, ontvangen van:
+- Goirle (GM0785),
+... 2 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Goirle (GM0785),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0183";"Tubbergen";"Begindatum voor 1830
+
+"
+"GM1700";"Twenterand";"Begindatum 01-06-2002
+
+"
+"GM1730";"Tynaarlo";"Begindatum 01-12-1999
+
+"
+"GM0737";"Tytsjerksteradiel";"Begindatum 01-01-1989
+
+"
+"GM0282";"Ubbergen";"Opgeheven per 01-01-2015, overgegaan naar:
+- Groesbeek (GM0241),
+... 3371 hectare met 4308 woningen en 9416 inwoners
+
+Begindatum voor 1830
+"
+"GM0856";"Uden";"Begindatum voor 1830
+
+"
+"GM0450";"Uitgeest";"Begindatum voor 1830
+
+"
+"GM0451";"Uithoorn";"Grenswijziging per 01-01-2012, overgegaan naar:
+- Kaag en Braassem (GM1884),
+... 3 hectare met 4 woningen en 10 inwoners
+
+Begindatum voor 1830
+"
+"GM0184";"Urk";"Grenswijziging per 01-01-2019, ontvangen van:
+- Noordoostpolder (GM0171),
+... 164 hectare met 4 woningen en 13 inwoners
+
+Begindatum voor 1830
+"
+"GM0344";"Utrecht (gemeente)";"Begindatum voor 1830
+
+"
+"GM1581";"Utrechtse Heuvelrug";"Grenswijziging per 01-01-2016, overgegaan naar:
+- Wijk bij Duurstede (GM0352),
+... 14 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2006
+"
+"GM0981";"Vaals";"Begindatum 02-01-1839
+
+"
+"GM0994";"Valkenburg aan de Geul";"Begindatum 01-01-1982
+
+"
+"GM0858";"Valkenswaard";"Grenswijziging per 01-01-2016, ontvangen van:
+- Waalre (GM0866),
+... 0 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0047";"Veendam";"Begindatum voor 1830
+
+"
+"GM0345";"Veenendaal";"Begindatum voor 1830
+
+"
+"GM0717";"Veere";"Grenswijziging per 01-01-2017, overgegaan naar:
+- Noord-Beveland (GM1695),
+... 9 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0860";"Veghel";"Opgeheven per 01-01-2017, overgegaan naar:
+- Meierijstad (GM1948),
+... 7816 hectare met 15839 woningen en 38255 inwoners
+
+Begindatum voor 1830
+"
+"GM0861";"Veldhoven";"Grenswijziging per 01-01-2017, ontvangen van:
+- Eindhoven (GM0772),
+... 6 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2017, overgegaan naar:
+- Eindhoven (GM0772),
+... 10 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-05-1921
+"
+"GM0453";"Velsen";"Grenswijziging per 01-01-2012, ontvangen van:
+- Beverwijk (GM0375),
+... 29 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Beverwijk (GM0375),
+... 6 hectare met 0 woningen en 0 inwoners
+- Haarlemmerliede en Spaarnwoude (GM0393),
+... 1 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0983";"Venlo";"Begindatum 02-01-1839
+"
+"GM0984";"Venray";"Begindatum 02-01-1839
+
+"
+"GM0620";"Vianen";"Opgeheven per 01-01-2019, overgegaan naar:
+- Vijfheerenlanden (GM1961),
+... 3920 hectare met 8769 woningen en 20444 inwoners
+
+Begindatum voor 1830
+"
+"GM1961";"Vijfheerenlanden";"Ontstaan per 01-01-2019, ontvangen van:
+- Leerdam (GM0545),
+... 3376 hectare met 8988 woningen en 21248 inwoners
+- Vianen (GM0620),
+... 3920 hectare met 8769 woningen en 20444 inwoners
+- Zederik (GM0707),
+... 7345 hectare met 5661 woningen en 14020 inwoners
+Provinciale wijziging per 01-01-2019:
+- overgegaan van provincie Zuid-Holland naar provincie Utrecht 
+Begindatum 01-01-2019
+"
+"GM0622";"Vlaardingen";"Begindatum voor 1830
+
+"
+"GM0048";"Vlagtwedde";"Opgeheven per 01-01-2018, overgegaan naar:
+- Westerwolde (GM1950),
+... 17640 hectare met 7845 woningen en 15868 inwoners
+
+Begindatum voor 1830
+"
+"GM0096";"Vlieland";"Begindatum voor 1830
+"
+"GM0718";"Vlissingen";"Begindatum voor 1830
+"
+"GM0623";"Vlist";"Opgeheven per 01-01-2015, overgegaan naar:
+- Krimpenerwaard (GM1931),
+... 5373 hectare met 4001 woningen en 9740 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0986";"Voerendaal";"Begindatum 02-01-1839
+
+"
+"GM0626";"Voorschoten";"Begindatum voor 1830
+
+"
+"GM0285";"Voorst";"Begindatum voor 1830
+
+"
+"GM0865";"Vught";"Grenswijziging per 01-01-2019, ontvangen van:
+- 's-Hertogenbosch (GM0796),
+... 29 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2019, overgegaan naar:
+- 's-Hertogenbosch (GM0796),
+... 3 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM1949";"Waadhoeke";"Grenswijziging per 14-09-2018, overgegaan naar:
+- Súdwest-Fryslân (GM1900),
+... 75 hectare met 3 woningen en 0 inwoners
+
+Ontstaan per 01-01-2018, ontvangen van:
+- het Bildt (GM0063),
+... 9233 hectare met 4706 woningen en 10560 inwoners
+- Franekeradeel (GM0070),
+... 10259 hectare met 9614 woningen en 20213 inwoners
+- Littenseradiel (GM0140),
+... 1999 hectare met 806 woningen en 1878 inwoners
+- Menameradiel (GM1908),
+... 6884 hectare met 5877 woningen en 13450 inwoners
+Begindatum 01-01-2018
+"
+"GM0866";"Waalre";"Grenswijziging per 01-01-2016, overgegaan naar:
+- Valkenswaard (GM0858),
+... 0 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0867";"Waalwijk";"Begindatum voor 1830
+
+"
+"GM0627";"Waddinxveen";"Begindatum 01-07-1870
+
+"
+"GM0289";"Wageningen";"Begindatum voor 1830
+
+"
+"GM0629";"Wassenaar";"Begindatum voor 1830
+
+"
+"GM0852";"Waterland";"Begindatum 01-01-1991
+
+"
+"GM0988";"Weert";"Begindatum 02-01-1839
+
+"
+"GM0457";"Weesp";"Grenswijziging per 01-01-2016, ontvangen van:
+- Muiden (GM0424),
+... 235 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2016, overgegaan naar:
+- Gooise Meren (GM1942),
+... 4 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0870";"Werkendam";"Opgeheven per 01-01-2019, overgegaan naar:
+- Altena (GM1959),
+... 10090 hectare met 10929 woningen en 27295 inwoners
+
+Begindatum voor 1830
+"
+"GM1960";"West Betuwe";"Ontstaan per 01-01-2019, ontvangen van:
+- Geldermalsen (GM0236),
+... 9985 hectare met 11070 woningen en 27036 inwoners 
+- Neerijnen (GM0304),
+... 6596 hectare met 4974 woningen en 12468 inwoners 
+- Lingewaal (GM0733),
+... 5031 hectare met 4666 woningen en 11193 inwoners 
+Begindatum 01-01-2019
+"
+"GM0668";"West Maas en Waal";"Begindatum 01-07-1985
+
+"
+"GM1969";"Westerkwartier";"Ontstaan per 01-01-2019, ontvangen van:
+- Grootegast (GM0015),
+... 8670 hectare met 5045 woningen en 12191 inwoners
+- Leek (GM0022),
+... 6318 hectare met 8868 woningen en 19732 inwoners
+- Marum (GM0025),
+... 6437 hectare met 4447 woningen en 10484 inwoners
+- Winsum (GM0053),
+... 2303 hectare met 732 woningen en 1558 inwoners
+- Zuidhorn (GM0056),
+... 12542 hectare met 7953 woningen en 19066 inwoners
+Begindatum 01-01-2019
+"
+"GM1701";"Westerveld";"Begindatum 01-01-1998
+
+"
+"GM0293";"Westervoort";"Begindatum voor 1830
+
+"
+"GM1950";"Westerwolde";"Ontstaan per 01-01-2018, ontvangen van:
+- Bellingwedde (GM0007),
+... 10837 hectare met 4118 woningen en 8816 inwoners
+- Vlagtwedde (GM0048),
+... 17640 hectare met 7845 woningen en 15868 inwoners
+Begindatum 01-01-2018
+"
+"GM1783";"Westland";"Begindatum 01-01-2004
+
+"
+"GM0098";"Weststellingwerf";"Begindatum voor 1830
+
+"
+"GM0614";"Westvoorne";"Begindatum 01-01-1980
+"
+"GM0189";"Wierden";"Begindatum voor 1830
+
+"
+"GM0462";"Wieringen";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 2688 hectare met 3853 woningen en 8562 inwoners
+
+Begindatum voor 1830
+"
+"GM0463";"Wieringermeer";"Opgeheven per 01-01-2012, overgegaan naar:
+- Hollands Kroon (GM1911),
+... 19498 hectare met 5264 woningen en 12565 inwoners
+
+Begindatum 01-01-1938
+"
+"GM0296";"Wijchen";"Begindatum voor 1830
+
+"
+"GM1696";"Wijdemeren";"Grenswijziging per 01-01-2012, overgegaan naar:
+- Stichtse Vecht (GM1904),
+... 0 hectare met 0 woningen en 4 inwoners
+
+Begindatum 01-01-2002
+"
+"GM0352";"Wijk bij Duurstede";"Grenswijziging per 01-01-2016, ontvangen van:
+- Utrechtse Heuvelrug (GM1581),
+... 14 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0053";"Winsum";"Opgeheven per 01-01-2019, overgegaan naar:
+- Het Hogeland (GM1966),
+... 7807 hectare met 5308 woningen en 11947 inwoners
+- Westerkwartier (GM1969),
+... 2303 hectare met 732 woningen en 1558 inwoners
+
+Begindatum voor 1830
+"
+"GM0294";"Winterswijk";"Begindatum voor 1830
+
+"
+"GM0873";"Woensdrecht";"Begindatum voor 1830
+
+"
+"GM0632";"Woerden";"Begindatum voor 1830
+
+"
+"GM1690";"De Wolden";"Begindatum 01-01-1998
+
+"
+"GM0880";"Wormerland";"Begindatum 01-01-1991
+
+"
+"GM0351";"Woudenberg";"Begindatum voor 1830
+
+"
+"GM0874";"Woudrichem";"Opgeheven per 01-01-2019, overgegaan naar:
+- Altena (GM1959),
+... 4932 hectare met 6125 woningen en 14770 inwoners
+
+Begindatum voor 1830
+"
+"GM0479";"Zaanstad";"Begindatum 01-01-1974
+
+"
+"GM0297";"Zaltbommel";"Begindatum voor 1830
+
+"
+"GM0473";"Zandvoort";"Begindatum voor 1830
+
+"
+"GM0707";"Zederik";"Opgeheven per 01-01-2019, overgegaan naar:
+- Vijfheerenlanden (GM1961),
+... 7345 hectare met 5661 woningen en 14020 inwoners
+Provinciale wijziging per 01-01-2019:
+- overgegaan van provincie Zuid-Holland naar provincie Utrecht
+
+Begindatum 01-01-1986
+"
+"GM0478";"Zeevang";"Opgeheven per 01-01-2016, overgegaan naar:
+- Edam-Volendam (GM0385),
+... 3806 hectare met 2576 woningen en 6257 inwoners
+
+Begindatum 01-08-1970
+"
+"GM0050";"Zeewolde";"Begindatum 01-01-1984
+
+"
+"GM0355";"Zeist";"Begindatum voor 1830
+
+"
+"GM0299";"Zevenaar";"Gemeentelijke herindeling per 01-01-2018, ontvangen van:
+- Rijnwaarden (GM0196),
+... 3960 hectare met 4804 woningen en 10810 inwoners
+- Zevenaar (GM0299),
+... 5327 hectare met 14880 woningen en 32592 inwoners
+
+Begindatum voor 1830
+"
+"GM0476";"Zijpe";"Opgeheven per 01-01-2013, overgegaan naar:
+- Schagen (GM0441),
+... 9509 hectare met 4834 woningen en 11519 inwoners
+
+Begindatum voor 1830
+"
+"GM0637";"Zoetermeer";"Begindatum voor 1830
+"
+"GM0638";"Zoeterwoude";"Grenswijziging per 01-01-2011, ontvangen van:
+- Leiden (GM0546),
+... 4 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+
+"
+"GM0056";"Zuidhorn";"Opgeheven per 01-01-2019, overgegaan naar:
+- Westerkwartier (GM1969),
+... 12542 hectare met 7953 woningen en 19066 inwoners
+
+Begindatum voor 1830
+"
+"GM1892";"Zuidplas";"Grenswijziging per 01-01-2013, ontvangen van:
+- Rotterdam (GM0599),
+... 33 hectare met 0 woningen en 0 inwoners
+
+Begindatum 01-01-2010
+
+"
+"GM0879";"Zundert";"Grenswijziging per 01-01-2012, ontvangen van:
+- Breda (GM0758),
+... 74 hectare met 0 woningen en 0 inwoners
+Grenswijziging per 01-01-2012, overgegaan naar:
+- Breda (GM0758),
+... 32 hectare met 0 woningen en 0 inwoners
+
+Begindatum voor 1830
+"
+"GM0301";"Zutphen";"Begindatum voor 1830
+
+"
+"GM1896";"Zwartewaterland";"Begindatum 01-01-2001
+
+"
+"GM0642";"Zwijndrecht";"Begindatum voor 1830
+
+"
+"GM0193";"Zwolle";"Begindatum voor 1830
+
+"
+"Perioden"
+Key;Title;Description;Status
+"2011JJ00";"2011";;"Definitief"
+"2012JJ00";"2012";;"Definitief"
+"2013JJ00";"2013";;"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
+"2018JJ00";"2018";;"Definitief"
+"2019JJ00";"2019";;"Definitief"
+"2020JJ00";"2020";;"Definitief"
