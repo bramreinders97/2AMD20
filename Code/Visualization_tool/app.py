@@ -2,17 +2,21 @@ from dash import html, dcc
 from dash import Dash
 from dash.dependencies import Input, Output
 import geopandas as gpd
+import plotly.express as px
 
 
 def load_shapefile():
-    path = "/gemeente_lines/gemeente_2020_v2.shp"
+    path = "gemeente_lines/gemeente_2020_v2.shp"
     shapefile = gpd.read_file(path)
+    shapefile.to_file("test.txt", driver = "GeoJSON")
+    print(shapefile.columns.values)
     return shapefile
 
 
 def main():
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
+    fig = px.choropleth_mapbox(data_frame = load_shapefile(), featureidkey = "GM_CODE", )
     app.layout = html.Div([
         html.H1('Visualization of Movement in the Netherlands'),
         html.H3('Select the City'),
@@ -40,7 +44,11 @@ def main():
                                value=1)], style={'width': '20%'}),
         html.H3('Select the years of interest'),
         html.Div(
-            [dcc.Checklist(id='year-checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True)])])
+            [dcc.Checklist(id='year-checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True)]),
+        html.Div([dcc.Graph(id = 'graph_geo', figure = fig)])])
+        
+
+        
 
     # Callbacks maken dat hij update op selectie
 
@@ -48,5 +56,6 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
     load_shapefile()
+    main()
+    
