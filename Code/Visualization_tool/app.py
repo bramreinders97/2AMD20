@@ -1,14 +1,35 @@
 from dash import html, dcc
 from dash import Dash
 from dash.dependencies import Input, Output
-import geopandas as gpd
+import json
+from pandas import read_pickle
+import plotly.express as px
 
 
-def load_shapefile():
-    path = "/gemeente_lines/gemeente_2020_v2.shp"
-    shapefile = gpd.read_file(path)
-    return shapefile
+def load_json():
+    path = "extracted.txt"
+    j_file = json.load(open(path))
+    return j_file
 
+
+def load_dataset(path):
+    """
+    Loads a dataset in.
+    :param path: path to dataset.
+    :return: Unpickled dataset.
+    """
+    data = read_pickle(path)
+    return data
+
+
+def compress_json(file):
+    """
+    This one might be needed if the visualization is too slow.
+    Will round down the coordinates of the municipalities in te json file
+    :param file: A json file
+    :return: A json file with the coordinates rounded up/down.
+    """
+    pass
 
 
 def make_choropleth(geojson, dataframe):
@@ -54,7 +75,11 @@ def main(fig):
                                value=1)], style={'width': '20%'}),
         html.H3('Select the years of interest'),
         html.Div(
-            [dcc.Checklist(id='year-checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True)])])
+            [dcc.Checklist(id='year-checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True)]),
+
+        html.H4("BigMap"),
+        html.Div(
+            [dcc.Graph(id='example-graph-1', figure=fig)])])
 
     # Callbacks maken dat hij update op selectie
 
@@ -62,5 +87,7 @@ def main(fig):
 
 
 if __name__ == '__main__':
-    main()
-    load_shapefile()
+    j_file = load_json()
+    dataset = load_dataset("population.pkl")
+    figure = make_choropleth(j_file, dataset)
+    main(figure)
