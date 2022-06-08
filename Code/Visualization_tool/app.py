@@ -10,7 +10,21 @@ def load_shapefile():
     return shapefile
 
 
-def main():
+
+def make_choropleth(geojson, dataframe):
+    print("yo")
+    df = dataframe
+    geojson = geojson
+
+    fig = px.choropleth_mapbox(
+        df, geojson=geojson, color="BevolkingOp1Januari_1",
+        locations="RegioS", featureidkey="properties.GM_CODE",
+        range_color=[0, 6500], zoom=5)
+    print("yo2")
+    return fig
+
+
+def main(fig):
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
     app.layout = html.Div([
