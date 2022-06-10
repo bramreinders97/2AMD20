@@ -4,12 +4,13 @@ from dash.dependencies import Input, Output
 import json
 from pandas import read_pickle
 import plotly.express as px
+import shapefile
+import pandas as pd
 
 
 def load_json():
-    path = "extracted.txt"
-    j_file = json.load(open(path))
-    return j_file
+    geojson_data = shapefile.Reader("../../gemeente_lines/gemeente_2020_v2.shp").__geo_interface__
+    return geojson_data
 
 
 def load_dataset(path):
@@ -34,14 +35,49 @@ def compress_json(file):
 
 def make_choropleth(geojson, dataframe):
     print("yo")
+    idx = dataframe[(dataframe['Perioden'] != 2016)].index
+    dataframe.drop(idx, inplace=True)
+    #idx2 = dataframe[(dataframe['RegioS'] != "GM0363")].index
+    #dataframe.drop(idx2, inplace=True)
+    print(dataframe)
     df = dataframe
+    df.astype({"RegioS": str})
     geojson = geojson
+    # fig = px.choropleth(df,
+    #                     geojson=geojson,
+    #                     locations='RegioS',
+    #                     featureidkey="properties.GM_CODE",      # This one takes a long time
+    #                     color='GemiddeldeWoningwaarde_4',
+    #                     color_continuous_scale="Viridis",
+    #                     range_color=(0, 666),
+    #                     center={"lat": 52.370216, "lon": 4.895168},
+    #                     )
+    # fig.update_geos(visible=False)
+    # fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 
-    fig = px.choropleth_mapbox(
-        df, geojson=geojson, color="BevolkingOp1Januari_1",
-        locations="RegioS", featureidkey="properties.GM_CODE",
-        range_color=[0, 6500], zoom=5)
-    print("yo2")
+    fig = px.choropleth_mapbox(df,
+                               geojson=geojson,
+                               color="GemiddeldeWoningwaarde_4",
+                               locations="RegioS",
+                               featureidkey="properties.GM_CODE",
+                               range_color=[0, 666],
+                               zoom=9,
+                               #center={"lat": 52.370216, "lon": 4.895168},
+                               mapbox_style="white-bg",
+                               opacity=0.5)
+    fig.update_layout(
+        mapbox_layers=[
+            {
+                "below": 'traces',
+                "sourcetype": "raster",
+                "source": [geojson]
+            }
+        ])
+    fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+    fig.update_geos(fitbounds="locations", visible=False)
+
+    print("Preparing to show figure: ")
+    fig.show()
     return fig
 
 
@@ -88,6 +124,7 @@ def main(fig):
 
 if __name__ == '__main__':
     j_file = load_json()
-    dataset = load_dataset("population.pkl")
+    dataset = load_dataset("../../cleanedDFs/prices.pkl")
     figure = make_choropleth(j_file, dataset)
-    main(figure)
+    #figure.show()
+    #main(figure)
