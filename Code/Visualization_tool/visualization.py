@@ -1,6 +1,6 @@
 import geojson
 import plotly.express as px
-from dash import Dash, dcc, html
+from dash import Dash, dcc, html, Input, Output
 from pandas import read_pickle
 
 
@@ -24,8 +24,6 @@ def aggregate_dataframe(dataframe, factor):
     :param factor: The chosen factor. (string with '_other' appended)
     :return: pandas dataframe with the moves columns aggregated.
     """
-    # TODO: How exactly do we want to aggregate the other columns. I believe that the latest variable is actually fine.
-    #  Maybe we want a difference score? it can be adapted in header_agg
 
     # Aggregation options. Sum for moves and last for the chosen factor. can be changed.
     header_agg = {'moves': 'sum',
@@ -93,8 +91,8 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='pric
     # Prepare dataset according to the chosen parameters
     df = prepare_dataset(city=city, to_from=to_from, factor=factor, years=years)
 
-    # Decide what factor to base the choropleth colouring on
-    if sorting:
+    # Decide what factor to base the choropleth colouring on. If multiple years, only show based on moves.
+    if sorting or len(years) > 1:
         color = 'moves'
     else:
         color = factor
@@ -105,68 +103,97 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='pric
                                color=color,
                                locations="gemeente_code",
                                featureidkey="properties.statcode",
-                               range_color=[min(df[factor]), max(df[factor])],
-                               zoom=9,
+                               range_color=[min(df[color]), max(df[color])],
+                               zoom=6,
                                hover_name=df["gemeente_naam"],
                                hover_data=["moves", factor, "year"],
-                               center={"lat": 52.370216, "lon": 4.895168},
+                               center={"lat": 52.2130, "lon": 5.2794},
                                mapbox_style="carto-positron",
                                opacity=0.5)
 
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.update_geos(fitbounds="locations", visible=False)
-    print("Ya")
+
     return fig
 
 
 def main(geojson_file):
+    """
+    This is the main dash app. This thing does the whole visualization
+    :param geojson_file: A geojson file with the municipality borders in standard lat, lon coordinates.
+    """
 
-    # Initialize a figure? I am not sure if this is needed
-    fig = make_choropleth(geojson_file=geojson_file)
-
+    # Create dash board
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
     app.layout = html.Div([
+        html.Div(children=[
 
-        html.H1('Visualization of Movement in the Netherlands'),
-        html.H3('Selecteer een van de 10 grootste steden'),
+            # Place option selectors
+            html.H1('Visualization of Movement in the Netherlands'),
+            html.H3('Selecteer een van de 10 grootste steden'),
 
-        html.Div([
-            dcc.Dropdown(id='city',
-                         options=["Almere", "Amsterdam", "Breda", "DenHaag", "Eindhoven", "Groningen",
-                                               "Nijmegen", "Rotterdam", "Tilburg", "Utrecht"]
-                         )
-        ], style={'width': '20%'}),
-        html.H3('Selecteer de beweegrichting t.o.v de stad'),
-        html.Div([dcc.Dropdown(id='direction',
-                               options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                        zip(["van", "naar"], ["From", "To"])],
-                               value=1)], style={'width': '20%'}),
-        html.H3('Selecteer de factor'),
-        html.Div([dcc.Dropdown(id='factor',
-                               options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                        zip(["Beschikbaarheid huizen", "Gemiddelde Huizenprijs", "Populatie grootte"],
-                                            ["prices_other", "prices_other", "availability_other"])],
-                               value=1)], style={'width': '20%'}),
-        html.H3('Selecteer de sorteer factor'),
-        html.Div([dcc.Dropdown(id='sorting',
-                               options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                        zip(["Sorteer op verhuizingen", "Sorteer op gekozen factor"], [True, False])],
-                               value=1)], style={'width': '20%'}),
-        html.H3('Select the years of interest'),
-        html.Div(
-            [dcc.Checklist(id='year-checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True)]),
+            html.Div([
+                dcc.Dropdown(id='city',
+                             options=["Almere", "Amsterdam", "Breda", "DenHaag", "Eindhoven", "Groningen",
+                                      "Nijmegen", "Rotterdam", "Tilburg", "Utrecht"]
+                             )
+            ], style={'width': '20%', 'display': 'inline-block', 'vertical-align': 'top'}),
 
-        html.H4("Kaart"),
-        html.Div(
-            [dcc.Graph(id='example-graph-1', figure=fig)])])
+            html.H3('Selecteer de beweegrichting t.o.v de stad'),
+            html.Div([dcc.Dropdown(id='direction',
+                                   options=[{'label': nametitle, 'value': name} for nametitle, name in
+                                            zip(["van", "naar"], ["From", "To"])]
+                                   )], style={'width': '20%', 'display': 'inline-block', 'vertical-align': 'top'}),
+
+            html.H3('Selecteer de factor'),
+            html.Div([dcc.Dropdown(id='factor',
+                                   options=[{'label': nametitle, 'value': name} for nametitle, name in
+                                            zip(["Beschikbaarheid huizen", "Gemiddelde Huizenprijs",
+                                                 "Populatie grootte"],
+                                                ["availability_other", "prices_other", "population_other"])],
+                                   value=1)], style={'width': '20%', 'display': 'inline-block', 'vertical-align': 'top'}),
+
+            html.H3('Selecteer de sorteer factor'),
+            html.Div([dcc.Dropdown(id='sorting',
+                                   options=[{'label': nametitle, 'value': name} for nametitle, name in
+                                            zip(["Sorteer op verhuizingen", "Sorteer op gekozen factor"],
+                                                [True, False])],
+                                   value=1)], style={'width': '20%', 'display': 'inline-block', 'vertical-align': 'top'}),
+
+            html.H3('Select the years of interest'),
+            html.Div(
+                [dcc.Checklist(id='year_checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True), ],
+                style={'width': '20%', 'display': 'inline-block', 'vertical-align': 'top'}),
+
+        ], className='row'),
+
+        html.Div(children=[
+            # Place the map
+            html.H4("Kaart"),
+            html.Div(
+                [dcc.Graph(id='choropleth')])
+        ])])
 
     # Make callbacks to update selection
+    @app.callback(
+        Output(component_id='choropleth', component_property='figure'),
+        Input(component_id='city', component_property='value'),
+        Input(component_id='direction', component_property='value'),
+        Input(component_id='factor', component_property='value'),
+        Input(component_id='sorting', component_property='value'),
+        Input(component_id='year_checklist', component_property='value')
+    )
+    # Call make_choropleth to update the figure
+    def update_figure(city, direction, factor, sorting, year_checklist):
+        """
+        Calls make_choropleth with the chosen variables and updates the dash app.
+        """
+        new_choropleth = make_choropleth(geojson_file=geojson_file, city=city, to_from=direction, factor=factor,
+                                         years=year_checklist, sorting=sorting)
+        return new_choropleth
 
     app.run_server(debug=False, dev_tools_ui=False)
-    # TODO: Hier zouden die callbacks moeten plaatsvinden om make_choropleth aan te roepen. Geen idee hoe.
-    #  Het format om make_choropleth aan te roepen is the vinden in de desbetreffende docstring.
-    #  De waardes in de dash layout zips zijn al zoals ze worden verwacht in de make_chooropleth() functie.
 
 
 if __name__ == '__main__':
