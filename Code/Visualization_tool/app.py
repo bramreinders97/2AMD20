@@ -57,24 +57,29 @@ def prepare_dataset(city, to_from, factor, years):
     if factor != 'all':
         df = df[['gemeente_code', 'gemeente_naam', 'year', 'moves', factor]]
 
-    # Drop irrelevant years
-    df = df.loc[(df['year'].isin(years))]
+    # Drop irrelevant years, bit convoluted but whatever
+    non_years = {2016, 2017, 2018, 2019, 2020} - set(years)
+    for year in non_years:
+        df = df.drop(df[df.year == year].index)
 
     # If the user wants more than one year, we need to aggregate the data of those years
     if len(years) > 1:
         df = aggregate_dataframe(dataframe=df, factor=factor)
 
+    # Convert columns to new types
+    df = df.astype({"gemeente_code": str, "gemeente_naam": str, "year": float, "moves": float, factor: float})
+
     return df
 
 
-def make_choropleth(geojson_file, city='Amsterdam', to_from='To', factor='prices', years=None, sorting=True):
+def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='prices_other', years=None, sorting=True):
     """
     Function to make the actual choropleth figure.
     Should be called on whenever the user presses an update button somewhere in the dash_app.
     :param geojson_file: A geojson file with the municipality data. (geojson)
     :param city: One of the top 10 cities. (string, with capital letter)
     :param to_from: Whether we want data to or from that city. (string, either To or From, with capitals)
-    :param factor: Which factor we want to display. (String, no capital letters)
+    :param factor: Which factor we want to display. (String, no capital letters, format = "factor_other")
     :param years: Which years are chosen. (List of ints)
     :param sorting: A boolean, signifying whether we want to color the choropleth based on moves (True)
                     or based on the chosen factor (False).
@@ -85,9 +90,6 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='To', factor='prices
     if years is None:
         years = [2016]
 
-    # I believe bram constructed the column name to be this format, so we need to change factor
-    factor = factor + '_other'
-
     # Prepare dataset according to the chosen parameters
     df = prepare_dataset(city=city, to_from=to_from, factor=factor, years=years)
 
@@ -95,23 +97,25 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='To', factor='prices
     if sorting:
         color = 'moves'
     else:
-        color = factor + '_other'
+        color = factor
 
     # Make the actual choropleth
     fig = px.choropleth_mapbox(df,
                                geojson=geojson_file,
                                color=color,
-                               locations="RegioS",
+                               locations="gemeente_code",
                                featureidkey="properties.statcode",
                                range_color=[min(df[factor]), max(df[factor])],
                                zoom=9,
+                               hover_name=df["gemeente_naam"],
+                               hover_data=["moves", factor, "year"],
                                center={"lat": 52.370216, "lon": 4.895168},
                                mapbox_style="carto-positron",
                                opacity=0.5)
 
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.update_geos(fitbounds="locations", visible=False)
-
+    print("Ya")
     return fig
 
 
@@ -123,35 +127,37 @@ def main(geojson_file):
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
     app.layout = html.Div([
+
         html.H1('Visualization of Movement in the Netherlands'),
-        html.H3('Select the City'),
-        # Al die zips moeten ingevuld worden en gelinkt aan onze daadwerklijke data
+        html.H3('Selecteer een van de 10 grootste steden'),
+
         html.Div([
             dcc.Dropdown(id='city',
-                         options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                  zip([1, 2], ["Adam", "Rdam"])],
-                         value=1)
+                         options=["Almere", "Amsterdam", "Breda", "DenHaag", "Eindhoven", "Groningen",
+                                               "Nijmegen", "Rotterdam", "Tilburg", "Utrecht"]
+                         )
         ], style={'width': '20%'}),
-        html.H3('Select the Direction'),
+        html.H3('Selecteer de beweegrichting t.o.v de stad'),
         html.Div([dcc.Dropdown(id='direction',
                                options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                        zip([1, 2], ["van", "naar"])],
+                                        zip(["van", "naar"], ["From", "To"])],
                                value=1)], style={'width': '20%'}),
-        html.H3('Select the factor'),
+        html.H3('Selecteer de factor'),
         html.Div([dcc.Dropdown(id='factor',
                                options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                        zip([1, 2], ["van", "naar"])],
+                                        zip(["Beschikbaarheid huizen", "Gemiddelde Huizenprijs", "Populatie grootte"],
+                                            ["prices_other", "prices_other", "availability_other"])],
                                value=1)], style={'width': '20%'}),
-        html.H3('Select the sorting'),
+        html.H3('Selecteer de sorteer factor'),
         html.Div([dcc.Dropdown(id='sorting',
                                options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                        zip([1, 2], ["van", "naar"])],
+                                        zip(["Sorteer op verhuizingen", "Sorteer op gekozen factor"], [True, False])],
                                value=1)], style={'width': '20%'}),
         html.H3('Select the years of interest'),
         html.Div(
             [dcc.Checklist(id='year-checklist', options=[2016, 2017, 2018, 2019, 2020], value=2016, inline=True)]),
 
-        html.H4("BigMap"),
+        html.H4("Kaart"),
         html.Div(
             [dcc.Graph(id='example-graph-1', figure=fig)])])
 
@@ -160,8 +166,7 @@ def main(geojson_file):
     app.run_server(debug=False, dev_tools_ui=False)
     # TODO: Hier zouden die callbacks moeten plaatsvinden om make_choropleth aan te roepen. Geen idee hoe.
     #  Het format om make_choropleth aan te roepen is the vinden in de desbetreffende docstring.
-
-
+    #  De waardes in de dash layout zips zijn al zoals ze worden verwacht in de make_chooropleth() functie.
 
 
 if __name__ == '__main__':
