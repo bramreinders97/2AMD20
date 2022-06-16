@@ -2,6 +2,8 @@ import geojson
 import plotly.express as px
 from dash import Dash, Input, Output, dcc, html
 from pandas import read_pickle
+import pandas as pd
+import re
 
 
 def load_geojson():
@@ -15,11 +17,47 @@ def load_geojson():
     return geojson_data
 
 
+def make_table(df, city, factor):
+    """
+    Makes a small table about the city and the top 10 cities that are being moved from/to.
+    :param factor: The factor chosen. (String in the format "factor_other")
+    :param df: The full dataframe that has been imported. (Pandas df)
+    :param city: The subject city. (A string with a capital)
+    :return: A dataframe with index 0 being the subject city and the other 10 rows the top 10 cities that move to/from
+             this one.
+    """
+
+    # Here we get the value for the city
+    new_factor = re.sub("other", 'top_10', factor)
+    city_df = df.drop(df[df.year != 2020].index)
+    city_factor = city_df.iloc[0][new_factor]
+
+    # First aggregate move data, but fuck the years
+    header_agg = {'moves': 'sum',
+                  factor: 'last'
+                  }
+    df = df.groupby(['gemeente_code', 'gemeente_naam']).agg(header_agg).reset_index()
+
+    # Sort new dataframe on moves and keep the top 10
+    df = df.sort_values(['moves'], ascending=False).head(n=10)
+    df.drop('gemeente_code', axis=1, inplace=True)
+
+    # Prepend the subject city
+    df2 = pd.DataFrame({'gemeente_naam': [city], 'moves': [None], factor: [city_factor]})
+    df = pd.concat([df2, df], ignore_index=True, axis=0)
+
+    # Rename the column headers in the table
+    factorB = re.sub("_other", '', factor)
+    df = df.rename(columns={"moves": "Totaal verhuizingen", factor: factorB})
+
+    return df
+
+
 def aggregate_dataframe(dataframe, factor):
     """
     This function is called whenever we have more than one year selected.
     In that case we need to aggregate the data of those years.  At least for the moves it should be summed.
-    It assumes that the dataframe has already thrown out the year that are not relevant.
+    It assumes that the dataframe has already thrown out the years that are not relevant.
     :param dataframe: The dataframe that needs aggregated data (Pandas df)
     :param factor: The chosen factor. (string with '_other' appended)
     :return: pandas dataframe with the moves columns aggregated.
@@ -32,7 +70,6 @@ def aggregate_dataframe(dataframe, factor):
 
     # This is where the aggregation happens:
     aggregated_dataframe = dataframe.groupby(['gemeente_code', 'gemeente_naam', 'year']).agg(header_agg).reset_index()
-
     return aggregated_dataframe
 
 
@@ -51,23 +88,26 @@ def prepare_dataset(city, to_from, factor, years):
     df_path = base_df_path + to_from + '_' + city + '.pkl'
     df = read_pickle(df_path)
 
-    # Drop irrelevant columns unless specified that we want all columns
-    if factor != 'all':
-        df = df[['gemeente_code', 'gemeente_naam', 'year', 'moves', factor]]
-
     # Convert columns to new types
     df = df.astype({"gemeente_code": str, "gemeente_naam": str, "year": float, "moves": float, factor: float})
+
+    # Save this one for the table
+    full_df = df
 
     # Drop irrelevant years, bit convoluted but whatever
     non_years = {2016, 2017, 2018, 2019, 2020} - set(years)
     for year in non_years:
         df = df.drop(df[df.year == int(year)].index)
 
+    # Drop irrelevant columns unless specified that we want all columns
+    if factor != 'all':
+        df = df[['gemeente_code', 'gemeente_naam', 'year', 'moves', factor]]
+
     # If the user wants more than one year, we need to aggregate the data of those years
     if len(years) > 1:
         df = aggregate_dataframe(dataframe=df, factor=factor)
 
-    return df
+    return df, full_df
 
 
 def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='prices_other', years=None, sorting=True):
@@ -84,12 +124,12 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='pric
     :return: Returns a figure.
     """
 
-    # This is just a default parameter, because i don't know how dash updates itself.
     if years is None:
         years = [2016]
 
     # Prepare dataset according to the chosen parameters
-    df = prepare_dataset(city=city, to_from=to_from, factor=factor, years=years)
+
+    df, full_df = prepare_dataset(city=city, to_from=to_from, factor=factor, years=years)
 
     # Decide what factor to base the choropleth colouring on. If multiple years, only show based on moves.
     if sorting or len(years) > 1:
@@ -114,7 +154,10 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='pric
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.update_geos(fitbounds="locations", visible=False)
 
-    return fig
+    # Also make a new table
+    table = make_table(full_df, city, factor)
+
+    return fig, table
 
 
 def main(geojson_file):
@@ -126,7 +169,7 @@ def main(geojson_file):
     # Create dash board
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
-    fig = make_choropleth(geojson_file)
+    fig, table = make_choropleth(geojson_file)
     fig.update_layout(
         margin=dict(
             l=0,
@@ -180,6 +223,7 @@ def main(geojson_file):
             html.Div(
                 [html.H3('Select the years of interest'),
                  dcc.Checklist(id='year_checklist', options=[2016, 2017, 2018, 2019, 2020], inline=True,
+                               value=[2016, 2017, 2018, 2019, 2020],
                                style={'margin-top': '25px'}), ],
                 style={'width': '15%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
 
@@ -206,8 +250,9 @@ def main(geojson_file):
         """
         Calls make_choropleth with the chosen variables and updates the dash app.
         """
-        new_choropleth = make_choropleth(geojson_file=geojson_file, city=city, to_from=direction, factor=factor,
-                                         years=year_checklist, sorting=sorting)
+        new_choropleth, new_table = make_choropleth(geojson_file=geojson_file, city=city, to_from=direction,
+                                                    factor=factor,
+                                                    years=year_checklist, sorting=sorting)
         new_choropleth.update_layout(
             margin=dict(
                 l=0,
