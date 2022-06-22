@@ -1,6 +1,6 @@
 import geojson
 import plotly.express as px
-from dash import Dash, Input, Output, dcc, html
+from dash import Dash, Input, Output, dcc, html, dash_table
 from pandas import read_pickle
 import pandas as pd
 import re
@@ -145,6 +145,7 @@ def make_choropleth(geojson_file, city='Amsterdam', to_from='From', factor='pric
                                featureidkey="properties.statcode",
                                range_color=[min(df[color]), max(df[color])],
                                zoom=6,
+                               color_continuous_scale= 'Reds',
                                hover_name=df["gemeente_naam"],
                                hover_data=["moves", factor, "year"],
                                center={"lat": 52.2130, "lon": 5.2794},
@@ -170,6 +171,7 @@ def main(geojson_file):
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
     fig, table = make_choropleth(geojson_file)
+    print(table)
     fig.update_layout(
         margin=dict(
             l=0,
@@ -193,52 +195,58 @@ def main(geojson_file):
                              options=["Almere", "Amsterdam", "Breda", "DenHaag", "Eindhoven", "Groningen",
                                       "Nijmegen", "Rotterdam", "Tilburg", "Utrecht"], value="Amsterdam"
                              )
-            ], style={'width': '15%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
+            ], style={'width': '18%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
 
             html.Div([html.H3('Movement Reason'),
                       dcc.Dropdown(id='direction',
                                    options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                            zip(["van", "naar"], ["From", "To"])], value="From"
+                                            zip(["From", "Towards"], ["From", "To"])], value="From"
                                    )],
-                     style={'width': '15%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
+                     style={'width': '18%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
 
             html.Div([html.H3('Coloring Factor'),
                       dcc.Dropdown(id='factor',
                                    options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                            zip(["Beschikbaarheid huizen", "Gemiddelde Huizenprijs",
-                                                 "Populatie grootte"],
+                                            zip(["Housing Availability", "Average Housing Prices",
+                                                 "Population Size"],
                                                 ["availability_other", "prices_other", "population_other"])],
                                    value="prices_other"
                                    )],
-                     style={'width': '15%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
+                     style={'width': '18%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
 
             html.Div([html.H3('Sorting Factor'),
                       dcc.Dropdown(id='sorting',
                                    options=[{'label': nametitle, 'value': name} for nametitle, name in
-                                            zip(["Sorteer op verhuizingen", "Sorteer op gekozen factor"],
+                                            zip(["Sort on Movement", "Sort on Chosen Factor"],
                                                 [True, False])], value=True,
                                    )],
-                     style={'width': '15%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
+                     style={'width': '18%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
 
             html.Div(
-                [html.H3('Select the years of interest'),
+                [html.H3('Select Years'),
                  dcc.Checklist(id='year_checklist', options=[2016, 2017, 2018, 2019, 2020], inline=True,
                                value=[2016, 2017, 2018, 2019, 2020],
                                style={'margin-top': '25px'}), ],
-                style={'width': '15%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
+                style={'width': '18%', 'vertical-align': 'top', 'display': 'inline-block', 'margin-left': '15px'}),
+
 
         ]),
-
+        
         html.Div(children=[
             # Place the map
-            html.H4("Kaart"),
+            html.H4("Map"),
             html.Div(
                 [dcc.Graph(id='choropleth', figure=fig)])
-        ])])
+        ]),
+                        html.Div(children=[
+            html.H4("Table"),
+            html.Div([dash_table.DataTable(table.to_dict('records'), [{"name": i, "id": i} for i in table.columns], id = "datatable")])
+        ]),])
 
     # Make callbacks to update selection
     @app.callback(
         Output(component_id='choropleth', component_property='figure'),
+        Output(component_id ='datatable', component_property='data'),
         Input(component_id='city', component_property='value'),
         Input(component_id='direction', component_property='value'),
         Input(component_id='factor', component_property='value'),
@@ -263,8 +271,10 @@ def main(geojson_file):
                 autoexpand=True
             ), height=800
         )
-        return new_choropleth
 
+        
+
+        return new_choropleth, new_table.to_dict('records')
     app.run_server(debug=False, dev_tools_ui=False)
 
 
