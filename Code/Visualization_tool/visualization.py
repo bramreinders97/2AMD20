@@ -49,7 +49,6 @@ def make_table(df, city, factor):
     # Rename the column headers in the table
     factorB = re.sub("_other", '', factor)
     df = df.rename(columns={"moves": "Totaal verhuizingen", factor: factorB})
-
     return df
 
 
@@ -171,7 +170,6 @@ def main(geojson_file):
     app = Dash(__name__)
     app.title = "Knowledge Engineering Visualization"
     fig, table = make_choropleth(geojson_file)
-    print(table)
     fig.update_layout(
         margin=dict(
             l=0,
@@ -247,6 +245,7 @@ def main(geojson_file):
     @app.callback(
         Output(component_id='choropleth', component_property='figure'),
         Output(component_id ='datatable', component_property='data'),
+        Output(component_id = 'datatable', component_property='columns'),
         Input(component_id='city', component_property='value'),
         Input(component_id='direction', component_property='value'),
         Input(component_id='factor', component_property='value'),
@@ -272,9 +271,7 @@ def main(geojson_file):
             ), height=800
         )
 
-        
-
-        return new_choropleth, new_table.to_dict('records')
+        return new_choropleth, new_table.to_dict('records'), [{"name": i, "id": i} for i in new_table.columns]
     app.run_server(debug=False, dev_tools_ui=False)
 
 
